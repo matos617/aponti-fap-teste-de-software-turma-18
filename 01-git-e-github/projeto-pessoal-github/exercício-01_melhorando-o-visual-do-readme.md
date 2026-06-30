@@ -43,14 +43,76 @@ A junção do **_negrito e itálico_**
 ---
 
 ## Listas enumeradas e com marcadores
+### Listas enumeradas (número + ponto)
+```
+1. Primeiro
+2. Segundo
+3. Terceiro
+4. Quarto
+```
+Resultado:
+1. Primeiro
+2. Segundo
+3. Terceiro
+4. Quarto
+
+#### itens da lista
+Para aninhar itens de linha em uma lista ordenada, recue os itens quatro espaços ou uma guia.
+```
+1. Primeiro
+2. Segundo
+3. Terceiro
+  1. Indentado intém
+  2. Indentado intém
+4. Quarto
+```
+Resultado:
+1. Primeiro
+2. Segundo
+3. Terceiro
+  1. Indentado intém
+  2. Indentado intém
+4. Quarto
 
 ---
 
 ## Linhas horizontais
+Há três formas de fazer as linhas de separação:
+```
+3 Hífens:
+---
+3 Asteriscos
+***
+3 Underscore
+___
+```
+Todos dão o mesmo resultado:
+3 Hífens:
+---
+3 Asteriscos
+***
+3 Underscore
+___
 
 ---
 
 ## Blocos de código
+Pra imitanr o _bash_ se usa ``` (três crases) ou ~~~ (três tils).
+```
+``` Olá Mundo. ```
+```
+Para ativar a sintaxe de determinado código, se coloca o nome da linguagem ao lado depois dos primeiros tils ou crases:
+```
+```python
+s = "Sintaxe do Python"
+print s ```
+```
+Resultado:
+```python
+s = "Sintaxe do Python"
+print s
+```
+
 
 ---
 
