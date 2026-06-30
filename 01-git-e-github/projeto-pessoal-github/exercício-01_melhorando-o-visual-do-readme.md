@@ -29,13 +29,13 @@ Palavra em **negrito**.
 Outra paralvra em __negrito__
 ```
 ### Itálico
-Sintaxe do *itálico*
+Sintaxe do *itálico*:
 ```
 Palavra em *itálico*.
 Outra palavra em _itálico_.
 ```
 ### Negrito + itálico
-A junção do **_negrito e itálico_**
+A junção do **_negrito e itálico_**:
 ```
 **_Esta frase está em negrito e itálico ao mesmo tempo._**
 ```
