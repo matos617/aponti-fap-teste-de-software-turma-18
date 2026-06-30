@@ -70,8 +70,8 @@ Resultado:
 1. Primeiro
 2. Segundo
 3. Terceiro
-  1. Indentado intém
-  2. Indentado intém
+    1. Indentado intém
+    2. Indentado intém
 4. Quarto
 
 ---
@@ -87,6 +87,7 @@ Há três formas de fazer as linhas de separação:
 ___
 ```
 Todos dão o mesmo resultado:
+
 3 Hífens:
 ---
 3 Asteriscos
@@ -112,7 +113,6 @@ Resultado:
 s = "Sintaxe do Python"
 print s
 ```
-
 
 ---
 
