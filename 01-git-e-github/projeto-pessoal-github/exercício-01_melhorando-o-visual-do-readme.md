@@ -2,18 +2,18 @@
 Uso da linguagem do Markdown para um melhor visual e a sintaxe do seu repositório no GitHub.
 
 ## Títulos e Subtítulos
-Hierarquia/Sintaxe:
+Hierarquia/Sintaxe: # > ## > ### > #### > ##### > ######
 ```
-# Título 1
-## Título 2
+# Título 1 (príncipal)
+## Título 2 (subtítulo)
 ### Título 3 
 #### Título 4
 ##### Título 5
 ###### Título 6
 ```
 Demonstração:
-# Título 1 (príncipal)
-## Título 2 (subtítulo)
+# Título 1 
+## Título 2 
 ### Título 3 
 #### Título 4
 ##### Título 5
