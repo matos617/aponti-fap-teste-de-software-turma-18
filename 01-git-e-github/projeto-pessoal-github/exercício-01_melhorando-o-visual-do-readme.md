@@ -88,11 +88,11 @@ ___
 ```
 Todos dão o mesmo resultado:
 
-3 Hífens:
+### 3 Hífens:
 ---
-3 Asteriscos
+### 3 Asteriscos
 ***
-3 Underscore
+### 3 Underscore
 ___
 
 ---
@@ -102,6 +102,8 @@ Pra imitanr o _bash_ se usa ``` (três crases) ou ~~~ (três tils).
 ```
 ``` Olá Mundo. ```
 ```
+Resultado:
+``` Olá Mundo. ```
 Para ativar a sintaxe de determinado código, se coloca o nome da linguagem ao lado depois dos primeiros tils ou crases:
 ```
 ```python
