@@ -12,8 +12,8 @@ Hierarquia/Sintaxe:
 ###### Título 6
 ```
 Demonstração:
-# Título 1
-## Título 2
+# Título 1 (príncipal)
+## Título 2 (subtítulo)
 ### Título 3 
 #### Título 4
 ##### Título 5
