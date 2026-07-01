@@ -52,7 +52,15 @@ Resultado:
 
 ## :page_facing_up: Um arquivo PDF;
 
-[Veja o PDF do projeto](../pdf/PROJETO PESSOAL GITHUB.pdf).
+Basta adicionar o endereço do pdf nos `()`:
+
+```
+Veja o [PDF do projeto](../pdf/projeto-pessoal-github.pdf).
+```
+
+Resultado:
+
+Veja o ![PDF do projeto](../pdf/projeto-pessoal-github.pdf).
 
 ---
 
