@@ -16,7 +16,7 @@ Para linkar até um arquivo dentro do projeto deve-se adicionar um arquivo no me
 ```
 Veja a imagem com todos os [Comandos Git](01-git-e-github/imagens/Comandos_Git_Guia.jpeg).
 ```
-Veja a imagem com todos os [Comandos Git](01-git-e-github/imagens/Comandos_Git_Guia.jpeg).
+Veja a imagem com todos os [Comandos Git](Comandos_Git_Guia.jpeg).
 
 ---
 
