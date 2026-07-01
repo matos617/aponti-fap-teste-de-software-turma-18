@@ -36,4 +36,18 @@ projeto/
 1. Clone este repositório:
    ```bash
    git clone https://github.com/usuario/projeto.git
-```
+   ```
+2. Acesse a pasta do projeto:
+   ```bash
+   cd projeto
+   ```
+3. Execute o arquivo principal:
+   ```bash
+   python src/main.py
+   ```
+
+---
+
+## Autor
+Desenvolvido por **Nome**  
+`[LinkedIn](https://www.linkedin.com/in/seu-perfil)` | `[GitHub](https://github.com/seu-usuario)`
