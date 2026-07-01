@@ -20,10 +20,13 @@ Demonstração:
 ---
 
 ## Ênfase
-### Negrito
-Sintaxe do **negrito**:
+Elemento | Sintaxe | Resultado
+:--------|:-------:|----------:
+Negrito  | `**Texto em negrito** ou __Texto em negrito__`| **Texto em negrito**
+Itálico  | `*Texto em itálico* ou _Texto em itálico_`  | *Texto em itálico*
+Negrito e Itálico | `***Texto em negrito e itálico*** ou **_Texto em negrito e itálico_**` | ***Texto em negrito e itálico***
+
 ```
-Palavra em **negrito**.
 Outra paralvra em __negrito__
 ```
 ### Itálico
