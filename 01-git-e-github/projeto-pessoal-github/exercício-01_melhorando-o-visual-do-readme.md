@@ -42,7 +42,7 @@ Resultado:
 3. Terceiro
 4. Quarto
 
-### Listas não ordenadas (ó só usar o hífen [-])
+### Listas não ordenadas (basta só usar o hífen [-])
 - Texto
 - Texto 2
 - Texto 3
