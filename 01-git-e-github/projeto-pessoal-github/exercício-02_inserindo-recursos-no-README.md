@@ -60,8 +60,9 @@ Veja o [PDF do projeto](../pdf/projeto-pessoal-github.pdf).
 
 Resultado:
 
-Veja o ![PDF do projeto](../pdf/projeto-pessoal-github.pdf).
+Veja o [PDF do projeto](../pdf/projeto-pessoal-github.pdf).
 
 ---
 
 ## :sparkler: Um GIF.
+Da mesma forma que se adiciona uma imagem.
