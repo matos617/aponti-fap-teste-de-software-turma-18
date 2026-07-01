@@ -28,6 +28,8 @@ Resultado:
 
 ## :framed_picture: Uma imagem
 
+### Imagem dentro do repositório
+
 Para inserir uma imagem do projeto dentro do arquivo deve-se adicionar um imagem no mesmo projeto, ir até nele e copiar seu endereço, e adicionar o `!` antes do `[]` (para o markdown entender que se trata de uma imagem e inserí-la no `arquivo.md`) e o endereço dentro dos `()`:
 
 ```
@@ -47,6 +49,7 @@ Este *Exercício 02* está em `01-git-e-github/projeto-pessoal-github/`, e a ima
 
 Se a imagem estivesse na mesma pasta do *Exercício 02*, seria apenas `[Veja o guia de Comandos Git](Comandos_Git_Guia.jpeg)`.
 
+### Imagem externa
 Se a imagem a ser inserida for externa, basta usar a mesma base, mas usando o endereço da imagem nos `()`:
 
 ![GitHub](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/12/gitHub.png)
