@@ -11,7 +11,7 @@ Resultado:
 
 ---
 
-## :pushpin: Um link para outro arquivo do projeto;
+## :pushpin: Um link para outro arquivo do projeto
 Para adicionar um link para ir à outro arquivo do mesmo projeto, basta copiar e adicionar o endereço do arquivo ao lugar da url:
 ```
 [Veja como melhorar o visual do seu README no GitHub no Exercício 1](exercício-01_melhorando-o-visual-do-readme.md)
