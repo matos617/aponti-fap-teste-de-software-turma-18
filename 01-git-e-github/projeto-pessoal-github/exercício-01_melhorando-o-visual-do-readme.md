@@ -26,21 +26,6 @@ Negrito  | `**Texto em negrito** ou __Texto em negrito__`| **Texto em negrito**
 Itálico  | `*Texto em itálico* ou _Texto em itálico_`  | *Texto em itálico*
 Negrito e Itálico | `***Texto em negrito e itálico*** ou **_Texto em negrito e itálico_**` | ***Texto em negrito e itálico***
 
-```
-Outra paralvra em __negrito__
-```
-### Itálico
-Sintaxe do *itálico*:
-```
-Palavra em *itálico*.
-Outra palavra em _itálico_.
-```
-### Negrito + itálico
-A junção do **_negrito e itálico_**:
-```
-**_Esta frase está em negrito e itálico ao mesmo tempo._**
-```
-
 ---
 
 ## Listas enumeradas e com marcadores
