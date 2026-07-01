@@ -29,3 +29,8 @@ def soma(a, b):
 resultado = soma(5, 3)
 print("O resultado da soma é:", resultado)
 ```
+
+---
+
+## Créditos
+- [Lista de comandos úteis do GIT](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
