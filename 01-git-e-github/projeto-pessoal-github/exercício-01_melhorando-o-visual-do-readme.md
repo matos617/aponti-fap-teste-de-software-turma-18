@@ -96,10 +96,11 @@ ___
 
 ## Blocos de código
 Pra imitanr o _bash_ se usa ``` (três crases) ou ~~~ (três tils).
+~~~
 ```
-<```Olá Mundo.
-```>
+Olá Mundo.
 ```
+~~~
 Resultado:
 ```
 Olá Mundo.
