@@ -108,7 +108,7 @@ Para apenas uma linha de código/um código, se usa `` na palavra/código.
 
 Código inline | Resultado
 --------------|-----------
-``código``  | `código`
+``` `código` ```  | `código`
 ---
 
 ## Emojis
