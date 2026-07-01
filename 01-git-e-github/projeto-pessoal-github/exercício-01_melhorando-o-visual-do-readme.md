@@ -1,7 +1,7 @@
 # Melhorando o visual do README
 Uso da linguagem do Markdown para um melhor visual e a sintaxe do seu repositório no GitHub.
 
-## Títulos e Subtítulos
+## :pencil2: Títulos e Subtítulos
 Hierarquia/Sintaxe: # > ## > ### > #### > ##### > ######
 ```
 # H1 - Título Principal
@@ -19,7 +19,7 @@ Demonstração:
 
 ---
 
-## Ênfase
+## :abc: Ênfase
 Elemento | Sintaxe | Resultado
 :--------|:-------:|----------:
 Negrito  | `**Texto em negrito** ou __Texto em negrito__`| **Texto em negrito**
@@ -51,6 +51,16 @@ Para aninhar itens de linha em uma lista ordenada, recue os itens quatro espaço
   1. Indentado intém
   2. Indentado intém
 4. Quarto
+
+ou
+
+1. Primeiro
+2. Segundo
+3. Terceiro
+    - Indentado intém
+    - Indentado intém
+4. Quarto
+
 ```
 Resultado:
 1. Primeiro
@@ -60,9 +70,16 @@ Resultado:
     2. Indentado intém
 4. Quarto
 
+1. Primeiro
+2. Segundo
+3. Terceiro
+    - Indentado intém
+    - Indentado intém
+4. Quarto
+
 ---
 
-## Linhas horizontais
+## :heavy_minus_sign: Linhas horizontais
 Há três formas de fazer as linhas de separação:
 ```
 3 Hífens:
@@ -83,7 +100,7 @@ ___
 
 ---
 
-## Blocos de código
+## :computer: Blocos de código
 Pra imitanr o _bash_ se usa ``` (três crases) ou ~~~ (três tils).
 ~~~
 ```
@@ -112,7 +129,7 @@ Código inline | Resultado
 
 ---
 
-## Emojis
+## :grinning: Emojis
 Para usar um emoji no Markdown, coloque `nome_do_emoji` entre dois pontos (:):
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 
@@ -122,5 +139,5 @@ Será nescessário buscar o nome de qual emoji irá querer usar, ou simplesmente
 
 ---
 
-## Tabelas
-Títulos são 
+## :straight_ruler: Tabelas
+
