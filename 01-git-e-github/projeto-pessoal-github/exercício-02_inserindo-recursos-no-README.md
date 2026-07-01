@@ -61,7 +61,7 @@ Imagem sobre o [GitHub](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/up
 
 ---
 
-## :page_facing_up: Um arquivo PDF;
+## :page_facing_up: Um arquivo PDF
 
 Basta adicionar o endereço do pdf nos `()`:
 
@@ -75,7 +75,7 @@ Veja o [PDF do projeto](../pdf/projeto-pessoal-github.pdf).
 
 ---
 
-## :sparkler: Um GIF.
+## :sparkler: Um GIF
 Da mesma forma que se adiciona uma imagem:
 ```
 ![Nya Cat](../gif/nyan-cat-animated.gif)
@@ -87,7 +87,7 @@ Resultado:
 
 ---
 
-## Créditos
+## Créditos:
 
-- [Créditos da imagem](https://aprendiendoarduino.wordpress.com/tag/github/)
+- [Créditos da imagem do GitHub](https://aprendiendoarduino.wordpress.com/tag/github/)
 - [Sintaxe de Ligações](https://www.markdownlang.com/pt/basic/links.html)
