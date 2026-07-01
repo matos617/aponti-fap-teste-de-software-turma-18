@@ -49,7 +49,7 @@ Se a imagem estivesse na mesma pasta do *Exercício 02*, seria apenas `[Veja o g
 
 Se a imagem a ser inserida for externa, basta usar a mesma base, mas usando o endereço da imagem nos `()`:
 
-![GitHub]([https://th.bing.com/th/id/R.d602152f52d405b512e104738a5d3554?rik=pRfd7kygN1ZV9A&pid=ImgRaw&r=0](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/12/gitHub.png))
+![GitHub](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/12/gitHub.png)
 
 Caso não queira inserir a imagem em seu `arquivo.md`, basta tirar o `!` no início que o link estará em texto:
 ```
@@ -57,7 +57,9 @@ Caso não queira inserir a imagem em seu `arquivo.md`, basta tirar o `!` no iní
 ```
 Resultado:
 
-![GitHub]([https://th.bing.com/th/id/R.d602152f52d405b512e104738a5d3554?rik=pRfd7kygN1ZV9A&pid=ImgRaw&r=0](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/12/gitHub.png))
+[GitHub](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/12/gitHub.png)
+
+[Créditos da imagem](https://aprendiendoarduino.wordpress.com/tag/github/)
 
 ---
 
