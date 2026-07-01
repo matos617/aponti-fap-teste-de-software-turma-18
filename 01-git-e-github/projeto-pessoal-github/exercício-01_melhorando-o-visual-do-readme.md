@@ -98,18 +98,18 @@ ___
 Pra imitanr o _bash_ se usa ``` (três crases) ou ~~~ (três tils).
 ~~~
 ```
-Olá Mundo.
+Olá Mundo!
 ```
 ~~~
 Resultado:
 ```
-Olá Mundo.
+Olá Mundo!
 ```
 Para ativar a sintaxe de determinado código, se coloca o nome da linguagem ao lado depois dos primeiros tils ou crases:
-```
+~~~
 ```python
 print("Olá Mundo!") ```
-```
+~~~
 Resultado:
 ```python
 print("Olá Mundo!")
