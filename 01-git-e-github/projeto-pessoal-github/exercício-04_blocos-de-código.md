@@ -1,6 +1,6 @@
 # Exercício 4 – Blocos de código
 
-## Exemplos de comandos utilizando blocos de código
+## Exemplos de comandos utilizando blocos de código:
 
 ### :pushpin: Comandos Git
 ```bash
