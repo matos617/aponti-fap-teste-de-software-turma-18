@@ -18,7 +18,7 @@ Resultado:
 
 ## :framed_picture: Uma imagem
 
-Para inserir uma imagem dentro do projeto deve-se adicionar um imagem no mesmo repositório, ir até nele e copiar seu endereço, e adicionar o `!` antes do `[]` (para o markdown entender que se trata de uma imagem) e o endereço dentro dos `()`:
+Para inserir uma imagem dentro do projeto deve-se adicionar um imagem no mesmo projeto, ir até nele e copiar seu endereço, e adicionar o `!` antes do `[]` (para o markdown entender que se trata de uma imagem e inserí-la no `arquivo.md`) e o endereço dentro dos `()`:
 ```
 Veja a imagem com todos os ![Comandos Git](../imagens/Comandos_Git_Guia.jpeg).
 ```
@@ -32,6 +32,13 @@ Se a imagem estivesse na mesma pasta do *Exercício 02*, seria apenas `[Veja o g
 
 Se a imagem a ser inserida for externa, basta usar a mesma base, mas usando o endereço da imagem nos `()`:
 
+![Comandos Básicos de Git](https://th.bing.com/th/id/R.d602152f52d405b512e104738a5d3554?rik=pRfd7kygN1ZV9A&pid=ImgRaw&r=0)
+
+Caso não queira inserir a imagem em seu `arquivo.md`, basta tirar o `!` no início que o link estará em texto:
+```
+[Comandos Básicos de Git](https://th.bing.com/th/id/R.d602152f52d405b512e104738a5d3554?rik=pRfd7kygN1ZV9A&pid=ImgRaw&r=0)
+```
+Resultado:
 [Comandos Básicos de Git](https://th.bing.com/th/id/R.d602152f52d405b512e104738a5d3554?rik=pRfd7kygN1ZV9A&pid=ImgRaw&r=0)
 
 ---
