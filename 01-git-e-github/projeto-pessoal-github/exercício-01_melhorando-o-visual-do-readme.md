@@ -1,5 +1,5 @@
 # Exercício 01 - Melhorando o visual do README
-Uso da linguagem do Markdown para um melhor visual e a sintaxe do seu repositório no GitHub.
+Uso da linguagem do Markdown para um melhor visual e sintaxe do seu repositório no GitHub.
 
 ## :pencil2: Títulos e Subtítulos
 Hierarquia/Sintaxe: # > ## > ### > #### > ##### > ######
@@ -16,6 +16,7 @@ Demonstração:
 ## SubTítulo 1.1
 ### Tópico 1.1.1
 ### Tópico 1.1.2
+### Tópico 1.1.3
 
 ---
 
