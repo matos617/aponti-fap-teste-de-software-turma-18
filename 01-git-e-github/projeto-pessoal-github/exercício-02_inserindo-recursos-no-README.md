@@ -57,9 +57,7 @@ Caso não queira inserir a imagem em seu `arquivo.md`, basta tirar o `!` no iní
 ```
 Resultado:
 
-[GitHub](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/12/gitHub.png)
-
-[Créditos da imagem](https://aprendiendoarduino.wordpress.com/tag/github/)
+Imagem sobre o [GitHub](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/12/gitHub.png)
 
 ---
 
@@ -86,3 +84,10 @@ Da mesma forma que se adiciona uma imagem:
 Resultado:
 
 ![Nya Cat](../gif/nyan-cat-animated.gif)
+
+---
+
+## Créditos
+
+- [Créditos da imagem](https://aprendiendoarduino.wordpress.com/tag/github/)
+- [Sintaxe de Ligações](https://www.markdownlang.com/pt/basic/links.html)
