@@ -104,13 +104,11 @@ Resultado:
 Para ativar a sintaxe de determinado código, se coloca o nome da linguagem ao lado depois dos primeiros tils ou crases:
 ```
 ```python
-s = "Sintaxe do Python"
-print s ```
+print("Olá Mundo!") ```
 ```
 Resultado:
 ```python
-s = "Sintaxe do Python"
-print s
+print("Olá Mundo!")
 ```
 
 ---
