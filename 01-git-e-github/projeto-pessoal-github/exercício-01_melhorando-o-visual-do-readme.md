@@ -109,9 +109,16 @@ Para apenas uma linha de código/um código, se usa `` na palavra/código.
 Código inline | Resultado
 --------------|-----------
 ``` `código` ```  | `código`
+
 ---
 
 ## Emojis
+Para usar um emoji no Markdown, coloque `nome_do_emoji` entre dois pontos (:):
+:bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:`
+
+Será nescessário buscar o nome de qual emoji irá querer usar, ou simplesmente ir nos emojis do teclado e adicionar.
+- [Lista de todos os emojis do GitHub](https://jzeferino.github.io/AllGithubEmojis/)
+- [Lista completa da API GitHub Emoji](https://api.github.com/emojis)
 
 ---
 
