@@ -19,7 +19,7 @@ mkdir imagens    # Cria uma nova pasta.
 rm arquivo.txt    # Remove arquivos ou pastas.
 ```
 
-● Código em Python (ou outra linguagem).
+### Código em Python
 ```python
 # Função que soma dois números
 def soma(a, b):
