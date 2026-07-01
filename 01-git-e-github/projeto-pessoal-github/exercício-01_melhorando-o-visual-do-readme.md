@@ -1,4 +1,4 @@
-# Melhorando o visual do README
+# Exercício 01 - Melhorando o visual do README
 Uso da linguagem do Markdown para um melhor visual e a sintaxe do seu repositório no GitHub.
 
 ## :pencil2: Títulos e Subtítulos
