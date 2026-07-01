@@ -43,7 +43,7 @@ Resultado:
 4. Quarto
 
 #### itens da lista
-Para aninhar itens de linha em uma lista ordenada, recue os itens quatro espaços ou uma guia.
+Para aninhar itens de linha em uma lista ordenada, recue os itens quatro espaços.
 ```
 1. Primeiro
 2. Segundo
@@ -104,6 +104,11 @@ Resultado:
 print("Olá Mundo!")
 ```
 
+Para apenas uma linha de código/um código, se usa `` na palavra/código.
+
+Código inline | Resultado
+--------------|-----------
+~ `código` ~  | `código`
 ---
 
 ## Emojis
