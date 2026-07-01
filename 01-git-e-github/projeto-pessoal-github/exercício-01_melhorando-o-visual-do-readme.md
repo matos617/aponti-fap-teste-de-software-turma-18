@@ -152,4 +152,17 @@ Será nescessário buscar o nome de qual emoji irá querer usar, ou simplesmente
 ---
 
 ## :straight_ruler: Tabelas
+Para uma tabela simples, basta adicionar `|` como separador vertical e `-` como separador horizontal para diferenciar do título:
+```
+| Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
+|----------|----------|----------|
+| Célula 1   | Célula 2   | Célula 3   |
+| Célula 4   | Célula 5   | Célula 6   |
+```
 
+Para ter um alinhamento na tabela, utiliza-se `:` como alinhador:
+```
+| Alinhado à Esquerda | Centralizado | Alinhado à Direita |
+|:-------------|:--------------:|--------------:|
+| Esquerda         | Centro         | Direita         |
+```
