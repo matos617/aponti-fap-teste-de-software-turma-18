@@ -28,7 +28,7 @@ Negrito e Itálico | `***Texto em negrito e itálico*** ou **_Texto em negrito e
 
 ---
 
-## Listas enumeradas e com marcadores
+## :spiral_notepad: Listas enumeradas e com marcadores
 ### Listas enumeradas (número + ponto)
 ```
 1. Primeiro
@@ -114,7 +114,7 @@ Código inline | Resultado
 
 ## Emojis
 Para usar um emoji no Markdown, coloque `nome_do_emoji` entre dois pontos (:):
-:bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:`
+| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 
 Será nescessário buscar o nome de qual emoji irá querer usar, ou simplesmente ir nos emojis do teclado e adicionar.
 - [Lista de todos os emojis do GitHub](https://jzeferino.github.io/AllGithubEmojis/)
@@ -123,3 +123,4 @@ Será nescessário buscar o nome de qual emoji irá querer usar, ou simplesmente
 ---
 
 ## Tabelas
+Títulos são 
