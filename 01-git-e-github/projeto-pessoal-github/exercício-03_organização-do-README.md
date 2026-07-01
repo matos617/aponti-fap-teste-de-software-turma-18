@@ -11,16 +11,16 @@ Exemplo:
 ---
 
 # Sistema de Gerenciamento de Tarefas
-## Objetivo
+## Objetivo :bookmark_tabs:
 Este projeto tem como objetivo desenvolver um sistema simples para gerenciar tarefas, permitindo adicionar, editar e remover atividades.
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas :computer:
 - Git e GitHub
 - Markdown
 - Python 3.10
 - Visual Studio Code
 
-## Estrutura das pastas
+## Estrutura das pastas :file_folder:
 ```plaintext
 projeto/
 │── src/              # Código-fonte
@@ -32,7 +32,7 @@ projeto/
 │── README.md
 ```
 
-## Como executar o projeto
+## Como executar o projeto :keyboard:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/usuario/projeto.git
@@ -48,6 +48,8 @@ projeto/
 
 ---
 
-## Autor
-Desenvolvido por **Nome**  
-`[LinkedIn](https://www.linkedin.com/in/seu-perfil)` | `[GitHub](https://github.com/seu-usuario)`
+## Autor :writing_hand:
+Desenvolvido por **Nome**
+[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [GitHub](https://github.com/seu-usuario)
+
+`[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [GitHub](https://github.com/seu-usuario)`
