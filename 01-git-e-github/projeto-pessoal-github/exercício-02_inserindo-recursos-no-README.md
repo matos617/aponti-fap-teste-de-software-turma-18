@@ -32,7 +32,7 @@ Se a imagem estivesse na mesma pasta do *Exercício 02*, seria apenas `[Veja o g
 
 Se a imagem a ser inserida for externa, basta usar a mesma base, mas usando o endereço da imagem nos `()`:
 
-![Comandos Básicos de Git](https://th.bing.com/th/id/R.d602152f52d405b512e104738a5d3554?rik=pRfd7kygN1ZV9A&pid=ImgRaw&r=0)
+[Comandos Básicos de Git](https://th.bing.com/th/id/R.d602152f52d405b512e104738a5d3554?rik=pRfd7kygN1ZV9A&pid=ImgRaw&r=0)
 
 ---
 
