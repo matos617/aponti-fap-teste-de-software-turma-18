@@ -13,8 +13,9 @@ Hierarquia/Sintaxe: # > ## > ### > #### > ##### > ######
 ```
 Demonstração:
 # Título 1 
-## SubTítulo/Seção
-### Tópico/Subseção
+## SubTítulo 1.1
+### Tópico 1.1.1
+### Tópico 1.1.2
 
 ---
 
