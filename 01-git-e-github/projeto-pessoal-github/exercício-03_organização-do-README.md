@@ -21,7 +21,7 @@ Este projeto tem como objetivo desenvolver um sistema simples para gerenciar tar
 - Visual Studio Code
 
 ## Estrutura das pastas
-
+```plaintext
 projeto/
 │── src/              # Código-fonte
 │   └── main.py
@@ -30,6 +30,7 @@ projeto/
 │── imagens/          # Recursos visuais
 │   └── exemplo.gif
 │── README.md
+```
 
 ## Como executar o projeto
 1. Clone este repositório:
