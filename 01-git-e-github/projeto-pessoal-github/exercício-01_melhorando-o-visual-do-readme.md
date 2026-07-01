@@ -138,6 +138,8 @@ Código inline | Resultado
 ## :grinning: Emojis
 Para usar um emoji no Markdown, coloque `nome_do_emoji` entre dois pontos (:):
 
+Emoji | Nome
+:-----|------:
 :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:`
 
 Será nescessário buscar o nome de qual emoji irá querer usar, ou simplesmente ir nos emojis do teclado e adicionar.
