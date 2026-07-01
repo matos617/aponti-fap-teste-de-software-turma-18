@@ -4,17 +4,17 @@ Uso da linguagem do Markdown para um melhor visual e a sintaxe do seu repositór
 ## Títulos e Subtítulos
 Hierarquia/Sintaxe: # > ## > ### > #### > ##### > ######
 ```
-# Título 1 (príncipal)
-## Título 2 (subtítulo)
-### Título 3 
-#### Título 4
-##### Título 5
-###### Título 6
+# H1 - Título Principal
+## H2 - Título da Seção  
+### H3 - Título da Subseção
+#### H4
+##### H5
+###### H6
 ```
 Demonstração:
 # Título 1 
-## SubTítulo
-### Tópico
+## SubTítulo/Seção
+### Tópico/Subseção
 
 ---
 
