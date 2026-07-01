@@ -20,7 +20,7 @@ Este projeto tem como objetivo desenvolver um sistema simples para gerenciar tar
 - Python 3.10
 - Visual Studio Code
 
-## :file_folder: Estrutura das pastas 
+## :card_index_dividers: Estrutura das pastas 
 ```plaintext
 projeto/
 │── src/              # Código-fonte
