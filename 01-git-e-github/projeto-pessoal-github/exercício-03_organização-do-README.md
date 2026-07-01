@@ -1,5 +1,5 @@
 # Exercício 03 - Organização do README
-## A etrutura básica para um README profissional deve conter: 
+## A estrutura básica para um README profissional deve conter: 
 - Título do projeto;
 - Objetivo;
 - Tecnologias utilizadas;
