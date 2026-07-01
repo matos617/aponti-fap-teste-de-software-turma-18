@@ -152,7 +152,7 @@ Será nescessário buscar o nome de qual emoji irá querer usar, ou simplesmente
 ---
 
 ## :straight_ruler: Tabelas
-Para uma tabela simples, basta adicionar `|` como separador vertical e `-` como separador horizontal para diferenciar do título:
+Para uma tabela simples, basta adicionar `|` como separador vertical e `-` como separador horizontal para diferenciar do cabeçalho:
 ```
 | Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
 |----------|----------|----------|
@@ -175,3 +175,7 @@ Resultado:
 | Alinhado à Esquerda | Centralizado | Alinhado à Direita |
 |:-------------|:--------------:|--------------:|
 | Esquerda         | Centro         | Direita         |
+
+## Créditos:
+- [Guia Definitivo de Markdown](https://github.com/mende1/guia-definitivo-de-markdown/blob/master/README.md#links)
+- [Guia Rápido do Markdown](https://md-tool.com/pt/markdown-guide/cheat-sheet)
