@@ -12,13 +12,19 @@ Resultado:
 ---
 
 ## :pushpin: Um link para outro arquivo do projeto;
+Para adicionar um link para ir à outro arquivo do mesmo projeto, basta copiar e adicionar o endereço do arquivo ao lugar da url:
+```
+[Veja como melhorar o visual do seu README no GitHub no Exercício 1](exercício-01_melhorando-o-visual-do-readme.md)
+```
+Resultado:
 
+[Veja como melhorar o visual do seu README no GitHub no Exercício 1](exercício-01_melhorando-o-visual-do-readme.md)
 
 ---
 
 ## :framed_picture: Uma imagem
 
-Para inserir uma imagem dentro do projeto deve-se adicionar um imagem no mesmo projeto, ir até nele e copiar seu endereço, e adicionar o `!` antes do `[]` (para o markdown entender que se trata de uma imagem e inserí-la no `arquivo.md`) e o endereço dentro dos `()`:
+Para inserir uma imagem do projeto dentro do arquivo deve-se adicionar um imagem no mesmo projeto, ir até nele e copiar seu endereço, e adicionar o `!` antes do `[]` (para o markdown entender que se trata de uma imagem e inserí-la no `arquivo.md`) e o endereço dentro dos `()`:
 ```
 Veja a imagem com todos os ![Comandos Git](../imagens/Comandos_Git_Guia.jpeg).
 ```
@@ -39,6 +45,7 @@ Caso não queira inserir a imagem em seu `arquivo.md`, basta tirar o `!` no iní
 [Comandos Básicos de Git](https://th.bing.com/th/id/R.d602152f52d405b512e104738a5d3554?rik=pRfd7kygN1ZV9A&pid=ImgRaw&r=0)
 ```
 Resultado:
+
 [Comandos Básicos de Git](https://th.bing.com/th/id/R.d602152f52d405b512e104738a5d3554?rik=pRfd7kygN1ZV9A&pid=ImgRaw&r=0)
 
 ---
