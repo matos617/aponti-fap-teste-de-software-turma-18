@@ -52,6 +52,8 @@ Resultado:
 
 ## :page_facing_up: Um arquivo PDF;
 
+Veja o [PDF do projeto](../pdf/PROJETO PESSOAL GITHUB.pdf).
+
 ---
 
 ## :sparkler: Um GIF.
