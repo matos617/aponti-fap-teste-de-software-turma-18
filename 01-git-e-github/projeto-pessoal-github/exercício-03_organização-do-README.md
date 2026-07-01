@@ -50,6 +50,7 @@ projeto/
 
 ## Autor :writing_hand:
 Desenvolvido por **Nome**
+
 [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [GitHub](https://github.com/seu-usuario)
 
 `[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [GitHub](https://github.com/seu-usuario)`
