@@ -42,6 +42,11 @@ Resultado:
 3. Terceiro
 4. Quarto
 
+### Listas não ordenadas (ó só usar o hífen [-])
+- Texto
+- Texto 2
+- Texto 3
+
 #### itens da lista
 Para aninhar itens de linha em uma lista ordenada, recue os itens quatro espaços.
 ```
@@ -69,6 +74,7 @@ Resultado:
     1. Indentado intém
     2. Indentado intém
 4. Quarto
+
 
 1. Primeiro
 2. Segundo
@@ -131,6 +137,7 @@ Código inline | Resultado
 
 ## :grinning: Emojis
 Para usar um emoji no Markdown, coloque `nome_do_emoji` entre dois pontos (:):
+
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 
 Será nescessário buscar o nome de qual emoji irá querer usar, ou simplesmente ir nos emojis do teclado e adicionar.
