@@ -176,6 +176,9 @@ Resultado:
 |:-------------|:--------------:|--------------:|
 | Esquerda         | Centro         | Direita         |
 
+---
+
 ## Créditos:
 - [Guia Definitivo de Markdown](https://github.com/mende1/guia-definitivo-de-markdown/blob/master/README.md#links)
 - [Guia Rápido do Markdown](https://md-tool.com/pt/markdown-guide/cheat-sheet)
+- [Noções Básicas de Markdown](https://www.markdownlang.com/pt/intro/what-is-markdown.html)
