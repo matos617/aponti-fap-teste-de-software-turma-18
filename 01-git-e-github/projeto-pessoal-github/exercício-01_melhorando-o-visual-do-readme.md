@@ -156,9 +156,14 @@ Para uma tabela simples, basta adicionar `|` como separador vertical e `-` como 
 ```
 | Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
 |----------|----------|----------|
-| Célula 1   | Célula 2   | Célula 3   |
-| Célula 4   | Célula 5   | Célula 6   |
+| Palavra 1   | Palavra 2   | Palavra 3   |
+| Palavra 2   | Palavra 5   | Palavra 6   |
 ```
+Resultado:
+| Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
+|----------|----------|----------|
+| Palavra 1   | Palavra 2   | Palavra 3   |
+| Palavra 2   | Palavra 5   | Palavra 6   |
 
 Para ter um alinhamento na tabela, utiliza-se `:` como alinhador:
 ```
@@ -166,3 +171,7 @@ Para ter um alinhamento na tabela, utiliza-se `:` como alinhador:
 |:-------------|:--------------:|--------------:|
 | Esquerda         | Centro         | Direita         |
 ```
+Resultado:
+| Alinhado à Esquerda | Centralizado | Alinhado à Direita |
+|:-------------|:--------------:|--------------:|
+| Esquerda         | Centro         | Direita         |
