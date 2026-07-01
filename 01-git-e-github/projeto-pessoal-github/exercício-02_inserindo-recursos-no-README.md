@@ -65,4 +65,11 @@ Veja o [PDF do projeto](../pdf/projeto-pessoal-github.pdf).
 ---
 
 ## :sparkler: Um GIF.
-Da mesma forma que se adiciona uma imagem.
+Da mesma forma que se adiciona uma imagem:
+```
+![Nya Cat](../gif/nyan-cat-animated)
+```
+
+Resultado:
+
+![Nya Cat](../gif/nyan-cat-animated)
