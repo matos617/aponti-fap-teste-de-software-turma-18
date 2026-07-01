@@ -42,7 +42,7 @@ projeto/
    cd projeto
    ```
 3. Execute o arquivo principal:
-   ```bash
+   ```python
    python src/main.py
    ```
 
