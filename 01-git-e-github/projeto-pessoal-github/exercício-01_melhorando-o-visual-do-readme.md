@@ -75,6 +75,7 @@ Resultado:
     2. Indentado intém
 4. Quarto
 
+ou
 
 1. Primeiro
 2. Segundo
