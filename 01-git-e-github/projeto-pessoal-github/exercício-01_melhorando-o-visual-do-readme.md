@@ -13,11 +13,8 @@ Hierarquia/Sintaxe: # > ## > ### > #### > ##### > ######
 ```
 Demonstração:
 # Título 1 
-## Título 2 
-### Título 3 
-#### Título 4
-##### Título 5
-###### Título 6
+## SubTítulo
+### Tópico
 
 ---
 
@@ -88,11 +85,11 @@ ___
 ```
 Todos dão o mesmo resultado:
 
-### 3 Hífens:
+### Hífens:
 ---
-### 3 Asteriscos
+### Asteriscos
 ***
-### 3 Underscore
+### Underscore
 ___
 
 ---
