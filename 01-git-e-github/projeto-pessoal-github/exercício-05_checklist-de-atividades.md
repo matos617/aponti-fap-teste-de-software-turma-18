@@ -2,9 +2,9 @@
 
 [Clique aqui](https://github.com/matos617/aponti-fap-teste-de-software-turma-18/issues/1) para ir na aba Issues ver a atividade de Checklist deste Respositótio.
 
-## Checkboxes (`- [ ]`)
+## :clipboard: Checkboxes (`- [ ]`)
 
-Exemplo:
+Exemplo demonstrativo:
 - [ ] Criar repositório
 - [ ] Adicionar README
 - [ ] Inserir imagem 
