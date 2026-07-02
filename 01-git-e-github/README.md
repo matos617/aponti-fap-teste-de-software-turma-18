@@ -11,7 +11,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Exercícios 
-[Exercício 01](../projeto-pessoal-github/exercício-01_melhorando-o-visual-do-readme.md)
+- [Exercício 01 - Melhorando o visual do README](projeto-pessoal-github/exercício-01_melhorando-o-visual-do-readme.md)
 
 ## Licença
 
