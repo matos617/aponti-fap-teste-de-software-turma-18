@@ -103,4 +103,4 @@ Alertas são usados para enfatizar informações críticas, baseadaa no blockquo
 ---
 
 ## Créditos:
-- [Formatações avançadas](https://github.com/iuricode/readme-template/tree/main/avancado)
+- [Formatações Avançadas](https://github.com/iuricode/readme-template/tree/main/avancado), por GuiMoraesDev.
