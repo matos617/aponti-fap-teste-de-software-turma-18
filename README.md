@@ -39,4 +39,4 @@ Dentro de cada módulo você encontrará:
  --- 
  
 ![Status](https://img.shields.io/badge/Status-ativo-brightgreen?style=for-the-badge)
-![Status](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
+[![Status](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LINCENSE.md)
