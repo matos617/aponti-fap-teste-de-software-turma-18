@@ -43,7 +43,10 @@ ou
 
 </div>
 
-## Detalhes expansíveis (<details> e <summary>)
+## Detalhes expansíveis
+### `<details>`
+
+### `<summary>`
 
 ## Âncoras
 
