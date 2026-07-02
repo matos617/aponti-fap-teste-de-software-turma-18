@@ -17,7 +17,7 @@
 - [Exercício 04 – Blocos de código](projeto-pessoal-github/exercício-04_blocos-de-código.md)
 - [Exercício 05 – Checklist de atividades](https://github.com/matos617/aponti-fap-teste-de-software-turma-18/issues/1)
 - [Exercício 06 – Criando uma tabela](projeto-pessoal-github/exercício-06_criando-uma-tabela.md)
-- [Exercício 07 – Badges do GitHub](projeto-pessoal-github/exercício-07_badges-do-github.md)
+- [Exercício 07 – Badges do GitHub](projeto-pessoal-github/exercício-07_badges-do-github.md) :heavy_check_mark:
 - [Exercício 08 – Inserindo citações](projeto-pessoal-github/exercício-08_inserindo-citações.md)
 - [Exercício 09 – Links internos](projeto-pessoal-github/exercício-09_links-internos.md) :heavy_check_mark:
 - [Exercício 10 – Desafio Final](projeto-pessoal-github/exercício-10_desafio-final.md)
