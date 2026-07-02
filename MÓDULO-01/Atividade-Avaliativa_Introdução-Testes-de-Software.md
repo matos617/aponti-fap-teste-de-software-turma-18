@@ -11,3 +11,5 @@ O sentido de qualidade é muito abstrato, mas na maioria das definições se enq
 
 ## :technologist: Qual o papel do QA em um time moderno
 A **Garantia da Qualidade** do software é essêncial no desenvolvimento do software. Ela participa desde o a fase de início do desenvolvimento do produto, incluindo aspectos funcionais e atributos de desempenho.
+
+Aula dia 02 de Julho, 2026
