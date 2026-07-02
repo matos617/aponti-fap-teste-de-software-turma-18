@@ -46,3 +46,9 @@ Dentro de cada módulo você encontrará:
 ![Matos617](https://img.shields.io/static/v1?label=GitHub&message=matos617&color=f8efd4&style=for-the-badge&logo=GitHub)
 
 </div>
+
+---
+
+## License
+
+Released under [MIT](/LICENSE) by [@matos617](https://github.com/matos617).
