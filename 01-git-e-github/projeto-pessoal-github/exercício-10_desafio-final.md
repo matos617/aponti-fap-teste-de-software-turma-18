@@ -44,9 +44,30 @@ ou
 </div>
 
 ## Detalhes expansíveis
-### `<details>`
+### `<details>` & `<summary>`
+Serve para recolher temporariamente as seções do Markdown, quando clicada ela se expande:
+```
+<details>
 
-### `<summary>`
+<summary>Título para que os leitores saibam do que se trata</summary>
+
+### Você pode adicionar headers dentro
+
+Pode adicionar texto, imagem e/ou código dentro.
+
+</details>
+```
+Resultado:
+
+<details>
+
+<summary>Título para que os leitores saibam do que se trata</summary>
+
+### Você pode adicionar headers dentro
+
+Pode adicionar texto, imagem e/ou código dentro.
+
+</details>
 
 ## Âncoras
 
@@ -77,4 +98,9 @@ Alertas são usados para enfatizar informações críticas, baseadaa no blockquo
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-### Outro
+### 2. Mapa
+
+---
+
+## Créditos:
+- [Formatações avançadas](https://github.com/iuricode/readme-template/tree/main/avancado)
