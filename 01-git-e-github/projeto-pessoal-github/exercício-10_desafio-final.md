@@ -70,8 +70,16 @@ Pode adicionar texto, imagem e/ou código dentro.
 </details>
 
 ## Âncoras
+Você pode criar links para seções do próprio documento:  
+[Ir para o primeiro tópico](## Texto Riscado)
 
 ## Tabelas avançadas
+
+| Status do Projeto | Significado        | Emoji |
+|-------------------|--------------------|-------|
+| Active            | Em andamento       | ✅    |
+| Maintenance       | Em manutenção      | 🛠️    |
+| Abandoned         | Descontinuado      | ❌    |
 
 ## Escudos personalizados
 
