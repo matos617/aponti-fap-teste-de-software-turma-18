@@ -11,7 +11,7 @@ Este recurso ~~remove ou invalida~~ uma parte do texto:
 ```
 
 ## Texto destacado
-O ==texto destacado== é envolvido por dois sinais de igual (==):
+O <mark>texto destacado</mark> é envolvido por dois sinais de igual (==):
 ```
 ==texto destacado==
 ```
