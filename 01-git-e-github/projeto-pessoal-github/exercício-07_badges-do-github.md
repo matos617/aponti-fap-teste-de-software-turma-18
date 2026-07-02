@@ -2,9 +2,3 @@
 
 ## Como utilizar Badges (selos) no README:
 Entre no site [Shields.io](https://shields.io/badges) para customizar o próprio badge ou pegue pronto pelo site [Markdown Badges](https://markdown-badges.vercel.app/)
-
-![Static Badge](https://img.shields.io/badge/GitHub-matos617-pink?logo=github)
-
-![Static Badge](https://img.shields.io/badge/Status-ativo-brightgreen)
-
-![Static Badge](https://img.shields.io/badge/License-MIT-yellow)
