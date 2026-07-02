@@ -18,7 +18,6 @@ Demonstração:
 ### Tópico 1.1.2
 ### Tópico 1.1.3
 
----
 
 ## :abc: Ênfase
 Elemento | Sintaxe | Resultado
@@ -27,7 +26,6 @@ Negrito  | `**Texto em negrito** ou __Texto em negrito__`| **Texto em negrito**
 Itálico  | `*Texto em itálico* ou _Texto em itálico_`  | *Texto em itálico*
 Negrito e Itálico | `***Texto em negrito e itálico*** ou **_Texto em negrito e itálico_**` | ***Texto em negrito e itálico***
 
----
 
 ## :spiral_notepad: Listas enumeradas e com marcadores
 ### Listas enumeradas (número + ponto)
@@ -85,7 +83,6 @@ ou
     - Indentado intém
 4. Quarto
 
----
 
 ## :heavy_minus_sign: Linhas horizontais
 Há três formas de fazer as linhas de separação:
@@ -106,7 +103,6 @@ Todos dão o mesmo resultado:
 ### Underscore
 ___
 
----
 
 ## :computer: Blocos de código
 Pra imitanr o _bash_ se usa ``` (três crases) ou ~~~ (três tils).
@@ -135,7 +131,6 @@ Código inline | Resultado
 --------------|-----------
 ``` `código` ```  | `código`
 
----
 
 ## :grinning: Emojis
 Para usar um emoji no Markdown, coloque `nome_do_emoji` entre dois pontos (:):
@@ -150,7 +145,6 @@ Será nescessário buscar o nome de qual emoji irá querer usar, ou simplesmente
 - [Lista de todos os emojis do GitHub](https://jzeferino.github.io/AllGithubEmojis/)
 - [Lista completa da API GitHub Emoji](https://api.github.com/emojis)
 
----
 
 ## :straight_ruler: Tabelas
 Para uma tabela simples, basta adicionar `|` como separador vertical e `-` como separador horizontal para diferenciar do cabeçalho:
