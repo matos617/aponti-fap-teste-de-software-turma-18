@@ -72,7 +72,7 @@ Pode adicionar texto, imagem e/ou código dentro.
 ## Âncoras
 Você pode criar links para seções do próprio documento:
 
-[Ir para o primeiro tópico](# Texto riscado)
+[Ir para o primeiro tópico](##Texto-riscado)
 
 ## Tabelas avançadas
 
