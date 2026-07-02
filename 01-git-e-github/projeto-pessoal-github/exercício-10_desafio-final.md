@@ -1,12 +1,20 @@
-# Exercício 10 – Desafio Final
+# :rocket: Exercício 10 – Desafio Final
 
 Pesquise outros recursos do Markdown e adicione pelo menos cinco elementos 
 diferentes que não foram solicitados nos exercícios anteriores. 
 Exemplos: 
 
-● Texto riscado; 
+## Texto riscado
+Este recurso ~~remove ou invalida~~ uma parte do texto:
+```
+~~Texto~~
+```
 
-● Texto destacado; 
+## Texto destacado
+O ==texto destacado== é envolvido por dois sinais de igual (==):
+```
+==texto destacado==
+```
 
 ● HTML dentro do Markdown; 
 
