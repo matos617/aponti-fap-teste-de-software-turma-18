@@ -10,4 +10,8 @@ Entre no site [Shields.io](https://shields.io/badges) para customizar o próprio
 
 ![Static Badge](https://img.shields.io/badge/github-matos617-pink?logo=github)
 
+![Static Badge](https://img.shields.io/badge/GitHub-matos617-pink?logo=github)
+
+![Static Badge](https://img.shields.io/badge/Status-ativo-brightgreen)
+
 ![Static Badge](https://img.shields.io/badge/License-MIT-yellow)
