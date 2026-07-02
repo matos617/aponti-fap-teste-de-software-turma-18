@@ -9,3 +9,5 @@ Entre no site [Shields.io](https://shields.io/badges) para customizar o próprio
 ● Status do projeto.
 
 ![Static Badge](https://img.shields.io/badge/github-matos617-pink?logo=github)
+
+![GitHub License](https://img.shields.io/github/license-MIT/matos617/aponti-fap-teste-de-software-turma-18)
