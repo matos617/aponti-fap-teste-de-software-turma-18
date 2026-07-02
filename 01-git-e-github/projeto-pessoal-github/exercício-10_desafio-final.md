@@ -25,7 +25,7 @@ O <mark>texto destacado</mark> é envolvido por `<mark>`:
   <h3>Este título está centralizado com HTML.</h3>
 </div>
 ```
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > "Centralizar" não é mais aplicável no HTML5, se usa o CSS3 para modificar a aparência, mas no markdown ele funciona.
 
 ## Imagens clicáveis
