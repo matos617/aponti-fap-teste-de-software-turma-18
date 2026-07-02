@@ -1,4 +1,4 @@
-# Exercício 4 – Blocos de código
+# Exercício 04 – Blocos de código
 
 ## Exemplos de comandos utilizando blocos de código:
 
