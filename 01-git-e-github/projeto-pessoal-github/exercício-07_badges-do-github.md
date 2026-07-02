@@ -8,3 +8,5 @@ Adicione pelo menos três badges ao projeto, por exemplo:
 ● Licença; 
 
 ● Status do projeto.
+
+![Static Badge](https://img.shields.io/badge/github-matos617-pink)
