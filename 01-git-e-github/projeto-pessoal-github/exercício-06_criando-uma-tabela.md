@@ -1,5 +1,5 @@
 # Exercício 6 – Criando uma tabela 
-## Tabela contendo as principais tecnologias estudadas neste módulo:
+## :chart_with_upwards_trend: Tabela contendo as principais tecnologias estudadas neste módulo:
 Tecnologia | Finalidade | Nível de conhecimento
 :----------|:----------:|----------------:
 Git | Controle de versão | Básico 
