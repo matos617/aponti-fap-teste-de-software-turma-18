@@ -1,15 +1,13 @@
 # Exercício 5 – Checklist de atividades
 
+[Clique aqui](https://github.com/matos617/aponti-fap-teste-de-software-turma-18/issues/1) para ir na aba Issues ver a atividade de Checklist deste Respositótio.
+
 ## Checkboxes (`- [ ]`)
-Crie uma lista de tarefas utilizando checkboxes. 
+
 Exemplo:
-
 - [ ] Criar repositório
-
 - [ ] Adicionar README
-
 - [ ] Inserir imagem 
-
 - [ ] Inserir PDF 
-
 - [ ] Finalizar documentação
+
