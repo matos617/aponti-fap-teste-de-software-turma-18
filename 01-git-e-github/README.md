@@ -1,15 +1,30 @@
 # Aulas de GitHub 
  
 # Git e GitHub 
- 
+
+## Linguagens usadas:
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ## Objetivos 
  
 Ao concluir este módulo você será capaz de: 
- - criar repositórios - utilizar commits - trabalhar com branches - resolver conflitos - abrir Pull Requests 
+ - criar repositórios
+ - utilizar commits
+ - trabalhar com branches
+ - resolver conflitos
+ - abrir Pull Requests
+
  --- 
  
 ## Conteúdo 
- - Introdução - Git - GitHub - Branches - Merge - Pull Request 
+ - Introdução
+ - Git
+ - GitHub
+ - Branches
+ - Merge
+ - Pull Request
+
  --- 
  
 ## Exercícios 
