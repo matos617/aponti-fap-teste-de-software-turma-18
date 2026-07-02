@@ -1,4 +1,4 @@
-# Exercício 6 – Criando uma tabela 
+# Exercício 06 – Criando uma tabela 
 ## :memo: Tabela contendo as principais tecnologias estudadas neste módulo:
 Tecnologia | Finalidade | Nível de conhecimento
 :----------|:----------:|----------------:
