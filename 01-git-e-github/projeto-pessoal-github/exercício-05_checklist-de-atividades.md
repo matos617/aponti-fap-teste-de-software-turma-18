@@ -1,14 +1,15 @@
 # Exercício 5 – Checklist de atividades
 
+## Checkboxes (`- [ ]`)
 Crie uma lista de tarefas utilizando checkboxes. 
 Exemplo:
 
-[ ] Criar repositório
+- [ ] Criar repositório
 
-[ ] Adicionar README
+- [ ] Adicionar README
 
-[ ] Inserir imagem 
+- [ ] Inserir imagem 
 
-[ ] Inserir PDF 
+- [ ] Inserir PDF 
 
-[ ] Finalizar documentação
+- [ ] Finalizar documentação
