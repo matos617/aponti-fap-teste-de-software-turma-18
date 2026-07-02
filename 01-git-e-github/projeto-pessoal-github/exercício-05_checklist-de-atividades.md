@@ -2,12 +2,13 @@
 
 Crie uma lista de tarefas utilizando checkboxes. 
 Exemplo:
-● Criar repositório
 
-● Adicionar README
+[ ] Criar repositório
 
-● Inserir imagem 
+[ ] Adicionar README
 
-● Inserir PDF 
+[ ] Inserir imagem 
 
-● Finalizar documentação
+[ ] Inserir PDF 
+
+[ ] Finalizar documentação
