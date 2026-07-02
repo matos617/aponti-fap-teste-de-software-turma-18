@@ -41,8 +41,7 @@ Dentro de cada módulo você encontrará:
 <div align="center">
  
 ![Status](https://img.shields.io/badge/Status-ativo-brightgreen?style=for-the-badge)
-[![Status](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE.md) <br>
-
+<br>
 ![Matos617](https://img.shields.io/static/v1?label=GitHub&message=matos617&color=f8efd4&style=for-the-badge&logo=GitHub)
 
 </div>
@@ -51,4 +50,4 @@ Dentro de cada módulo você encontrará:
 
 ## License
 
-Released under [MIT](/LICENSE) by [@matos617](https://github.com/matos617).
+Released under [![Status](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE.md) by [@matos617](https://github.com/matos617).
