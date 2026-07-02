@@ -11,13 +11,18 @@ Hierarquia/Sintaxe: # > ## > ### > #### > ##### > ######
 ##### H5
 ###### H6
 ```
-Demonstração:
+
+<details>
+
+<summary>Demonstração:</summary>
+
 # Título 1 
 ## SubTítulo 1.1
 ### Tópico 1.1.1
 ### Tópico 1.1.2
 ### Tópico 1.1.3
 
+</details>
 
 ## :abc: Ênfase
 Elemento | Sintaxe | Resultado
