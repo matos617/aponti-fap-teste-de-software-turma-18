@@ -37,6 +37,8 @@ Dentro de cada módulo você encontrará:
 ✔ Sistema da Clinica de Psicologia
 
  --- 
- 
+
+<div align="center">
 ![Status](https://img.shields.io/badge/Status-ativo-brightgreen?style=for-the-badge)
 [![Status](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE.md)
+</div>
