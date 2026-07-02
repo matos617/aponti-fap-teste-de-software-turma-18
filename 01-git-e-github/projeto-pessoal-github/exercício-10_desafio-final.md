@@ -31,13 +31,13 @@ O <mark>texto destacado</mark> é envolvido por `<mark>`:
 ## Imagens clicáveis
 Pode-se usar o HTML5 ou o Markdown para tornar imagens clicáveis:
 ```
-[![Nome pra imagem](endereço-da-imagem)](url)
+[![Nome pra imagem](url_da_imagem)](url_externo)
 
 ou
 
 <a href="url_do_link_externo"><img src="url_da_imagem" alt=descrição da imagem></a>
 ```
-[![banner]([https://thf.bing.com/th/id/R.23ada37b811cc0e73d1cd01246677e7a?rik=grVWna2xrx8Z2A&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f05%2fClick-Here-PNG-HD.png&ehk=Weew%2fmwTV4821Pn23y8bl43Se1CqrccJ9VJK8wgIlvs%3d&risl=&pid=ImgRaw&r=0](https://thf.bing.com/th/id/R.59c10debb239f9c311619e8374b3fcab?rik=e4dFjyqGob1YdA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f05%2fClick-Here-PNG-Images.png&ehk=ggFxsZNlAl5kAmOnXGwvc3MrYRYwHyWu4LKoUSs349A%3d&risl=&pid=ImgRaw&r=0))](https://youtu.be/dQw4w9WgXcQ?si=7R32emRaU-c7PS8n)
+[![banner](https://thf.bing.com/th/id/R.59c10debb239f9c311619e8374b3fcab?rik=e4dFjyqGob1YdA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f05%2fClick-Here-PNG-Images.png&ehk=ggFxsZNlAl5kAmOnXGwvc3MrYRYwHyWu4LKoUSs349A%3d&risl=&pid=ImgRaw&r=0)](https://youtu.be/dQw4w9WgXcQ?si=7R32emRaU-c7PS8n)
 
 ## Detalhes expansíveis (<details> e <summary>)
 
