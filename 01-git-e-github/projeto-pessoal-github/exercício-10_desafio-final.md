@@ -29,7 +29,11 @@ O <mark>texto destacado</mark> é envolvido por `<mark>`:
 > "Centralizar" não é mais aplicável no HTML5, se usa o CSS3 para modificar a aparência, mas no markdown ele funciona.
 
 ## Imagens clicáveis
-[]()
+Pode-se usar o HTML5 ou o Markdown para tornar imagens clicáveis:
+```
+![Nome pra imagem](en)
+```
+![banner](https://www.banner-depot-2000.net/poetry-maker?poemCode=f84d89g0)
 
 ## Detalhes expansíveis (<details> e <summary>)
 
@@ -45,7 +49,7 @@ O <mark>texto destacado</mark> é envolvido por `<mark>`:
 
 ### 1. Alertas
 
-Alertas são uma extensão Markdown baseada na sintaxe blockquote que você pode usar para enfatizar informações críticas. Eles são exibidos com cores e ícones distintos para indicar a importância do conteúdo."
+Alertas são usados para enfatizar informações críticas, baseadaa no blockquote:
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
