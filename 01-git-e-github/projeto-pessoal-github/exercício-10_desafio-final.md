@@ -37,7 +37,11 @@ ou
 
 <a href="url_do_link_externo"><img src="url_da_imagem" alt=descrição da imagem></a>
 ```
-[![banner](https://thf.bing.com/th/id/R.59c10debb239f9c311619e8374b3fcab?rik=e4dFjyqGob1YdA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f05%2fClick-Here-PNG-Images.png&ehk=ggFxsZNlAl5kAmOnXGwvc3MrYRYwHyWu4LKoUSs349A%3d&risl=&pid=ImgRaw&r=0)](https://youtu.be/dQw4w9WgXcQ?si=7R32emRaU-c7PS8n)
+<div align="center">
+  
+[![banner](https://thf.bing.com/th/id/R.59c10debb239f9c311619e8374b3fcab?rik=e4dFjyqGob1YdA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f05%2fClick-Here-PNG-Images.png&ehk=ggFxsZNlAl5kAmOnXGwvc3MrYRYwHyWu4LKoUSs349A%3d&risl=&pid=ImgRaw&r=0)](https://youtu.be/dQw4w9WgXcQ?si=7R32emRaU-c7PS8n) 
+
+</div>
 
 ## Detalhes expansíveis (<details> e <summary>)
 
