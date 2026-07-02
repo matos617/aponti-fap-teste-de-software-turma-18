@@ -10,7 +10,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### Exercícios 
+### Índice:
 - [Exercício 01 - Melhorando o visual do README](projeto-pessoal-github/exercício-01_melhorando-o-visual-do-readme.md)
 - [Exercício 02 - Inserindo recursos no README](projeto-pessoal-github/exercício-02_inserindo-recursos-no-README.md)
 - [Exercício 03 - Organização do README](projeto-pessoal-github/exercício-03_organização-do-README.md)
