@@ -16,4 +16,4 @@ Markdown | Documentação | Intermediário
 - Falta de explorar mais as ferramentas do site e aplicativo.
 
 ### Markdown
-- Noção boa sobre a sintaxe do Markdown, mas necessito aprender a organizar melhor a estrutura para o visual ser claro e direto, e não tão poluído pelos textos grandes.
+- Noção boa sobre a sintaxe do Markdown, mas necessito aprender a organizar melhor a estrutura para o visual final ser claro e direto, e não tão poluído pelos textos grandes.
