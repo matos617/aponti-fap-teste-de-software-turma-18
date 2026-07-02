@@ -15,3 +15,6 @@ Adicione pelo menos três badges ao projeto, por exemplo:
 ● Status do projeto.
 
 ![Static Badge](https://img.shields.io/badge/github-matos617-pink?logo=github)
+
+
+[oi](https://img.shields.io/badge/github-repo-blue%3Flogo%3Dgithub)
