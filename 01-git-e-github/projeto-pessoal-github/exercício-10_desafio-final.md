@@ -75,15 +75,16 @@ Você pode criar links para seções do próprio documento:
 [Nome do Título](#nome-do-título)
 ```
 
-[Ir para o primeiro tópico](#texto-riscado)
+[Ir para o primeiro tópico: ## Texto riscado](#texto-riscado)
 
 ## Tabelas avançadas
 
-| Status do Projeto | Significado        | Emoji |
-|-------------------|--------------------|-------|
-| Active            | Em andamento       | ✅    |
-| Maintenance       | Em manutenção      | 🛠️    |
-| Abandoned         | Descontinuado      | ❌    |
+| Funcionalidade | Estado | Descrição |
+|----------------|:-----:|-----------|
+| **Login**      | ✅     | Entrar com e‑mail |
+| *Registo*      | 🚧     | Suporte a terceiros |
+| `Reset`        | ❌     | Redefinir via e‑mail |
+| [Perfil](/)    | ⏳     | Gestão de utilizador |
 
 ## Escudos personalizados
 
