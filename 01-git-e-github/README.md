@@ -10,6 +10,9 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
- 
 ## Exercícios 
-Exercício 01
+[Exercício 01](01-git-e-github/projeto-pessoal-github/exercício-01_melhorando-o-visual-do-readme.md)
+
+## Licença
+
+## Status do projeto.
