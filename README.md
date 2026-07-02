@@ -43,6 +43,6 @@ Dentro de cada módulo você encontrará:
 ![Status](https://img.shields.io/badge/Status-ativo-brightgreen?style=for-the-badge)
 [![Status](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE.md) <br>
 
-Feito por ![Matos617](https://img.shields.io/static/v1?label=Overview&message=matos617&color=f8efd4&style=for-the-badge&logo=GitHub)
+![Matos617](https://img.shields.io/static/v1?label=GitHub&message=matos617&color=f8efd4&style=for-the-badge&logo=GitHub)
 
 </div>
