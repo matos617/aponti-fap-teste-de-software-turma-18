@@ -1,6 +1,6 @@
 # Git e GitHub 
 
-## Projeto Pessoal GitHub
+## :technologist: Projeto Pessoal GitHub
 
 ### Ferramentas usadas:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -23,5 +23,9 @@
 - [Exercício 10 – Desafio Final](projeto-pessoal-github/exercício-10_desafio-final.md)
 
 ---
+<div align="center">
+  
+![Status](https://img.shields.io/badge/Status-terminado-red?style=for-the-badge)
 
-![Status](https://img.shields.io/badge/Status-ativo-brightgreen?style=for-the-badge)
+</div>
+
