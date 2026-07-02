@@ -11,9 +11,9 @@ Este recurso ~~remove ou invalida~~ uma parte do texto:
 ```
 
 ## Texto destacado
-O <mark>texto destacado</mark> é envolvido por dois sinais de igual (==):
+O <mark>texto destacado</mark> é envolvido por `<mark>`:
 ```
-==texto destacado==
+<mark>texto destacado</mark>
 ```
 
 ● HTML dentro do Markdown; 
