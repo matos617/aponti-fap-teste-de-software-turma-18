@@ -2,8 +2,10 @@
 Repositório criado para demonstrar o meu desenvolvimento durante as trilhas do treinamento de Teste de Software do programa.
 ## Objetivos
 - Construir um portfólio profissional
+
 --- 
-# Trilhas 
+
+## Trilhas 
 | Módulo | Conteúdo | 
 |---------|----------| 
 | 01 | Git e GitHub | 
@@ -21,14 +23,20 @@ Repositório criado para demonstrar o meu desenvolvimento durante as trilhas do 
 Cada pasta representa um módulo do curso. 
  
 Dentro de cada módulo você encontrará: 
- - Slides - Tutoriais - Exercícios - Projetos - Desafios - Leituras complementares 
+ - Slides
+ - Tutoriais
+ - Exercícios
+ - Projetos
+ - Desafios
+ - Leituras complementares
+
  --- 
  
 ## Projetos 
  
-✔ Sistema da Clinica de Psicologia 
+✔ Sistema da Clinica de Psicologia
+
  --- 
  
-## Licença 
- 
-MIT
+![Status](https://img.shields.io/badge/Status-ativo-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
