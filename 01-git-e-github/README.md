@@ -22,6 +22,6 @@
 - [Exercício 09 – Links internos](projeto-pessoal-github/exercício-09_links-internos.md) :heavy_check_mark:
 - [Exercício 10 – Desafio Final](projeto-pessoal-github/exercício-10_desafio-final.md)
 
-## Licença
+---
 
-## Status do projeto.
+![Status](https://img.shields.io/badge/Status-ativo-brightgreen?style=for-the-badge)
