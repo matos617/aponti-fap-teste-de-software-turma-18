@@ -33,7 +33,7 @@ Pode-se usar o HTML5 ou o Markdown para tornar imagens clicáveis:
 ```
 ![Nome pra imagem](en)
 ```
-![banner]([https://www.banner-depot-2000.net/poetry-maker?poemCode=f84d89g0](https://banner-depot-2000.s3.us-west-1.amazonaws.com/banner-image/5ee717b4c8927f981d781a277ee04e0a/5ee717b4c8927f981d781a277ee04e0a.gif))
+[![banner](https://thf.bing.com/th/id/R.23ada37b811cc0e73d1cd01246677e7a?rik=grVWna2xrx8Z2A&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f05%2fClick-Here-PNG-HD.png&ehk=Weew%2fmwTV4821Pn23y8bl43Se1CqrccJ9VJK8wgIlvs%3d&risl=&pid=ImgRaw&r=0)](https://youtu.be/dQw4w9WgXcQ?si=7R32emRaU-c7PS8n)
 
 ## Detalhes expansíveis (<details> e <summary>)
 
