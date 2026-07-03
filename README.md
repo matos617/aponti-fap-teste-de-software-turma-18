@@ -34,13 +34,6 @@ aponti-fap-teste-de-software-turma-18
 ├── LICENSE.md
 └── README.md
 ```
-
-aponti-fap-teste-de-software-turma-18
-├── git-e-github
-├── módulo-01/
-|   └── unidade-01
-├── LICENSE.md
-└── README.md
  
 ## Como utilizar 
  
