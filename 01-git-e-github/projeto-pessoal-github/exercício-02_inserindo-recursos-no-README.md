@@ -9,8 +9,6 @@ Resultado:
 
 [GitHub](https://github.com)
 
----
-
 ## :pushpin: Um link para outro arquivo do projeto
 Para adicionar um link para ir à outro arquivo do mesmo projeto, basta copiar e adicionar o endereço do arquivo ao lugar da url:
 ```
@@ -23,8 +21,6 @@ Exemplo:
 Resultado:
 
 [Veja como melhorar o visual do seu README no GitHub no Exercício 1](exercício-01_melhorando-o-visual-do-readme.md)
-
----
 
 ## :framed_picture: Uma imagem
 
@@ -62,8 +58,6 @@ Resultado:
 
 Imagem sobre o [GitHub](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/12/gitHub.png)
 
----
-
 ## :page_facing_up: Um arquivo PDF
 
 Basta adicionar o endereço do pdf nos `()`:
@@ -75,8 +69,6 @@ Veja o [PDF do projeto](../pdf/projeto-pessoal-github.pdf).
 Resultado:
 
 Veja o [PDF do projeto](../pdf/projeto-pessoal-github.pdf).
-
----
 
 ## :sparkler: Um GIF
 Da mesma forma que se adiciona uma imagem:
