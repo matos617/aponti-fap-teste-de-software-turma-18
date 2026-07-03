@@ -22,10 +22,14 @@
 - [Exercício 09 – Links internos](projeto-pessoal-github/exercício-09_links-internos.md) :heavy_check_mark:
 - [Exercício 10 – Desafio Final](projeto-pessoal-github/exercício-10_desafio-final.md)
 
+> "Markdown é uma linguagem de marcação leve que permite escrever em texto simples."
+> 
+> —— John Gruber, criador do Markdown.
+
 ---
+
 <div align="center">
   
 ![Status](https://img.shields.io/badge/Status-terminado-red?style=for-the-badge)
 
 </div>
-
