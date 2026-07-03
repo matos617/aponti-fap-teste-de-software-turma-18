@@ -33,7 +33,7 @@ aponti-fap-teste-de-software-turma-18
 |   ├── ...
 |   └── 📂 projeto-pessoal-github
 |       └── # Exercícios 1-10
-├── 📂 módulo-01/
+├── 📂 módulo-01
 |   └── 📂 unidade-01
 |       └── # Atividades Avaliativas
 ├── 📄 LICENSE.md
