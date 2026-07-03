@@ -36,11 +36,12 @@ Clique **[aqui](pdf/projeto-pessoal-github.pdf)** para visualizar o PDF do proje
 
 
 ### O que foi aprendido nas aulas de Git e GitHub:
+
 | Assunto | Conteúdo | Meu nível |
 :--------------|:------------------:| -----------------:
-| Git     | Prícnipaais comandos no Git Bash; Branches; Merges, Pull Requestes | Básico |
-| GitHub  | Noções básicas do site | Básico |
-| Markdown | Cirção de um portifólio profissional | Intermediário |
+| Git     | Principais comandos no Git Bash, Branches, Merges, Pull Requestes | Básico |
+| GitHub  | Noções básicas do site, como criar repositórios | Intermediário |
+| Markdown | Criação de um portifólio profissional | Intermediário |
 
 
 ---
