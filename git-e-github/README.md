@@ -91,9 +91,13 @@ Exibe o histórico de commits do repositório.
 
 ### :bulb: Citação
 
-> "Todo mundo deveria aprender a programar, porque isso ensina a pensar."
+<div align="center">
+
+> *"Todo mundo deveria aprender a programar, porque isso ensina a pensar."*
 > 
-> — Steve Jobs, co-fundador da Apple.
+> —— Steve Jobs, co-fundador da Apple.
+
+</div>
 
 ---
 <div align="center">
