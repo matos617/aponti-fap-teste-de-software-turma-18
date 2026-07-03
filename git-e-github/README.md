@@ -34,7 +34,7 @@
 
 ---
 <div align="center">
-  
-[![Nya Cat](https://gifdb.com/images/high/nyan-cat-rbnlqzxbgvei37v8.gif)](https://gifdb.com/gif/nyan-cat-rbnlqzxbgvei37v8.html)
+
+<a href="https://gifdb.com/gif/nyan-cat-rbnlqzxbgvei37v8.html"><img src="https://gifdb.com/images/high/nyan-cat-rbnlqzxbgvei37v8.gif" alt=Nya Cat width="300" height="200"></a>
 
 </div>
