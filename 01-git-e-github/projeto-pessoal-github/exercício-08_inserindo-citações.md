@@ -1,9 +1,9 @@
-# Exercício 8 – Inserindo citações
+# Exercício 8 – :black_nib:	Inserindo citações
 
 ### Citação em uma linha
 ```> Texto```
 Exemplo:
-> O Markdown é uma linguagem mais simplificada do HTML, focada não só na aparência e personalização do arquivo no GitHub, mas na sua organização e simplicidade de ser usada nos projetos e documentação.
+> O Markdown é uma linguagem mais simplificada da sintaxe do HTML, focada não só na aparência e aparência do texto no GitHub e outros arquivos, mas na sua organização e simplicidade de ser usada nas documentações dos projetos.
 
 ### Citação multi‑linha
 ```
@@ -16,8 +16,26 @@ Resultado:
 > Esta é a segunda linha da citação.
 > Esta é a terceira linha da citação.
 
+### Parágrafos
+```
+> Texto do primeiro parágrafo.
+>
+> Texto do segundo parágrafo.
+```
 
+Resultado:
+> Texto do primeiro parágrafo.
+>
+> Texto do segundo parágrafo.
 
-Utilize blocos de citação para destacar uma frase importante sobre tecnologia ou 
-programação. 
+## Utilize blocos de citação para destacar uma frase importante sobre tecnologia ou 
+programação:
 
+> "Markdown é uma linguagem de marcação leve que permite escrever em texto simples."
+> 
+> —— John Gruber, criador do Markdown.
+
+---
+
+## Créditos
+- [Sintaxe de citações no Marksown](https://www.markdownlang.com/pt/basic/blockquotes.html)
