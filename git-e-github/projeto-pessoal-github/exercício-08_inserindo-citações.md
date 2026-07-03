@@ -30,12 +30,6 @@ Resultado:
 >
 > Texto do segundo parágrafo.
 
-## Utilize blocos de citação para destacar uma frase importante sobre tecnologia ou programação:
-
-> "Todo mundo deveria aprender a programar, porque isso ensina a pensar."
-> 
-> —— Steve Jobs, co-fundador da Apple.
-
 ---
 
 ## Créditos
