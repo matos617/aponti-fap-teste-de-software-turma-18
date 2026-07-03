@@ -10,6 +10,8 @@
 
 </div>
 
+Clique **[aqui](pdf/projeto-pessoal-github.pdf)** para visualizar o PDF do projeto.
+
 ## :technologist: Projeto Pessoal GitHub
 
 ### Ferramentas usadas:
@@ -31,6 +33,15 @@
 - [Exercício 08 – Inserindo citações](projeto-pessoal-github/exercício-08_inserindo-citações.md)
 - [Exercício 09 – Links internos](projeto-pessoal-github/exercício-09_links-internos.md) :heavy_check_mark:
 - [Exercício 10 – Desafio Final](projeto-pessoal-github/exercício-10_desafio-final.md)
+
+
+### O que foi aprendido nas aulas de Git e GitHub:
+| Assunto | Conteúdo | Meu nível |
+:--------------|:------------------:| -----------------:
+| Git     | Prícnipaais comandos no Git Bash; Branches; Merges, Pull Requestes | Básico |
+| GitHub  | Noções básicas do site | Básico |
+| Markdown | Cirção de um portifólio profissional | Intermediário |
+
 
 ---
 <div align="center">
