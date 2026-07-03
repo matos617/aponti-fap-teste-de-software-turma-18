@@ -88,6 +88,11 @@ Você pode criar links para seções do próprio documento:
 
 ## Escudos personalizados
 
+Escudos personalizados
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue?style=flat-square)
+![Versão](https://img.shields.io/badge/version-1.0.0-green)
+![Contribuições](https://img.shields.io/badge/contributions-welcome-orange)
+
 ---
 
 ## Extras
