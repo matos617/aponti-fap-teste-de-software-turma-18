@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Git e GitHub](https://velog.velcdn.com/images/boram0415/post/5e37e35c-4ff5-4aee-bb09-8e9e7a6908b8/image.png)](https://velog.io/@boram0415/Git-%EC%9D%B4%EB%9E%80)
+[![Git e GitHub](imagens/git-e-github-image.png)](https://medium.com/@talktorahul.b/git-github-explained-126e54926402)
   
 # Git e GitHub 
 
