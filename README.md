@@ -50,7 +50,9 @@ Dentro de cada módulo você encontrará:
  --- 
 
 <div align="center">
- 
-![Matos617](https://img.shields.io/static/v1?label=GitHub&message=matos617&color=f8efd4&style=for-the-badge&logo=GitHub)
+
+Atividade feita por **Carla Beatriz Matos** <br>
+###
+[![Matos617](https://img.shields.io/static/v1?label=GitHub&message=matos617&color=f8efd4&style=for-the-badge&logo=GitHub)](https://github.com/matos617)
 
 </div>
