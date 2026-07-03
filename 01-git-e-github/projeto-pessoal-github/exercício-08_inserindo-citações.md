@@ -1,7 +1,9 @@
 # Exercício 8 – :black_nib:	Inserindo citações
 
 ### Citação em uma linha
-```> Texto```
+```
+> Texto
+```
 Exemplo:
 > O Markdown é uma linguagem mais simplificada da sintaxe do HTML, focada não só na aparência e aparência do texto no GitHub e outros arquivos, mas na sua organização e simplicidade de ser usada nas documentações dos projetos.
 
@@ -28,8 +30,7 @@ Resultado:
 >
 > Texto do segundo parágrafo.
 
-## Utilize blocos de citação para destacar uma frase importante sobre tecnologia ou 
-programação:
+## Utilize blocos de citação para destacar uma frase importante sobre tecnologia ou programação:
 
 > "Markdown é uma linguagem de marcação leve que permite escrever em texto simples."
 > 
