@@ -30,9 +30,7 @@ Repositório criado para demonstrar o meu desenvolvimento durante as trilhas do 
 ```
 aponti-fap-teste-de-software-turma-18
 ├── 📂 git-e-github
-|   └── 📂 gif
-|   ├── 📂 imagens
-|   ├── 📂 pdf
+|   ├── ...
 |   └── 📂 projeto-pessoal-github
 |       └── # Exercícios 1-10
 ├── 📂 módulo-01/
