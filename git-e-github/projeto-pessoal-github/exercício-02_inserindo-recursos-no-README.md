@@ -39,7 +39,7 @@ Veja a imagem com todos os ![Comandos Git](../imagens/Comandos_Git_Guia.jpeg).
 ```
 Veja a imagem com todos os Comandos do Git (clique na imagem para ir ao diretótio da imagem):
 
-![Comandos Git](../imagens/Comandos_Git_Guia.jpeg).
+![Comandos Git](../imagens/comandos_git_guia.jpeg).
 
 Este *Exercício 02* está em `01-git-e-github/projeto-pessoal-github/`, e a imagem está em `01-git-e-github/imagens/Comandos_Git_Guia.jpeg`, logo será nescessário **voltar uma pasta** com o `..` (dois pontos).
 
