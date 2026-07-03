@@ -8,9 +8,7 @@
 
 <div align="center">
   
-![Status](https://img.shields.io/badge/Status-em_andamento-brightgreen?style=for-the-badge) ![Status](https://img.shields.io/badge/Nota-Sem_Nota-blue?style=for-the-badge) [![Status](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE.md)
-<br>
-[![Matos617](https://img.shields.io/static/v1?label=GitHub&message=matos617&color=f8efd4&style=for-the-badge&logo=GitHub)](https://github.com/matos617)
+![Status](https://img.shields.io/badge/Status-em_andamento-yellow?style=for-the-badge) ![Status](https://img.shields.io/badge/Nota-Sem_Nota-blue?style=for-the-badge) [![Status](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE.md)
 
 </div>
 
@@ -100,8 +98,11 @@ Exibe o histórico de commits do repositório.
 </div>
 
 ---
+
 <div align="center">
 
 <a href="https://gifdb.com/gif/nyan-cat-rbnlqzxbgvei37v8.html"><img src="https://gifdb.com/images/high/nyan-cat-rbnlqzxbgvei37v8.gif" alt=Nya Cat width="300" height="200"></a>
+
+Atividade feita por [![Matos617](https://img.shields.io/static/v1?label=GitHub&message=matos617&color=f8efd4&style=for-the-badge&logo=GitHub)](https://github.com/matos617)
 
 </div>
