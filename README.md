@@ -1,5 +1,11 @@
+<div align="center">
+ 
 # Formação Acelerada em Programação, 2026 - SOFTEX PE
+
+</div>
+
 Repositório criado para demonstrar o meu desenvolvimento durante as trilhas do treinamento de Teste de Software do programa.
+
 ## Objetivos
 - Construir um portfólio profissional
 
@@ -8,7 +14,7 @@ Repositório criado para demonstrar o meu desenvolvimento durante as trilhas do 
 ## Trilhas 
 | Módulo | Conteúdo | 
 |---------|----------| 
-| 01 | Git e GitHub | 
+| 01 | [Git e GitHub](git-e-github) | 
 | 02 | Lógica básica de sistemas | 
 | 03 | Testes manuais  | 
 | 04 | Ferramentas básicas da área  | 
