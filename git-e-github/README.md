@@ -46,8 +46,8 @@ Clique **[aqui](pdf/projeto-pessoal-github.pdf)** para visualizar o PDF do proje
 | Markdown | Criação de um portifólio profissional | Intermediário |
 
 <details>
-
-#### <summary>Comandos Git Utilizados:</summary>
+  
+<summary>Comandos Git Utilizados:</summary>
 
 ```
 git clone    # Clonar repositótio
