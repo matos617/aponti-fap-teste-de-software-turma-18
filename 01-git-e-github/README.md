@@ -2,6 +2,12 @@
 
 ## :technologist: Projeto Pessoal GitHub
 
+![GitHub repo size](https://img.shields.io/github/repo-size/matos617/aponti-fap-teste-de-software-turma-18?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/matos617/aponti-fap-teste-de-software-turma-18?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iuricode/aponti-fap-teste-de-software-turma-18?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/matos617/aponti-fap-teste-de-software-turma-18?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/aponti-fap-teste-de-software-turma-18?style=for-the-badge)
+
 ### Ferramentas usadas:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
