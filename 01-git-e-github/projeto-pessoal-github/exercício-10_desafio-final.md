@@ -88,7 +88,6 @@ Você pode criar links para seções do próprio documento:
 
 ## Escudos personalizados
 
-Escudos personalizados
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue?style=flat-square)
 ![Versão](https://img.shields.io/badge/version-1.0.0-green)
 ![Contribuições](https://img.shields.io/badge/contributions-welcome-orange)
@@ -115,8 +114,6 @@ Alertas são usados para enfatizar informações críticas, baseadaa no blockquo
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
-
-### 2. Mapa
 
 ---
 
