@@ -8,7 +8,7 @@
 
 <div align="center">
   
-![Status](https://img.shields.io/badge/Status-em_andamento-yellow?style=for-the-badge) ![Status](https://img.shields.io/badge/Nota-Sem_Nota-blue?style=for-the-badge) [![Status](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE.md)
+![Status](https://img.shields.io/badge/Status-em_andamento-yellow?style=for-the-badge) ![Status](https://img.shields.io/badge/Nota-Sem_Nota-blue?style=for-the-badge) [![Status](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](../../LICENSE.md)
 
 </div>
 
