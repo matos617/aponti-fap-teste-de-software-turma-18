@@ -6,7 +6,9 @@
 
 <div align="center">
   
-![Status](https://img.shields.io/badge/Status-terminado-red?style=for-the-badge) ![Status](https://img.shields.io/badge/Nota-Sem_Nota-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-terminado-red?style=for-the-badge) ![Status](https://img.shields.io/badge/Nota-Sem_Nota-blue?style=for-the-badge) [![Status](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE.md)
+<br>
+![Matos617](https://img.shields.io/static/v1?label=GitHub&message=matos617&color=f8efd4&style=for-the-badge&logo=GitHub)
 
 </div>
 
@@ -43,6 +45,44 @@ Clique **[aqui](pdf/projeto-pessoal-github.pdf)** para visualizar o PDF do proje
 | GitHub  | Noções básicas do site, como criar repositórios | Intermediário |
 | Markdown | Criação de um portifólio profissional | Intermediário |
 
+<details>
+
+<summary> #### Comandos Git Utilizados: </summary>
+```
+git clone    # Clonar repositótio
+mkdir projeto    # Cria diretórios e subdiretórios (pastas) pelo terminal.
+cd projeto    # Muda o diretório atual para o diretório especificado.
+git init    # Inicializando o repositório Git
+git status    # Mostra o estado atual do repositório
+```
+##### Criando um arquivo README.md:
+```bash 
+git add README.md
+git status
+git commit -m "Primeiro commit - Adicionando o arquivo README.md" 
+git log
+```
+##### Adicionar
+```bash
+git add nome_arquivo 
+#ou
+git add .
+```
+`git add nome_arquivo` adiciona um arquivo específico à Staging Area, o `git add .` adiciona todos os arquivos.
+
+##### "Gravar" histórico
+```bash
+git commit -m "mensagem do commit"
+```
+Cria um commit com uma mensagem descritiva.
+
+##### Histórico
+```bash
+git log
+```
+Exibe o histórico de commits do repositório.
+
+</details>
 
 ---
 <div align="center">
