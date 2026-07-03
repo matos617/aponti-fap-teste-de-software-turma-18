@@ -18,7 +18,7 @@ Repositório criado para demonstrar o meu desenvolvimento durante as trilhas do 
 | Módulo | Conteúdo | 
 |---------|----------| 
 | 00 | [Git e GitHub](git-e-github) |
-| 01 | [Teste de Software](módulo-01) |
+| 01 | [Introdução ao Teste de Software](módulo-01) |
 | 02 | Lógica básica de sistemas | 
 | 03 | Testes manuais  | 
 | 04 | Ferramentas básicas da área  | 
