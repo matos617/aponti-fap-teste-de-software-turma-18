@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![Status](https://img.shields.io/badge/Status-terminado-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-terminado-red?style=for-the-badge) ![Status](https://img.shields.io/badge/Nota-Sem-Nota-red?style=for-the-badge)
 
 </div>
 
