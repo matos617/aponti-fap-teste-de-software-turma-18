@@ -31,3 +31,10 @@
 - [Exercício 08 – Inserindo citações](projeto-pessoal-github/exercício-08_inserindo-citações.md)
 - [Exercício 09 – Links internos](projeto-pessoal-github/exercício-09_links-internos.md) :heavy_check_mark:
 - [Exercício 10 – Desafio Final](projeto-pessoal-github/exercício-10_desafio-final.md)
+
+---
+<div align="center">
+  
+[![Nya Cat](https://gifdb.com/images/high/nyan-cat-rbnlqzxbgvei37v8.gif)](https://gifdb.com/gif/nyan-cat-rbnlqzxbgvei37v8.html)
+
+</div>
