@@ -32,11 +32,12 @@ Resultado:
 
 ## Utilize blocos de citação para destacar uma frase importante sobre tecnologia ou programação:
 
-> "Markdown é uma linguagem de marcação leve que permite escrever em texto simples."
+> "Todo mundo deveria aprender a programar, porque isso ensina a pensar."
 > 
-> —— John Gruber, criador do Markdown.
+> —— Steve Jobs, co-fundador da Apple.
 
 ---
 
 ## Créditos
 - [Sintaxe de citações no Marksown](https://www.markdownlang.com/pt/basic/blockquotes.html)
+- [Desvendando o Código](https://codecrush.com.br/blog/25-frases-sobre-tecnologia)
