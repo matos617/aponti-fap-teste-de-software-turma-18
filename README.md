@@ -28,11 +28,17 @@ Repositório criado para demonstrar o meu desenvolvimento durante as trilhas do 
 ## :card_index_dividers: Estrutura das Pastas
 ```
 aponti-fap-teste-de-software-turma-18
-├── git-e-github
-├── módulo-01/
-|   └── unidade-01
-├── LICENSE.md
-└── README.md
+├── 📂 git-e-github
+|   └── 📂 gif
+|   ├── 📂 imagens
+|   ├── 📂 pdf
+|   └── 📂 projeto-pessoal-github
+|       └── # Exercícios 1-10
+├── 📂 módulo-01/
+|   └── 📂 unidade-01
+|       └── # Atividades Avaliativas
+├── 📄 LICENSE.md
+└── 📄 README.md
 ```
  
 ## Como utilizar 
