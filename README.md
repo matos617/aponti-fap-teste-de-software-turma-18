@@ -14,8 +14,6 @@ Repositório criado para demonstrar o meu desenvolvimento durante as trilhas do 
 ## Objetivos
 - Construir um portfólio profissional
 
---- 
-
 ## Trilhas 
 | Módulo | Conteúdo | 
 |---------|----------| 
@@ -26,8 +24,16 @@ Repositório criado para demonstrar o meu desenvolvimento durante as trilhas do 
 | 05 | Testes de API | 
 | 06 | Automação de testes | 
 | 07 | Qualidade de software e integração contínua |  
- 
- --- 
+
+## :card_index_dividers: Estrutura das Pastas
+```
+aponti-fap-teste-de-software-turma-18
+├── git-e-github
+├── módulo-01/
+|   └── unidade-01
+├── LICENSE.md
+└── README.md
+```
  
 ## Como utilizar 
  
