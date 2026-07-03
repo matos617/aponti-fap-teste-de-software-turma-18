@@ -4,7 +4,7 @@
  
 # Formação Acelerada em Programação, 2026 - SOFTEX PE
 
-![Status](https://img.shields.io/badge/Status-Em_Andamento-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Em_Andamento-yellow?style=for-the-badge)
 [![Status](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE.md)
 
 </div>
