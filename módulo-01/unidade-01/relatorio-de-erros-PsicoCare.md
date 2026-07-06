@@ -2,7 +2,7 @@
 
 <details>
   
-## <summary>Atividade Avaliativa</summary>
+<summary>Atividade Avaliativa</summary>
 
 ### Analisar um cenário fictício de software com defeitos e entregar um relatório explicativo que inclua: 
 - Em que fase do ciclo o defeito poderia ter sido encontrado?
