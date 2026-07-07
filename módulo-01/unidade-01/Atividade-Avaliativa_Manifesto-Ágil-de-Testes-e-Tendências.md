@@ -1,5 +1,4 @@
-Aberto: quinta-feira, 2 jul. 2026, 00:00
-Vencimento: quinta-feira, 9 jul. 2026, 00:00
+# Manifesto Ágil de Testes e Tendências
 
 <details>
   <summary>Atividade:</summary>
@@ -11,3 +10,7 @@ Criar um quadro comparativo contendo:
   > “Quais desafios atuais de QA mais impactam projetos reais?”
 
 </details>
+
+---
+
+# 
