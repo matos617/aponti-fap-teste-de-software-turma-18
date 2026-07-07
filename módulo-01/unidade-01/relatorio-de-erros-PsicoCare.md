@@ -28,7 +28,7 @@ Durante a fase de testes foram encontrados diversos defeitos.
 
 </details>
 
-## Defeito 1 – Ficha de Anamnese (Erro de persistência de dados)
+## :o: Defeito 1 – Ficha de Anamnese (Erro de persistência de dados)
 ### Fase do ciclo
 - Poderia ser identificado durante os testes funcionais ou testes de integração (comunicação entre a aplicação e o banco de dados), verificando se o cadastro realmente era persistido no banco de dados. O defeito poderia ter sido evitado na fase de Testes Unitários (testar por unidade cada ação, nesta seria a persistência), mas é mais comumente encontrado em testes que mexem com a base de dados real.
 
@@ -41,7 +41,7 @@ Durante a fase de testes foram encontrados diversos defeitos.
 ### Relação com o custo de correção
 Custo muito alto. Quanto mais tarde o defeito é descoberto, maior o custo. Revisão de toda a lógica e dados.
 
-## Defeito 2 - Agenda de Consultas
+## :o: Defeito 2 - Agenda de Consultas
 ### Fase do ciclo
 - Poderia ter sido identificado na fase de levantamento de requisitos (regras de negócio da clínica), durante a especificação da regra "não permitir duplicidade de horário para o mesmo psicólogo".
 
@@ -54,7 +54,7 @@ Custo muito alto. Quanto mais tarde o defeito é descoberto, maior o custo. Revi
 ### Relação com o custo de correção
 - Custo elevado. 
 
-## Defeito 3 – Cadastro do Psicólogo
+## :o: Defeito 3 – Cadastro do Psicólogo
 ### Fase do ciclo
 - Testes de Unidade ou Testes de Validação de Campos. Poderia ser evitado na fase de desenvolvimento com a implementação de máscaras no front-end e validações no back-end.
 
@@ -69,7 +69,7 @@ Custo muito alto. Quanto mais tarde o defeito é descoberto, maior o custo. Revi
 
 
  
-## Defeito 4 – Controle Financeiro 
+## :o: Defeito 4 – Controle Financeiro 
 ### Fase do ciclo
 - Poderia ser encontrado durante a análise das regras de negócio e nos testes funcionais do módulo financeiro.
 
@@ -84,7 +84,7 @@ Custo muito alto. Quanto mais tarde o defeito é descoberto, maior o custo. Revi
 
 
 
-## Defeito 5 – Controle de Estoque
+## :o: Defeito 5 – Controle de Estoque
 ### Fase do ciclo
 - Poderia ser identificado durante a análise de requisitos e nos testes das regras de negócio.
 
@@ -99,7 +99,7 @@ Custo alto. Corrigir a validação de estoque mínimo antes de permitir a baixa.
 
 
 
-## Defeito 6 – Exclusão de Paciente (Integridade de banco de dados)
+## :o: Defeito 6 – Exclusão de Paciente (Integridade de banco de dados)
 ### Fase do ciclo
 - Poderia ser encontrado durante os testes de integração, testes de banco de dados.
 
@@ -114,7 +114,7 @@ Custo alto. Corrigir a validação de estoque mínimo antes de permitir a baixa.
 
 
 
-## Defeito 7 – Pesquisa de Pacientes
+## :o: Defeito 7 – Pesquisa de Pacientes
 ### Fase do ciclo
 - Poderia ser identificado durante os testes de usabilidade e testes funcionais.
 
@@ -129,7 +129,7 @@ Custo baixo. Mexe com a lógica de busca.
 
 
 
-## Defeito 8 – Login
+## :o: Defeito 8 – Login
 ### Fase do ciclo
 - Poderia ser identificado na fase de requisitos de segurança e evitado com a implementação de um mecanismo de bloqueio por tentativas.
 
