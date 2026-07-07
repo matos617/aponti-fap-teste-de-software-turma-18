@@ -30,7 +30,7 @@ Durante a fase de testes foram encontrados diversos defeitos.
 
 ## Defeito 1 – Ficha de Anamnese (Erro de persistência de dados)
 ### Fase do ciclo
-- Poderia ser identificado durante os testes funcionais ou testes de integração (comunicação entre a aplicação e o banco de dados), verificando se o cadastro realmente era persistido no banco de dados. O defeito poderia ter sido evitado na fase de Testes Unitários (testar por unidade cada ação, nesta seria a persistência), mas é mais comumente encontrado em testes que envolvem a base de dados real.
+- Poderia ser identificado durante os testes funcionais ou testes de integração (comunicação entre a aplicação e o banco de dados), verificando se o cadastro realmente era persistido no banco de dados. O defeito poderia ter sido evitado na fase de Testes Unitários (testar por unidade cada ação, nesta seria a persistência), mas é mais comumente encontrado em testes que mexem com a base de dados real.
 
 ### Impacto para o usuário
 - A recepcionista perde tempo preenchendo um formulário extenso, acreditando que o paciente foi cadastrado, mas as informações são perdidas ou se quer gravadas sem o conhecimento da recepcionista ou usuário, exigindo um novo cadastro funcional.
@@ -40,8 +40,6 @@ Durante a fase de testes foram encontrados diversos defeitos.
 
 ### Relação com o custo de correção
 Custo muito alto. Quanto mais tarde o defeito é descoberto, maior o custo. Revisão de toda a lógica e dados.
-
-###
 
 ## Defeito 2 - Agenda de Consultas
 ### Fase do ciclo
