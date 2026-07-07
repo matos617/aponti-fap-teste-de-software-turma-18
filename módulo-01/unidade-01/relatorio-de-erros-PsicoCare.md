@@ -27,3 +27,25 @@ O sistema possui os seguintes módulos:
 Durante a fase de testes foram encontrados diversos defeitos.
 
 </details>
+
+## Defeito 1 – Ficha de Anamnese
+### Fase do ciclo
+Poderia ser identificado durante os testes funcionais ou testes de integração, verificando se o cadastro realmente era persistido no banco de dados.
+
+### Impacto para o usuário
+A recepcionista acredita que o paciente foi cadastrado, mas as informações são perdidas, exigindo um novo cadastro.
+
+### Impacto para o negócio
+Pode causar perda de informações importantes, atrasos no atendimento e insatisfação dos pacientes.
+
+### Relação com o custo de correção
+Se encontrado durante os testes, o custo de correção seria baixo. Caso o sistema já estivesse em produção, haveria maior custo devido à correção, revalidação e possíveis prejuízos operacionais.
+
+## Defeito 2 - Agenda de Consultas
+### Fase do ciclo
+
+### Impacto para o usuário
+
+### Impacto para o negócio
+
+### Relação com o custo de correção
