@@ -143,5 +143,6 @@ Custo baixo. Mexe com a lógica de busca.
 - Urgente. Adicionar um contador de tentativas na sessão ou tabela de usuários e uma lógica de bloqueio por tempo para limitar as tentativas automáticas.
 
 ---
-
-06/07/2026
+<div align="center">
+  06/07/2026
+</div>
