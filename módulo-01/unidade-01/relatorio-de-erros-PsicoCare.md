@@ -28,20 +28,74 @@ Durante a fase de testes foram encontrados diversos defeitos.
 
 </details>
 
-## Defeito 1 – Ficha de Anamnese
+## Defeito 1 – Ficha de Anamnese (Erro de persistência de dados)
 ### Fase do ciclo
-Poderia ser identificado durante os testes funcionais ou testes de integração, verificando se o cadastro realmente era persistido no banco de dados.
+Poderia ser identificado durante os testes funcionais ou testes de integração (comunicação entre a aplicação e o banco de dados), verificando se o cadastro realmente era persistido no banco de dados. O defeito poderia ter sido evitado na fase de Testes Unitários (testar por unidade cada ação, nesta seria a persistência), mas é mais comumente encontrado em testes que envolvem a base de dados real.
 
 ### Impacto para o usuário
-A recepcionista acredita que o paciente foi cadastrado, mas as informações são perdidas, exigindo um novo cadastro.
+A recepcionista perde tempo preenchendo um formulário extenso, acreditando que o paciente foi cadastrado, mas as informações são perdidas ou se quer gravadas sem o conhecimento da recepcionista ou usuário, exigindo um novo cadastro funcional.
 
 ### Impacto para o negócio
-Pode causar perda de informações importantes, atrasos no atendimento e insatisfação dos pacientes.
+Causa a perda de informações importantes do paciente, atrasos no atendimento, perdas de consultas, e insatisfação dos pacientes, além de desconfiança na organização da clínica e segurança sobre os fdados pelos pacientes.
 
 ### Relação com o custo de correção
-Se encontrado durante os testes, o custo de correção seria baixo. Caso o sistema já estivesse em produção, haveria maior custo devido à correção, revalidação e possíveis prejuízos operacionais.
+Custo muito alto. Quanto mais tarde o defeito é descoberto, maior o custo. Revisão de toda a lógica e dados.
 
 ## Defeito 2 - Agenda de Consultas
+### Fase do ciclo
+
+### Impacto para o usuário
+
+### Impacto para o negócio
+
+### Relação com o custo de correção
+
+## Defeito 3 – Cadastro do Psicólogo
+### Fase do ciclo
+
+### Impacto para o usuário
+
+### Impacto para o negócio
+
+### Relação com o custo de correção
+
+## Defeito 4 – Controle Financeiro 
+### Fase do ciclo
+
+### Impacto para o usuário
+
+### Impacto para o negócio
+
+### Relação com o custo de correção
+
+## Defeito 5 – Controle de Estoque
+### Fase do ciclo
+
+### Impacto para o usuário
+
+### Impacto para o negócio
+
+### Relação com o custo de correção
+
+## Defeito 6 – Exclusão de Paciente
+### Fase do ciclo
+
+### Impacto para o usuário
+
+### Impacto para o negócio
+
+### Relação com o custo de correção
+
+## Defeito 7 – Pesquisa de Pacientes
+### Fase do ciclo
+
+### Impacto para o usuário
+
+### Impacto para o negócio
+
+### Relação com o custo de correção
+
+## Defeito 8 – Login
 ### Fase do ciclo
 
 ### Impacto para o usuário
