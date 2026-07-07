@@ -140,4 +140,8 @@ Custo baixo. Mexe com a lógica de busca.
 - Vazamento de dados sensíveis dos pacientes em risco, perda de crdibilidade e confiança, enquanto o paciente usuário não saberá o estado de sigilo de suas consultas.
 
 ### Relação com o custo de correção
-- Urgente. Adicionar um contador de tentativas na sessão ou tabela de usuários e uma lógica de bloqueio por tempo para limitar as tentativas automáticas. 
+- Urgente. Adicionar um contador de tentativas na sessão ou tabela de usuários e uma lógica de bloqueio por tempo para limitar as tentativas automáticas.
+
+---
+
+06/07/2026
