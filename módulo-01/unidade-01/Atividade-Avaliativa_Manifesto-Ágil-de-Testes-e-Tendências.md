@@ -15,4 +15,7 @@ Criar um quadro comparativo contendo:
 
 | Aspecto | Práticas Tradicionais de QA | Práticas Modernas |
 |:--------|:---------------------------|:------------------|
-| Documentação | Extensa documentação e maior tempo em manutenção dela | Documentação clara e leve, para a comunicação ágil e maior colaboração |
+| Documentação | Extensa documentação, com muito esforço de manutenção | Documentação clara e leve, para a comunicação ágil e maior colaboração |
+| Definição de qualidade | Qualidade baseada na conformidade com requisitos e normas | Qualidade com foco no valor entregue ao cliente e UX, além na entrega dos requisitos |
+Plano de qualidade | Documento formal que descreve o produto e define os atributos de qualidade em prioridade | Mais dinâmico e colaborativo que é ajustado/adaptado continuamente conforme feedback e mudanças.
+| Momento dos testes | Testes concentrados nas fases finais do desenvolvimento para validação | Testes contínuos desde o início do ciclo (“Shift Left”) |
