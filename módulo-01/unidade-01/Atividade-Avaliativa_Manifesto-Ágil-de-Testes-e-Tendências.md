@@ -4,7 +4,7 @@
   <summary>Atividade:</summary>
   
 Criar um quadro comparativo contendo:
-- Práticas tradicionais de [**QA**](#QA)
+- Práticas tradicionais de [**QA**](#qa-quality-assurance-ou-garantia-de-qualidade)
 - Práticas modernas (Agile Testing, Automação, Shift Left, DevSecTestOps)
 - Finalizar com uma reflexão escrita: 
   > “Quais desafios atuais de QA mais impactam projetos reais?”
