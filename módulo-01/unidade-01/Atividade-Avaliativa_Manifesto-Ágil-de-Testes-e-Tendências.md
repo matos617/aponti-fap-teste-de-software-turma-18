@@ -4,7 +4,7 @@
   <summary>Atividade:</summary>
   
 Criar um quadro comparativo contendo:
-- Práticas tradicionais de QA
+- Práticas tradicionais de **QA**
 - Práticas modernas (Agile Testing, Automação, Shift Left, DevSecTestOps)
 - Finalizar com uma reflexão escrita: 
   > “Quais desafios atuais de QA mais impactam projetos reais?”
@@ -12,7 +12,10 @@ Criar um quadro comparativo contendo:
 </details>
 
 ---
-## Práticas tradicionais de QA VS Práticas modernas
+<div align="center">
+  
+  ## Práticas tradicionais de QA vs Práticas modernas
+</div>
 
 | Aspecto | Práticas Tradicionais de QA | Práticas Modernas |
 |:--------|:---------------------------|:------------------|
@@ -29,11 +32,13 @@ Criar um quadro comparativo contendo:
 | Segurança | Era de forma separada e também nas fases finais | Adicionada desde o início (**DevSecOps/DevSecTestOps**). | 
 
 ### Pequeno dicionário:
+- #### QA (Quality Assurance ou Garantia de qualidade)
+  Práticas para garantir a alta ou mínima qualidade do prooduto/software. Faz parte do Gerenciamento da Qualidade de Software, junto com o controle de qualidade.
 - #### UX:
   Refere-se a *Experiência do Usuário* no software.
 - #### Shift Left:
   Estratégia de antecipar trabalhos e validações (testes, segurança, observabilidade e performance), que tradicionalmente ocorriam nas fases finais do ciclo, para o início do desenvolvimento.
-- #### Integração CI/CD
+- #### Integração CI/CD:
 - #### DevOps
 - #### Agile/Scrum
 - #### DevSecOps/DevSecTestOps
