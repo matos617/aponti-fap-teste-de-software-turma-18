@@ -14,5 +14,5 @@ Criar um quadro comparativo contendo:
 ---
 
 | Aspecto | Práticas Tradicionais de QA | Práticas Modernas |
-|:--------|:---------------------------:|------------------:|
+|:--------|:---------------------------|:------------------|
 | Documentação | Extensa documentação e maior tempo em manutenção dela | Documentação clara e leve, para a comunicação ágil e maior colaboração |
