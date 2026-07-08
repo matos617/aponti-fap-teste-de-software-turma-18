@@ -42,3 +42,6 @@ Criar um quadro comparativo contendo:
 - #### DevOps
 - #### Agile/Scrum
 - #### DevSecOps/DevSecTestOps
+
+## “Quais desafios atuais de QA mais impactam projetos reais?”
+Para mim, o maior desafio está na definição de qualidade. A qualidade é algo muito abstrato, e questões não funcionais tem de seer levado em conta o objetivo. Todos os testes e evolução da garantia de qualidade se baseou no que seria a qualidade e como alcança-la. "As especificações de um software integram requisitos de várias classes de stakeholders, mas pode acabar não incluindo todos os stakeholders e estes não considerarem o software de qualidade" 
