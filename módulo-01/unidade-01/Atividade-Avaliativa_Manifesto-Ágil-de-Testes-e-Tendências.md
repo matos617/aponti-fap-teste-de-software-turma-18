@@ -34,8 +34,9 @@ Criar um quadro comparativo contendo:
 ## “Quais desafios atuais de QA mais impactam projetos reais?”
 Para mim, o maior desafio está na definição do que é qualidade e de como alcança-la. O conceito de qualidade é algo muito abstrato a sua avaliação é um processo subjetivo. Ao querer aplicá-la nos requisitos de um software/produto, se torna *"dificil escrever requisitos de software completos e inequivocos e é impossível medir diretamente determinadas características da qualidade (por exemplo, a manutenibilidade)"* [¹]. Todos os testes e evolução da garantia de qualidade se basearam nisto. Outra é que as especificações de um software integram requisitos de várias classes de stakeholders/clientes, mas pode acabar não incluindo todos os stakeholders/clientes e estes não considerarem o software de qualidade, por mais que este software atenda aos requisitos pré-estabelecidos [²]. Por isso se torna importante o feedback e a adaptabilidade do sistema, pois o objetivo se fixou na satisfação e experiência do cliente, mas e se as preferências do usuário mudarem? Então o sentido de qualidade muda, mesmo que pouco. O maior desafio dos projetos é saber chegar a um consenso e conseguir trabalhar isso em equipe, pois também haverá divergências sobre a qualidade entre a equipe, já que todos são ativos na garantia da qualidade. 
 
+---
 
-### :open_book: Pequeno dicionário:
+## :open_book: Dicionário:
 - #### QA (Quality Assurance ou Garantia de qualidade)
   Práticas para garantir a alta ou mínima qualidade do prooduto/software. Faz parte do Gerenciamento da Qualidade de Software, junto com o controle de qualidade.
 - #### UX:
