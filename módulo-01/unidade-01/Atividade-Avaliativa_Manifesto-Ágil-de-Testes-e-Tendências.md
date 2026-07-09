@@ -38,7 +38,7 @@ Para mim, o maior desafio está na definição do que é qualidade e de como alc
 
 ## :open_book: Dicionário:
 - #### QA (Quality Assurance ou Garantia de qualidade)
-  Práticas para garantir a alta ou mínima qualidade do prooduto/software. Faz parte do Gerenciamento da Qualidade de Software, junto com o controle de qualidade.
+  Práticas para garantir a alta qualidade do produto/software. Faz parte do Gerenciamento da Qualidade de Software, junto com o controle de qualidade.
 - #### UX:
   Refere-se a *Experiência do Usuário* no software.
 - #### Shift Left:
