@@ -56,6 +56,6 @@ Para mim, o maior desafio está na definição do que é qualidade e de como alc
 
 ---
 
-<div align="cente">
+<div align="center">
 Quarta-feira, dia 8 de Julho de 2026
 </div>
