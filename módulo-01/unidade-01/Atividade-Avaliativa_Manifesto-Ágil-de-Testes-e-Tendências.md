@@ -49,4 +49,5 @@ Para mim, o maior desafio está na definição do que é qualidade e de como alc
 ---
 
 ## Referências
-[¹] e [²] Engenharia De Software 10e, de Ian Sommerville, Gerenciamento da qualidade, pág. 666, seção 24.1 - Qualidade de Software.
+- [[¹] e [²] Engenharia De Software 10e, de Ian Sommerville, Gerenciamento da qualidade, pág. 666, seção 24.1 - Qualidade de Software.](https://archive.org/details/sommerville-engenharia-de-software-10e/page/666/mode/2up)
+- [Shifting from Traditional QA to Next Gen QA - Key Challenges.](https://www.linkedin.com/pulse/shifting-from-traditional-qa-next-gen-key-vyasaraj-padakandla-ad3zc/)
