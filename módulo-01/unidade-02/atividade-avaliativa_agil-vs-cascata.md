@@ -12,10 +12,15 @@ Indicar:
 - Vantagens x Limitações
 </details>
 
-## O que é o modeo Cascata?
+## Metodologias de Desenvolvimento
 
-## O que é a metodologia Ágil
+### O que é o modeo Cascata?
+
+### O que é a metodologia Ágil
 
 ## Tabela comparativa
 | Características | Cascata | Ágil |
 |-----------------|---------|------|
+
+## Referência 
+[Modelo cascata x Metodologia ágil: qual escolher num projeto?](https://www.alura.com.br/artigos/metodologia-agil-e-modelo-cascata)
