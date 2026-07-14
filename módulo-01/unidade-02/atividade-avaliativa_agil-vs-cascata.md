@@ -17,3 +17,5 @@ Indicar:
 ## O que é a metodologia Ágil
 
 ## Tabela comparativa
+| Características | Cascata | Ágil |
+|-----------------|---------|------|
