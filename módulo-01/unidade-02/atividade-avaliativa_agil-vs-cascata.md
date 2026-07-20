@@ -4,9 +4,9 @@
   <summary>Atividade</summary>
   Atividade Avaliativa
 Produzir uma tabela comparativa entre:
-- Ágil
-- Cascata
-  
+  - Ágil
+  - Cascata
+
 Indicar:
 - Como os testes acontecem em cada modelo
 - Vantagens x Limitações
@@ -24,6 +24,6 @@ A metodologia ágil é um cojunto de metodos  frameworks que seguem uma estrutur
 | Características | Cascata | Ágil |
 |-----------------|---------|------|
 | Estrutura | Seguencial e linear | Adaptativa e contínua |
-| Cliente | Contato com o cliente no início **e** fim | Durante todo o desenvolvimento |
+| Cliente | Contato com o cliente no início *e* fim | Durante todo o desenvolvimento |
 ## Referência 
 - [Modelo cascata x Metodologia ágil: qual escolher num projeto?](https://www.alura.com.br/artigos/metodologia-agil-e-modelo-cascata)
