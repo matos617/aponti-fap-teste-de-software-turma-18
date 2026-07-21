@@ -1,18 +1,18 @@
-# Modelo Cascata x Metodologia Ágil
+# Metodologia Cascata x Metodologia Ágil
 
 <details>
-  <summary>Atividade</summary>
-  Atividade Avaliativa
+  <summary>Atividade Avaliativa</summary>
+  
 Produzir uma tabela comparativa entre:
-  - Ágil
-  - Cascata
+- Ágil
+- Cascata
 
 Indicar:
 - Como os testes acontecem em cada modelo
 - Vantagens x Limitações
 </details>
 
-## Metodologias de Desenvolvimento
+## :calendar: Metodologias de Desenvolvimento
 
 ### O que é a metodologia Cascata?
 Metodologia Cascata (ou Waterfall) é uma metodologia de gestão de projetos mais tradicional e preditiva, seguindo etapas sequênciais rígidas e lineares do cronograma para ter uma direção do projeto. 
