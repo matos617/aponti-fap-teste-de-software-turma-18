@@ -47,7 +47,7 @@ A metodologia ágil é um cojunto de metodos  frameworks que seguem uma estrutur
 
 | Aspecto | Cascata | Ágil |
 | --- | --- | --- |
-| **Vantagens** | - Estrutura clara e documentada<br>- Bom para projetos com requisitos estáveis<br>- Facilita gestão em ambientes rígidos (ex.: contratos governamentais) | - Feedback rápido e contínuo<br>- Flexibilidade para mudanças<br>- Entregas incrementais que já geram valor<br>- Testes constantes reduzem riscos |
+| **Vantagens** | - Estrutura clara e documentada<br>- Bom para projetos com requisitos estáveis<br>- Facilita gestão em ambientes rígidos | - Feedback rápido e contínuo<br>- Flexibilidade para mudanças<br>- Entregas incrementais que já geram valor<br>- Testes constantes reduzem riscos |
 | **Limitações** |- Pouca flexibilidade para mudanças<br>- Erros descobertos tarde, com alto custo de correção<br>- Produto só é validado no final, sem entregas intermediárias | - Requer alta colaboração da equipe e cliente<br>- Pode gerar dificuldade em estimar prazos e custos<br>- Menos adequado para projetos com requisitos fixos e pouco envolvimento do cliente | 
 
 ---
