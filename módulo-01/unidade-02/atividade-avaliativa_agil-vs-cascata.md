@@ -16,9 +16,10 @@ Indicar:
 
 ### O que é a metodologia Cascata?
 Metodologia Cascata (ou Waterfall) é uma metodologia de gestão de projetos mais tradicional e preditiva, seguindo etapas sequênciais rígidas e lineares do cronograma para ter uma direção do projeto. 
+Ou seja, os **testes** acontecem apenas após todas as fases anteriores (análise, design, implementação) estarem concluídas. Com isso, os erros só são descobertos no final, tornando correções mais caras e demoradas para serem resolvidas.
 
 ### O que é a metodologia Ágil
-A metodologia ágil é um cojunto de metodos  frameworks que seguem uma estrutura mais adaptativa e focada nas relações das equipes e cliente para contruir o software.
+A metodologia ágil é um cojunto de metodos  frameworks que seguem uma estrutura mais adaptativa e focada nas relações das equipes e cliente para contruir o software. Os **testes** são contínuos e integrados ao processo.
 - #### Scrum
 - #### Kanban
 - #### Extreme Programming – XP
@@ -38,6 +39,13 @@ A metodologia ágil é um cojunto de metodos  frameworks que seguem uma estrutur
 | Mudanças | Poucas alterações durante a fase de execução | Alterações frequentes |
 | Entrega | Única, ao final do projeto | Várias entregas de várias versões a cada melhoramento (incremental) |
 | Qualidade | Testada e validada no fim | Garantida continuamente, pela detecção precoce de falhas |
+
+## Vantagens x Limitações
+
+| Aspecto | Ágil | Cascata |
+| --- | --- | --- |
+| **Vantagens** | - Feedback rápido e contínuo<br>- Flexibilidade para mudanças<br>- Entregas incrementais que já geram valor<br>- Testes constantes reduzem riscos | - Estrutura clara e documentada<br>- Bom para projetos com requisitos estáveis<br>- Facilita gestão em ambientes rígidos (ex.: contratos governamentais) |
+| **Limitações** | - Requer alta colaboração da equipe e cliente<br>- Pode gerar dificuldade em estimar prazos e custos<br>- Menos adequado para projetos com requisitos fixos e pouco envolvimento do cliente | - Pouca flexibilidade para mudanças<br>- Erros descobertos tarde, com alto custo de correção<br>- Produto só é validado no final, sem entregas intermediárias |
 
 ---
 
