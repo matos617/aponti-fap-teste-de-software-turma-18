@@ -30,8 +30,10 @@ A metodologia ágil é um cojunto de metodos  frameworks que seguem uma estrutur
 | Mudanças | Poucas alterações durante a fase de execução | Alterações frequentes |
 | Previsão | Alta previsibilidade (escopo, prazo e custo fixos) | Menor previsibilidade, pela dificuldade de fixar orçamentos e cronogramas (flexível) |
 | Entrega | Única, ao final do projeto | Várias entregas de várias versões a cada melhoramento (incremental) |
-| Qualidade | Testadae validada no fim | Garantida continuamente, pela detecção precoce de falhas |
+| Qualidade | Testada e validada no fim | Garantida continuamente, pela detecção precoce de falhas |
 
-## Referência 
+---
+
+## Referências 
 - [Modelo cascata x Metodologia ágil: qual escolher num projeto?](https://www.alura.com.br/artigos/metodologia-agil-e-modelo-cascata)
 - [Método Cascata](https://artia.com/blog/metodo-cascata/)
