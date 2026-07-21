@@ -37,3 +37,9 @@ A metodologia ágil é um cojunto de metodos  frameworks que seguem uma estrutur
 ## Referências 
 - [Modelo cascata x Metodologia ágil: qual escolher num projeto?](https://www.alura.com.br/artigos/metodologia-agil-e-modelo-cascata)
 - [Método Cascata](https://artia.com/blog/metodo-cascata/)
+
+---
+
+<div align="center">
+Segunda-feira, dia 20 de Julho de 2026
+</div>
