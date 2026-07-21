@@ -23,14 +23,14 @@ A metodologia ágil é um cojunto de metodos  frameworks que seguem uma estrutur
 ## Tabela comparativa
 | Características | Cascata | Ágil |
 |-----------------|---------|------|
-| Estrutura | Seguencial e linear | Adaptativa e contínua |
-| Cliente | Contato com o cliente no início *e* fim, menos dependente | Durante todo o desenvolvimento, mais dependente |
-| Planejamento | Mais rigoroso e fixo, para elimminar etapas desnecessárias |  |
-| Documentação | Extensa e detalhada | Minimalista e focada no valor |
-| Mudanças | Poucas alterações durante a fase de execução | Alterações constantes |
-| Previsão | Total/Grande (fixo) | Limitada pela dificuldade de fixar orçamentos e cronogramas (flexível) |
-| Entrega | Entrega única | Várias entregas de várias versões a cada melhoramento |
-| Qualidade | Testada/revisada no fim | Contínua pela detecção precoce de falhas |
+| Estrutura | Seguencial e linear | Iterativa, adaptativa e contínua |
+| Cliente | Contato com o cliente no início *e* fim, menor envolvimento | Participação constante durante todo o desenvolvimento |
+| Planejamento | Rigoroso e fixo, com etapas bem definidas | Flecível e adaptativa, podendo mudar o cronograma |
+| Documentação | Extensa e detalhada | Minimalista e focada no valor entregue |
+| Mudanças | Poucas alterações durante a fase de execução | Alterações frequentes |
+| Previsão | Alta previsibilidade (escopo, prazo e custo fixos) | Menor previsibilidade, pela dificuldade de fixar orçamentos e cronogramas (flexível) |
+| Entrega | Única, ao final do projeto | Várias entregas de várias versões a cada melhoramento (incremental) |
+| Qualidade | Testadae validada no fim | Garantida continuamente, pela detecção precoce de falhas |
 
 ## Referência 
 - [Modelo cascata x Metodologia ágil: qual escolher num projeto?](https://www.alura.com.br/artigos/metodologia-agil-e-modelo-cascata)
