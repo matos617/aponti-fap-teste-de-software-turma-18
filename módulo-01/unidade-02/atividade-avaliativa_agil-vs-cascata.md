@@ -16,10 +16,10 @@ Indicar:
 
 ### O que é a metodologia Cascata?
 Metodologia Cascata (ou Waterfall) é uma metodologia de gestão de projetos mais tradicional e preditiva, seguindo etapas sequênciais rígidas e lineares do cronograma para ter uma direção do projeto. 
-Ou seja, os **testes** acontecem apenas após todas as fases anteriores (análise, design, implementação) estarem concluídas. Com isso, os erros só são descobertos no final, tornando correções mais caras e demoradas para serem resolvidas.
+Ou seja, os *testes* acontecem apenas após todas as fases anteriores (análise, design, implementação) estarem concluídas. Com isso, os erros só são descobertos no final, tornando correções mais caras e demoradas para serem resolvidas.
 
 ### O que é a metodologia Ágil
-A metodologia ágil é um cojunto de metodos  frameworks que seguem uma estrutura mais adaptativa e focada nas relações das equipes e cliente para contruir o software. Os **testes** são contínuos e integrados ao processo.
+A metodologia ágil é um cojunto de metodos  frameworks que seguem uma estrutura mais adaptativa e focada nas relações das equipes e cliente para contruir o software. Os *testes* são contínuos e integrados ao processo.
 - #### Scrum
 - #### Kanban
 - #### Extreme Programming – XP
