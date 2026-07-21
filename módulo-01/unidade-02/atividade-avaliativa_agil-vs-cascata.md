@@ -1,4 +1,4 @@
-# Metodologia Cascata x Metodologia Ágil
+# Metodologia Cascata x Ágil
 
 <details>
   <summary>Atividade Avaliativa</summary>
