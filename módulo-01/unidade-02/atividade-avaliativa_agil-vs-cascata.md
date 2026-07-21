@@ -12,7 +12,7 @@ Indicar:
 - Vantagens x Limitações
 </details>
 
-## :calendar: Metodologias de Desenvolvimento
+## :card_file_box: Metodologias de Desenvolvimento
 
 ### O que é a metodologia Cascata?
 Metodologia Cascata (ou Waterfall) é uma metodologia de gestão de projetos mais tradicional e preditiva, seguindo etapas sequênciais rígidas e lineares do cronograma para ter uma direção do projeto. 
@@ -26,7 +26,7 @@ A metodologia ágil é um cojunto de metodos  frameworks que seguem uma estrutur
 
 <div align="center">
   
-  ## Tabela comparativa
+  ## :test_tube: Tabela comparativa
 </div>
 
 | Características | Cascata | Ágil |
@@ -40,7 +40,10 @@ A metodologia ágil é um cojunto de metodos  frameworks que seguem uma estrutur
 | Entrega | Única, ao final do projeto | Várias entregas de várias versões a cada melhoramento (incremental) |
 | Qualidade | Testada e validada no fim | Garantida continuamente, pela detecção precoce de falhas |
 
-## Vantagens x Limitações
+<div align="center">
+  
+  ## :balance_scale: Vantagens x Limitações
+</div>
 
 | Aspecto | Ágil | Cascata |
 | --- | --- | --- |
