@@ -26,9 +26,9 @@ A metodologia ágil é um cojunto de metodos  frameworks que seguem uma estrutur
 | Estrutura | Seguencial e linear | Iterativa, adaptativa e contínua |
 | Cliente | Contato com o cliente no início *e* fim, menor envolvimento | Participação constante durante todo o desenvolvimento |
 | Planejamento | Rigoroso e fixo, com etapas bem definidas | Flecível e adaptativa, podendo mudar o cronograma |
+| Previsão | Alta previsibilidade (escopo, prazo e custo fixos) | Menor previsibilidade, pela dificuldade de fixar orçamentos e cronogramas (flexível) |
 | Documentação | Extensa e detalhada | Minimalista e focada no valor entregue |
 | Mudanças | Poucas alterações durante a fase de execução | Alterações frequentes |
-| Previsão | Alta previsibilidade (escopo, prazo e custo fixos) | Menor previsibilidade, pela dificuldade de fixar orçamentos e cronogramas (flexível) |
 | Entrega | Única, ao final do projeto | Várias entregas de várias versões a cada melhoramento (incremental) |
 | Qualidade | Testada e validada no fim | Garantida continuamente, pela detecção precoce de falhas |
 
