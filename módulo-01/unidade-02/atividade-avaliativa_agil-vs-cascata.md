@@ -20,9 +20,9 @@ Metodologia Cascata (ou Waterfall) é uma metodologia de gestão de projetos mai
 ### O que é a metodologia Ágil
 A metodologia ágil é um cojunto de metodos  frameworks que seguem uma estrutura mais adaptativa e focada nas relações das equipes e cliente para contruir o software.
 
-#### ➥ Scrum
-#### ➥ Kanban
-#### ➥ Extreme Programming – XP
+#### - Scrum
+#### - Kanban
+#### - Extreme Programming – XP
 
 <div align="center">
   
