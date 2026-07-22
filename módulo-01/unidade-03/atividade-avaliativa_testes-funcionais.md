@@ -8,7 +8,7 @@ Dado um sistema fictício, os alunos deverão analisar suas funcionalidades e in
 - Quais testes seriam de integração
 - Quais testes seriam de sistema
 - Quais testes seriam de aceitação
-Justificar escolhas com base no objetivo e no nível do teste
+<br> Justificar escolhas com base no objetivo e no nível do teste
 
 ## Sistema Fictício - Sistema de Gerenciamento de Pedidos (SGP)
 O SGP é uma aplicação web utilizada por clientes e administradores para realizar e gerenciar pedidos de produtos online.
