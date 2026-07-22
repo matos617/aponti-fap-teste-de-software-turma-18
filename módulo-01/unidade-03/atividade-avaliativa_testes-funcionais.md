@@ -20,7 +20,7 @@ O SGP é uma aplicação web utilizada por clientes e administradores para reali
 | --- | --- | --- |
 | - Integração com banco de dados de produtos<br>- Integração com serviço de autenticação<br>- Integração com serviço de pedidos | - Cadastro e autenticação de usuários<br>- Consulta de produtos disponíveis<br>- Adição e remoção de itens no carrinho <br>- Cálculo automático do valor total do pedido<br>- Finalização do pedido com confirmação | - O pedido deve conter pelo menos um item<br>- O valor total deve considerar quantidade e preço dos produtos<br>- Usuários não autenticados não podem finalizar pedidos<br>- Após a confirmação, o pedido não pode ser alterado |
 
-###
+---
 
 <div align="center">
 
@@ -55,6 +55,13 @@ O SGP é uma aplicação web utilizada por clientes e administradores para reali
 
 ####  4. Testes de Aceitação
 - confirmar que o sistema atende aos requisitos e às expectativas do cliente ou usuário final.
+
+---
+
+### Referências
+- [Engenharia de Software, Iam Sommerville, Capítulo 4 - Engenharia de requisitos](https://archive.org/details/sommerville-engenharia-de-software-10e/page/84/mode/2up)
+- [Testes Funcionais e Não Funcionais: Guia Completo](https://prometteursolutions.com/blog/pt/testes-funcionais-e-nao-funcionais-guia-completo/)
+- [Diferentes tipos de testes de software](https://www.atlassian.com/br/continuous-delivery/software-testing/types-of-software-testing)
 
 ---
 
