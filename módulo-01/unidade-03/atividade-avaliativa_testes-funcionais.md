@@ -42,6 +42,7 @@ O SGP é uma aplicação web utilizada por clientes e administradores para reali
 | Valor total deve considerar quantidade e preço | Unitário | Verifica apenas a lógica do cálculo. |
 | Usuário não autenticado não pode finalizar pedido | Sistema | Depende do funcionamento conjunto da autenticação e da funcionalidade de fechamento do pedido. |
 | Após a confirmação, o pedido não pode ser alterado | Sistema | Verifica o comportamento do sistema após a conclusão do processo completo do pedido. |
+| Cliente faz login, adiciona produtos ao carrinho e finaliza o pedido com sucesso | Aceitação | Valida o principal fluxo de compra do sistema. |
 
 ### Sobre os testes
 #### 1. Testes Unitários
