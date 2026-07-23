@@ -23,3 +23,14 @@ A Plataforma (PACO) é um sistema web que permite que usuários realizem o agend
 |   | - Área administrativa para gestão de horários |   |
   
 </details>
+
+### Checklist de Testes Não Funcionais – Plataforma PACO
+
+#### 1. Performance
+
+| ✔ | O que será verificado | Risco
+| --- | --- | --- |
+| ☐ | Tempo de resposta do login, pesquisa e agendamento (até 2 segundos) | Lentidão pode causar desistência dos usuários |
+| ☐ | O funcionamento com múltiplos usuários acessando simultaneamente | Travamentos ou indisponibilidade em horários de pico
+| ☐ | Consumo de CPU, memória e banco de dados durante alto uso | Sobrecarga dos servidores e queda de desempenho |
+| ☐ | Estabilidade após uso contínuo (teste de duração) | Falhas, vazamento de memória ou reinicializações inesperadas
