@@ -2,7 +2,7 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Teste%20de%20Software%20👨💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
  
-# Formação Acelerada em Programação, 2026 - SOFTEX PE
+# Formação Acelerada em Programação, 2026 - APONTI ACADEMY, PE
 
 ![Status](https://img.shields.io/badge/Status-Em_Andamento-yellow?style=for-the-badge)
 [![Status](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE.md)
