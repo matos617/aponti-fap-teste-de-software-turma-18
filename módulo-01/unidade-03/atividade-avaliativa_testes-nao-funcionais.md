@@ -62,3 +62,14 @@ A Plataforma (PACO) é um sistema web que permite que usuários realizem o agend
 | ☐ | Layout responsivo em diferentes resoluções de tela | Má experiência de uso em telas pequenas ou grandes pela qualidade |
 | ☐ | Compatibilidade com Windows, Android, iOS e macOS | Usuários podem não conseguir acessar o sistema corretamente por não estar otimizado para outros sistemas |
 
+---
+
+### Referências
+- [Testes não-funcionais: O que é isso, Tipos, Abordagens, Ferramentas & Mais!](https://www.zaptest.com/pt-br/testes-nao-funcionais-o-que-e-isso-tipos-abordagens-ferramentas-mais)
+- [Checklist de Requisitos Não Funcionais](https://pt.scribd.com/document/950328805/Requisitos-Nao-Funcionais-Lista-de-Verificacao-Bom)
+
+---
+
+<div align="centes">
+Quarta-feira, dia 22 de Julho de 2026
+</div>
