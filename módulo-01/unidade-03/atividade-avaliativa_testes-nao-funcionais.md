@@ -23,7 +23,10 @@ A Plataforma (PACO) é um sistema web que permite que usuários realizem o agend
 |   | - Notificações de confirmação de agendamento | - Dados pessoais devem ser protegidos conforme boas práticas de segurança |
 |   | - Área administrativa para gestão de horários |   |
 
-### Checklist de Testes Não Funcionais – Plataforma PACO
+<div align="center">
+
+  ### Checklist de Testes Não Funcionais – Plataforma PACO
+</div>
 
 #### 1. Performance
 
