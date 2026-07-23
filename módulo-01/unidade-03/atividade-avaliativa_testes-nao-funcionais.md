@@ -70,6 +70,6 @@ A Plataforma (PACO) é um sistema web que permite que usuários realizem o agend
 
 ---
 
-<div align="centes">
+<div align="center">
 Quarta-feira, dia 22 de Julho de 2026
 </div>
