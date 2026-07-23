@@ -33,7 +33,7 @@ A Plataforma (PACO) é um sistema web que permite que usuários realizem o agend
 | ☐ | O funcionamento com múltiplos usuários acessando simultaneamente | Travamentos ou indisponibilidade em horários de pico
 | ☐ | Consumo de CPU, memória e banco de dados durante alto uso | Sobrecarga dos servidores e queda de desempenho |
 | ☐ | Estabilidade após uso contínuo (teste de duração) | Falhas, vazamento de memória ou reinicializações inesperadas
-| - [] | | |
+ - [] | | |
 
 #### 2. Segurança
 | ✔ | O que será verificado | Risco
