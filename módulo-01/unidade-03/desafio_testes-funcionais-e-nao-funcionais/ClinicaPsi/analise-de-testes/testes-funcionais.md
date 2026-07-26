@@ -1,4 +1,8 @@
+<div align="center">
+
 # Parte 1 — Testes funcionais
+
+</div>
 
 ##  Identificação das funcionalidades
 | Funcionalidade | Usuário | Entrada principal | Resultado esperado | Possível erro |
