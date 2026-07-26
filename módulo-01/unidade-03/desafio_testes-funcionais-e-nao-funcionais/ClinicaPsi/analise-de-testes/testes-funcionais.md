@@ -27,7 +27,34 @@
 | Validação de e-mail | “usuario@dominio.com” | Retorno “válido” ou “inválido” | Avalia isoladamente a regra de validação de formato de e-mail |
 
 
-##  Testes Unitários
+##  Testes de integração 
+| Componentes integrados  | Ação | Resultado esperado | Risco |
+| --- | --- | --- | --- |
+| Cadastro de paciente com Banco de dados | Cadastrar novo paciente | Dados gravados corretamente no banco e paciente aparece na lista | Paciente não salvo ou duplicado |
+| Agendamento + Agenda do psicólogo | Agendar consulta | Horário passa a constar como ocupado na agenda do psicólogo | Dois pacientes no mesmo horário |
+| Check-in + Controle de presença | Realizar check-in do paciente na recepção | Presença registrada no sistema | Paciente não aparece como presente ou duplicidade de presença | 
+| Consulta realizada + Lançamento financeiro | Finalizar consulta de paciente | Valor da sessão lançado automaticamente no financeiro | Consulta registrada sem cobrança ou cobrança duplicada |
+| Compra de produto + Estoque | Registrar compra de produto | Quantidade adicionada ao estoque | Estoque não atualizado ou valor incorreto |
+
+##  
+| Função/regra | Entrada | Resultado esperado | Por que é unitário? |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+##  
+| Função/regra | Entrada | Resultado esperado | Por que é unitário? |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+##  
 | Função/regra | Entrada | Resultado esperado | Por que é unitário? |
 | --- | --- | --- | --- |
 |  |  |  |  |
