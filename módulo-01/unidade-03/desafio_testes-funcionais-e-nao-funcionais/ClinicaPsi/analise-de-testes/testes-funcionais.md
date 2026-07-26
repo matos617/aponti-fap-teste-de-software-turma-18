@@ -4,6 +4,8 @@
 
 </div>
 
+<br>
+
 ##  Identificação das funcionalidades
 | Funcionalidade | Objetivo | Usuário | Entrada principal | Resultado esperado | Possível erro |
 | --- | --- | --- | --- | --- | --- |
