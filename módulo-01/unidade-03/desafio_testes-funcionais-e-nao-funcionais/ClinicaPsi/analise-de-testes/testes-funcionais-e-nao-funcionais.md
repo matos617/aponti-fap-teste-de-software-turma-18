@@ -52,7 +52,17 @@
   5. Registrar evolução da sessão.  
   6. Lançar receita.  
   7. Conferir relatório financeiro.  
-- **Resultado esperado**: Fluxo completo registrado sem falhas.  
+- **Resultado esperado**: Fluxo completo registrado sem falhas.
+
+#### Dados utilizados
+| Campo | Valor |
+| --- | --- |
+| Nome | Alberto Gomes |
+| CPF | 123.456.789-00 |
+| Psicólogo | Dra. Juliana Martins |
+| Data | 27/07/2026 |
+| Horário | 09:00 |
+
 - **Resultado obtido**: (preencher após execução).  
 - **Situação**: Aprovado/Reprovado.  
 - **Evidência**: Prints de cada etapa.  
