@@ -106,7 +106,7 @@
   4. Verificar quantidade final.  
   5. Conferir alerta de estoque mínimo.  
 - **Resultado esperado**: Estoque atualizado corretamente e alerta exibido.  
-- **Resultado obtido**: Cadastro do produto e sua entrada e saída foram um sucesso, mas não emitiu alerta de estoque mínimo.
+- **Resultado obtido**: Cadastro do produto e sua entrada e saída foram um sucesso, mas não emitiu alerta de estoque mínimo atualizado.
 - **Situação**: ![Reprovado](https://img.shields.io/badge/Reprovado-red)
 - **Evidência**:
 ![Papel higiênico](../analise-de-testes/evidencias/produtos-e-materiais.png)
