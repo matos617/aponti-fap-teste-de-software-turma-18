@@ -66,7 +66,9 @@
 - **Resultado obtido**: Usuário foi cadastrado com sucesso, mas os valores *CPF*, *Telefone* não foram convertidos.
 - **Situação**: Aprovado.
 - **Evidência**:
-![Cadastro de Alberto Gomes](../analise-de-testes/evidencias/agendamento-alberto-gomes.png) 
+![Cadastro de Alberto Gomes](../analise-de-testes/evidencias/cadastro-alberto-gomes-01.png)
+![Cadastro feito de Alberto Gomes](../analise-de-testes/evidencias/cadastro-alberto-gomes-02.png)
+
 - **Justificativa**: Teste de sistema porque cobre todo o ciclo de atendimento.  
 
 ### Cenário B — Reagendamento
