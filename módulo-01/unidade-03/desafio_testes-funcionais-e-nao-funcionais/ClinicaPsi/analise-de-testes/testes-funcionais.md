@@ -40,7 +40,6 @@
 <br>
 
 ## 🖥️ Testes de sistema
-Ótimo, Natan! Esse exercício de **testes de sistema** pede que você descreva **cenários completos**, simulando o uso real do sistema pela interface. Diferente dos testes unitários e de integração, aqui você avalia o **fluxo inteiro como o usuário final faria**.  
 
 ### Cenário A — Atendimento completo
 - **Pré-condições**: Sistema ativo; paciente não cadastrado.  
