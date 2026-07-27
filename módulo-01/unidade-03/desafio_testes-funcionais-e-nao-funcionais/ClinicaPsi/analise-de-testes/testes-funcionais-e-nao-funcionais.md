@@ -70,10 +70,10 @@
 - **Evidência**:
 ![Cadastro de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-cadastro-01.png)
 ![Cadastro feito de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-cadastro-02.png)
-![Cadastro feito de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-localizado.png)
-![Check-In de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-checkin.png)
-![Evolução da sessão de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-checkin.png)
+![Alberto Gomes localizado](../analise-de-testes/evidencias/alberto-gomes-localizado.png)
 ![Check-In de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-evolucao-da-sessao.png)
+![Agendamento de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-agendamento.png)
+![Evolução da sessão de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-checkin.png)
 ![Lançar Receita](../analise-de-testes/evidencias/receita.png)
 ![Conferir relatório financeiro](../analise-de-testes/evidencias/relatorio-financeiro.png)
 
