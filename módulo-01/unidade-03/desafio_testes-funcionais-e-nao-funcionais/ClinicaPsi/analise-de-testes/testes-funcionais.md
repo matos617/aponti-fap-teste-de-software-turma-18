@@ -59,8 +59,6 @@
 - **Evidência**: Prints de cada etapa.  
 - **Justificativa**: Teste de sistema porque cobre todo o ciclo de atendimento.  
 
----
-
 ### Cenário B — Reagendamento
 - **Pré-condições**: Paciente e psicólogo cadastrados.  
 - **Dados utilizados**: Consulta marcada para horário X.  
@@ -76,8 +74,6 @@
 - **Evidência**: Prints da agenda antes e depois.  
 - **Justificativa**: Teste de sistema porque envolve fluxo completo de reagendamento.  
 
----
-
 ### Cenário C — Controle de estoque
 - **Pré-condições**: Produto não cadastrado.  
 - **Dados utilizados**: Nome do produto, quantidade mínima, entradas e saídas.  
@@ -92,8 +88,6 @@
 - **Situação**: Aprovado/Reprovado.  
 - **Evidência**: Prints de cadastro, movimentação e alerta.  
 - **Justificativa**: Teste de sistema porque cobre todo o ciclo de estoque.  
-
----
 
 ### Cenário D — Controle de acesso
 - **Pré-condições**: Perfis criados (recepcionista e psicólogo).  
@@ -112,14 +106,32 @@
 
 <br>
 
-##  
-| Função/regra | Entrada | Resultado esperado | Por que é unitário? |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+## Testes de aceitação
+
+### 1. Agendamento sem conflito
+- **Dado que** o paciente e o psicólogo estejam cadastrados,  
+- **quando** a recepcionista tentar agendar uma consulta em um horário já ocupado,  
+- **então** o sistema deverá impedir o agendamento e exibir uma mensagem de erro.  
+
+### 2. Acesso a prontuários
+- **Dado que** existam perfis diferentes no sistema,  
+- **quando** um recepcionista tentar acessar os prontuários,  
+- **então** o sistema deverá negar o acesso e exibir mensagem de permissão insuficiente.  
+
+### 3. Atualização financeira
+- **Dado que** uma receita ou despesa seja lançada,  
+- **quando** o lançamento for confirmado,  
+- **então** o sistema deverá atualizar automaticamente o saldo financeiro da clínica.  
+
+### 4. Controle de estoque
+- **Dado que** um produto esteja cadastrado com quantidade mínima definida,  
+- **quando** o estoque atingir ou ficar abaixo desse valor,  
+- **então** o sistema deverá emitir um alerta de estoque baixo.  
+
+### 5. Localização de pacientes
+- **Dado que** existam pacientes cadastrados,  
+- **quando** o usuário pesquisar por nome ou CPF,  
+- **então** o sistema deverá localizar e exibir o paciente correspondente.  
 
 <br>
 
