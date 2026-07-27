@@ -62,11 +62,11 @@
 | Telefone | (10) 9 1234-5678 |
 | e-mail | alberto.gomes@gmail.com |
 | Psicólogo | Dra. Juliana Martins |
-| Data | 27/07/2026 |
+| Data | 26/07/2026 |
 | Horário | 09:00 |
 
 - **Resultado obtido**: Usuário foi cadastrado com sucesso, mas os valores *CPF*, *Telefone* não foram convertidos.
-- **Situação**: Aprovado.
+- **Situação**: ![Aprovado](https://img.shields.io/badge/Aprovado-green)
 - **Evidência**:
 ![Cadastro de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-cadastro-01.png)
 ![Cadastro feito de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-cadastro-02.png)
