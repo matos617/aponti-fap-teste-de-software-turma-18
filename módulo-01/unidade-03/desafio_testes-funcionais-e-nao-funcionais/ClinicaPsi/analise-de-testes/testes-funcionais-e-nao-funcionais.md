@@ -159,42 +159,42 @@
 ## 📝 Classificação dos testes
 
 ### 1. Verificar se `receitas − despesas` retorna o saldo correto
-[status](https://img.shields.io/badge/Status-Aprovado-green)
+![status](https://img.shields.io/badge/Status-Aprovado-green)
    - **Classificação**: **Unitário**  
    - **Justificativa**: Testa isoladamente a regra de cálculo do saldo, sem depender de interface ou banco de dados.
 
 ### 2. Verificar se uma receita salva aparece no relatório financeiro
-[status](https://img.shields.io/badge/Status-Aprovado-green)
+![status](https://img.shields.io/badge/Status-Aprovado-green)
    - **Classificação**: **Integração**  
    - **Justificativa**: Avalia se o módulo de lançamento de receita comunica corretamente com o módulo de relatórios.
 
 ### 3. Executar todo o fluxo entre cadastro, atendimento e pagamento
-[status](https://img.shields.io/badge/Status-Aprovado-green)
+![status](https://img.shields.io/badge/Status-Aprovado-green)
    - **Classificação**: **Sistema**  
    - **Justificativa**: Testa o sistema completo, simulando o fluxo real de uso pelo usuário final.
 
 ### 4. Confirmar com a direção da clínica se o relatório atende às necessidades administrativas
-[status](https://img.shields.io/badge/Status-Aprovado-green)
+![status](https://img.shields.io/badge/Status-Aprovado-green)
    - **Classificação**: **Aceitação**  
    - **Justificativa**: Verifica se o sistema atende às necessidades do negócio e pode ser aprovado pelo cliente.  
 
 ### 5. Verificar isoladamente a validação de CPF
-[status](https://img.shields.io/badge/Status-Aprovado-green)
+![status](https://img.shields.io/badge/Status-Aprovado-green)
    - **Classificação**: **Unitário**  
    - **Justificativa**: Testa apenas a regra de validação de CPF, sem depender de outros componentes.  
 
 ### 6. Verificar se um reagendamento atualiza a agenda
-[Reprovado](https://img.shields.io/badge/Status-Reprovado-red)
+![Reprovado](https://img.shields.io/badge/Status-Reprovado-red)
    - **Classificação**: **Integração**  
    - **Justificativa**: Avalia se o módulo de reagendamento comunica corretamente com a agenda do psicólogo.  
 
 ### 7. Avaliar se apenas psicólogos podem visualizar prontuários
-[status](https://img.shields.io/badge/Status-Aprovado-green)
+![status](https://img.shields.io/badge/Status-Aprovado-green)
    - **Classificação**: **Sistema**  
    - **Justificativa**: Testa o controle de acesso dentro do sistema, simulando perfis diferentes.  
 
 ### 8. Confirmar com a recepcionista se o processo de agendamento é adequado à rotina da clínica
-[status](https://img.shields.io/badge/Status-Aprovado-green)
+![status](https://img.shields.io/badge/Status-Aprovado-green)
    - **Classificação**: **Aceitação**  
    - **Justificativa**: Verifica se o sistema atende às necessidades práticas da recepcionista, sob o ponto de vista do usuário final.
 
@@ -219,6 +219,8 @@
 | Consumo de memória após uso prolongado | Usar o sistema por 2h e monitorar consumo | Não ultrapassar 500 MB | Travamento do navegador | :yellow_circle: Média |
 
 ### Resultados
+| Verificado | status |
+| --- | --- |
 | Tempo de carregamento da página inicial | :heavy_check_mark: |
 | Tempo para abrir a agenda | :heavy_check_mark: |
 | Velocidade da pesquisa de pacientes | :heavy_check_mark: |
@@ -236,6 +238,8 @@
 | Entrada de scripts nos formulários | Inserir `<script>alert(1)</script>` em campo de texto | Ser tratado como texto e não ser executado | Execução de código malicioso | :red_circle: Alta |
 
 ### Resultados
+| Verificado | status |
+| --- | --- |
 | Acesso a prontuários sem autenticação | :x: |
 | Restrição por perfil de usuário | :x: |
 | Uso de senhas fracas | :x: |
@@ -253,6 +257,8 @@
 | Navegação pelo teclado | Usar apenas TAB e ENTER para navegar | Navegação funcional | Barreiras para usuários com deficiência | :yellow_circle: Média |
 
 ### Resultados
+| Verificado | status |
+| --- | --- |
 | Clareza dos nomes dos menus | :heavy_check_mark: |
 | Facilidade para cadastrar paciente | :heavy_check_mark: |
 | Mensagens de erro e sucesso | :x: |
@@ -270,6 +276,8 @@
 | Exibição correta de acentos e símbolos | Inserir nomes com acentos e caracteres especiais | Exibição correta | Dados ilegíveis | :yellow_circle: Média |
 
 ### Resultados
+| Verificado | status |
+| --- | --- |
 | Funcionamento em Chrome, Firefox e Edge | :heavy_check_mark: |
 | Funcionamento em celular, tablet e computador | :heavy_check_mark: |
 | Diferentes resoluções | :question: (Não testada) |
