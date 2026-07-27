@@ -39,7 +39,7 @@
 
 <br>
 
-## 🖥️ Testes de sistema
+## :desktop_computer: Testes de sistema (Cenários)
 
 ### Cenário A — Atendimento completo
 - **Pré-condições**: Sistema ativo; paciente não cadastrado.  
