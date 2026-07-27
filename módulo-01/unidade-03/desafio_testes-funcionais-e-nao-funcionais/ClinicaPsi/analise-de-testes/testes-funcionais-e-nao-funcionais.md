@@ -106,9 +106,13 @@
   4. Verificar quantidade final.  
   5. Conferir alerta de estoque mínimo.  
 - **Resultado esperado**: Estoque atualizado corretamente e alerta exibido.  
-- **Resultado obtido**: (preencher após execução).  
-- **Situação**: Aprovado/Reprovado.  
-- **Evidência**: Prints de cadastro, movimentação e alerta.  
+- **Resultado obtido**: Cadastro do produto e sua entrada e saída foram um sucesso, mas não emitiu alerta de estoque mínimo.
+- **Situação**: [Reprovado](https://img.shields.io/badge/Reprovado-red)
+- **Evidência**:
+![Papel higiênico](../analise-de-testes/evidencias/produtos-e-materiais.png)
+![Entrada e saída do papel higiênico](../analise-de-testes/evidencias/controle-de-estoque.png)
+
+
 - **Justificativa**: Teste de sistema porque cobre todo o ciclo de estoque.  
 
 ### Cenário D — Controle de acesso
