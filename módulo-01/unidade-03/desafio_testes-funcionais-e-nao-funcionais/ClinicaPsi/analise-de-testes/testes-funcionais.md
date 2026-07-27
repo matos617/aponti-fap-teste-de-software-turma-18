@@ -193,7 +193,7 @@
 | Restrição por perfil de usuário | Entrar como recepcionista e tentar acessar prontuários | Acesso negado | Exposição de dados sensíveis | Alta |
 | Uso de senhas fracas | Tentar cadastrar senha "123456" | Bloqueio da senha | Invasão de contas | Alta |
 | Expiração da sessão | Deixar sessão aberta por 30 min sem uso | Logout automático | Uso indevido por terceiros | Média |
-| Entrada de scripts nos formulários | Inserir `<script>alert(1)</script>` em campo de texto | Bloqueio da entrada | Execução de código malicioso | Alta |
+| Entrada de scripts nos formulários | Inserir `<script>alert(1)</script>` em campo de texto | Ser tratado como texto e não ser executado | Execução de código malicioso | Alta |
 
 ## 🔹 Usabilidade
 
