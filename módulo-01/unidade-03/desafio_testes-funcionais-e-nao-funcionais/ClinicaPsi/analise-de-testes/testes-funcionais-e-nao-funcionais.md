@@ -77,8 +77,6 @@
 ![Lançar Receita](../analise-de-testes/evidencias/receita.png)
 ![Conferir relatório financeiro](../analise-de-testes/evidencias/relatorio-financeiro.png)
 
-- **Justificativa**: Teste de sistema porque cobre todo o ciclo de atendimento.  
-
 ### Cenário B — Reagendamento
 - **Pré-condições**: Paciente e psicólogo cadastrados.  
 - **Dados utilizados**: Consulta marcada para horário X.  
@@ -94,7 +92,6 @@
 - **Evidência**:
 ![Novo Agendamento](../analise-de-testes/evidencias/alberto-gomes-novo-agendamento.png)
 ![Novo Agendamento](../analise-de-testes/evidencias/alberto-gomes-reagendamento.png)
-- **Justificativa**: Teste de sistema porque envolve fluxo completo de reagendamento.
 
 ### Cenário C — Controle de estoque
 - **Pré-condições**: Produto não cadastrado.  
@@ -112,9 +109,6 @@
 ![Papel higiênico](../analise-de-testes/evidencias/produtos-e-materiais.png)
 ![Entrada e saída do papel higiênico](../analise-de-testes/evidencias/controle-de-estoque.png)
 
-
-- **Justificativa**: Teste de sistema porque cobre todo o ciclo de estoque.  
-
 ### Cenário D — Controle de acesso
 - **Pré-condições**: Perfis criados (recepcionista e psicólogo).  
 - **Dados utilizados**: Login e senha de cada perfil.  
@@ -125,10 +119,10 @@
   4. Entrar como psicólogo.  
   5. Validar acesso autorizado.  
 - **Resultado esperado**: Recepcionista bloqueado; psicólogo autorizado.  
-- **Resultado obtido**: (preencher após execução).  
-- **Situação**: Aprovado/Reprovado.  
-- **Evidência**: Prints das tentativas de acesso.  
-- **Justificativa**: Teste de sistema porque avalia fluxo de login e permissões.
+- **Resultado obtido**: Perfis com permissões diferentes, recepcionista acessa prontuário e psicólogo valida acesso.
+- **Situação**: ![Aprovado](https://img.shields.io/badge/Aprovado-green)  
+- **Evidência**:
+![Perfis e permissões](../analise-de-testes/evidencias/perfis-e-permissoes.png)
 
 <br>
 
