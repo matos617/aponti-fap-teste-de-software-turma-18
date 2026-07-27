@@ -105,7 +105,7 @@
 
 <br>
 
-## Testes de aceitação
+## :ballot_box_with_check: Testes de aceitação
 
 ### 1. Agendamento sem conflito
 - **Dado que** o paciente e o psicólogo estejam cadastrados,  
