@@ -59,7 +59,7 @@
 | --- | --- |
 | Nome | Alberto Gomes |
 | CPF | 123.456.789-00 |
-| Telefone | 10 9 1234-5678 |
+| Telefone | (10) 9 1234-5678 |
 | e-mail | alberto.gomes@gmail.com |
 | Psicólogo | Dra. Juliana Martins |
 | Data | 27/07/2026 |
