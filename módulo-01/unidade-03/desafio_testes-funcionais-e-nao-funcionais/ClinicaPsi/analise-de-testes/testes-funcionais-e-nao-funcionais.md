@@ -179,19 +179,25 @@
    - **Justificativa**: Verifica se o sistema atende às necessidades do negócio e pode ser aprovado pelo cliente.  
 
 ### 5. Verificar isoladamente a validação de CPF
-![status](https://img.shields.io/badge/Status-Aprovado-green)
+![Reprovado](https://img.shields.io/badge/Status-Reprovado-red)
    - **Classificação**: **Unitário**  
-   - **Justificativa**: Testa apenas a regra de validação de CPF, sem depender de outros componentes.  
+   - **Justificativa**: Testa apenas a regra de validação de CPF, sem depender de outros componentes.
+> [!WARNING]
+> Não há verificação nenhuma da regra de validação do CPF. 
 
 ### 6. Verificar se um reagendamento atualiza a agenda
 ![Reprovado](https://img.shields.io/badge/Status-Reprovado-red)
    - **Classificação**: **Integração**  
-   - **Justificativa**: Avalia se o módulo de reagendamento comunica corretamente com a agenda do psicólogo.  
+   - **Justificativa**: Avalia se o módulo de reagendamento comunica corretamente com a agenda do psicólogo.
+> [!WARNING]
+> Um reagendamento não elimina o agendamento reagendado e nem atualiza a agenda com a nova data/horário.
 
 ### 7. Avaliar se apenas psicólogos podem visualizar prontuários
-![status](https://img.shields.io/badge/Status-Aprovado-green)
+![Reprovado](https://img.shields.io/badge/Status-Reprovado-red)
    - **Classificação**: **Sistema**  
-   - **Justificativa**: Testa o controle de acesso dentro do sistema, simulando perfis diferentes.  
+   - **Justificativa**: Testa o controle de acesso dentro do sistema, simulando perfis diferentes.
+> [!WARNING]
+> Todos (com ou sem login) conseguem acessar o prontuário.
 
 ### 8. Confirmar com a recepcionista se o processo de agendamento é adequado à rotina da clínica
 ![status](https://img.shields.io/badge/Status-Aprovado-green)
