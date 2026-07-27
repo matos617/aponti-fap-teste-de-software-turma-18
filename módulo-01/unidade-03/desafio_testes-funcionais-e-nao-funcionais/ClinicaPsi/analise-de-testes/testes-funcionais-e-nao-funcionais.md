@@ -107,7 +107,7 @@
   5. Conferir alerta de estoque mínimo.  
 - **Resultado esperado**: Estoque atualizado corretamente e alerta exibido.  
 - **Resultado obtido**: Cadastro do produto e sua entrada e saída foram um sucesso, mas não emitiu alerta de estoque mínimo.
-- **Situação**: [Reprovado](https://img.shields.io/badge/Reprovado-red)
+- **Situação**: ![Reprovado](https://img.shields.io/badge/Reprovado-red)
 - **Evidência**:
 ![Papel higiênico](../analise-de-testes/evidencias/produtos-e-materiais.png)
 ![Entrada e saída do papel higiênico](../analise-de-testes/evidencias/controle-de-estoque.png)
