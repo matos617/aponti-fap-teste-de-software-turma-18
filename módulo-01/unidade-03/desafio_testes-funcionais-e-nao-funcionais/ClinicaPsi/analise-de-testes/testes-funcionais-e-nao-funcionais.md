@@ -119,10 +119,12 @@
   4. Entrar como psicólogo.  
   5. Validar acesso autorizado.  
 - **Resultado esperado**: Recepcionista bloqueado; psicólogo autorizado.  
-- **Resultado obtido**: Perfis com permissões diferentes, recepcionista acessa prontuário e psicólogo valida acesso.
-- **Situação**: ![Aprovado](https://img.shields.io/badge/Aprovado-green)  
+- **Resultado obtido**: Perfis com permissões diferentes, recepcionista acessa prontuário e psicóloga, mas os acessos não estão controlados.
+- **Situação**: ![Reprovado](https://img.shields.io/badge/Status-Reprovado-red)
 - **Evidência**:
 ![Perfis e permissões](../analise-de-testes/evidencias/perfis-e-permissoes.png)
+> [!WARNING]
+> Não há controle de permissões. 
 
 <br>
 
@@ -295,10 +297,15 @@
 <div align="center">
 
 # :lady_beetle: Relatório de Defeitos Encontrados
-
 </div>
 
-## :bar_chart: Resumo dos Defeitos
+## Cadastro indevido
+### Evidência:
+![cadastro indevido](../analise-de-testes/evidencias/cadastro-indevido.png)
+
+## Agendamento com usuário inexistente e data/horário dublicado
+![agendamento inexistente](../analise-de-testes/evidencias/agendamento-paciente-inexistente.png)
+
 ---
 
 <div align="center">
