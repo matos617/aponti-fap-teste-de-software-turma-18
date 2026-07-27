@@ -222,5 +222,13 @@
 ---
 
 <div align="center">
+
+# :lady_beetle: Relatório de Defeitos Encontrados
+
+</div>
+
+---
+
+<div align="center">
   Domingo, dia 26 de Julho de 2026
 </div>
