@@ -63,9 +63,10 @@
 | Data | 27/07/2026 |
 | Horário | 09:00 |
 
-- **Resultado obtido**: (preencher após execução).  
-- **Situação**: Aprovado/Reprovado.  
-- **Evidência**: Prints de cada etapa.  
+- **Resultado obtido**: Usuário foi cadastrado com sucesso, mas os valores *CPF*, *Telefone* não foram convertidos.
+- **Situação**: Aprovado.
+- **Evidência**:
+![Cadastro de Alberto Gomes](../evidencias/cadastro-alberto-gomes.png) 
 - **Justificativa**: Teste de sistema porque cobre todo o ciclo de atendimento.  
 
 ### Cenário B — Reagendamento
