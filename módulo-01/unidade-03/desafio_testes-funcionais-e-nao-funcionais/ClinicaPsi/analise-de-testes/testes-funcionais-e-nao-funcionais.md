@@ -173,7 +173,11 @@
 
 ---
 
+<div align="center">
+
 # Parte 2 — Checklist de testes não funcionais
+
+</div>
 
 ## 🔹 Performance
 
