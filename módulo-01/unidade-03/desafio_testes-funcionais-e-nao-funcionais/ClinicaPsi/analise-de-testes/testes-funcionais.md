@@ -171,11 +171,8 @@
 
 <br>
 
-##  
-| Função/regra | Entrada | Resultado esperado | Por que é unitário? |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+---
+
+<div align="center">
+  Domingo, dia 26 de Julho de 2026
+</div>
