@@ -52,7 +52,7 @@
   5. Registrar evolução da sessão.  
   6. Lançar receita.  
   7. Conferir relatório financeiro.  
-- **Resultado esperado**: Fluxo completo registrado sem falhas.
+- **Resultado esperado**: Fluxo completo registrado.
 
 #### Dados utilizados
 | Campo | Valor |
@@ -71,6 +71,11 @@
 ![Cadastro de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-cadastro-01.png)
 ![Cadastro feito de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-cadastro-02.png)
 ![Cadastro feito de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-localizado.png)
+![Check-In de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-checkin.png)
+![Evolução da sessão de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-checkin.png)
+![Check-In de Alberto Gomes](../analise-de-testes/evidencias/alberto-gomes-evolucao-da-sessao.png)
+![Lançar Receita](../analise-de-testes/evidencias/receita.png)
+![Conferir relatório financeiro](../analise-de-testes/evidencias/relatorio-financeiro.png)
 
 - **Justificativa**: Teste de sistema porque cobre todo o ciclo de atendimento.  
 
