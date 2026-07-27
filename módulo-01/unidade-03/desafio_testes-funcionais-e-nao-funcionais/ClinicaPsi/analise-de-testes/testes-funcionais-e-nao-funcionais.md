@@ -54,7 +54,7 @@
   7. Conferir relatório financeiro.  
 - **Resultado esperado**: Fluxo completo registrado.
 
-#### Dados utilizados
+#### Dados criados
 | Campo | Valor |
 | --- | --- |
 | Nome | Alberto Gomes |
@@ -89,10 +89,12 @@
   4. Conferir ocupação do novo horário.  
   5. Validar agenda atualizada.  
 - **Resultado esperado**: Consulta movida corretamente, sem duplicidade.  
-- **Resultado obtido**: (preencher após execução).  
-- **Situação**: Aprovado/Reprovado.  
-- **Evidência**: Prints da agenda antes e depois.  
-- **Justificativa**: Teste de sistema porque envolve fluxo completo de reagendamento.  
+- **Resultado obtido**: Ocorreu o reagendamento com sucesso.
+- **Situação**: ![Aprovado](https://img.shields.io/badge/Aprovado-green) 
+- **Evidência**:
+![Novo Agendamento](../analise-de-testes/evidencias/alberto-gomes-novo-agendamento.png)
+![Novo Agendamento](../analise-de-testes/evidencias/alberto-gomes-reagendamento.png)
+- **Justificativa**: Teste de sistema porque envolve fluxo completo de reagendamento.
 
 ### Cenário C — Controle de estoque
 - **Pré-condições**: Produto não cadastrado.  
