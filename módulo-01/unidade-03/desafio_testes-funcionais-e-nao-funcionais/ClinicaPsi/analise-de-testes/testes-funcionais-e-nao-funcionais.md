@@ -169,6 +169,8 @@
    - **Classificação**: **Aceitação**  
    - **Justificativa**: Verifica se o sistema atende às necessidades práticas da recepcionista, sob o ponto de vista do usuário final.
 
+## :bar_chart: Resumo dos Testes
+
 <br>
 
 ---
@@ -227,6 +229,7 @@
 
 </div>
 
+## :bar_chart: Resumo dos Defeitos
 ---
 
 <div align="center">
