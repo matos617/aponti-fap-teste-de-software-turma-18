@@ -139,45 +139,31 @@
 
 1. **Verificar se `receitas − despesas` retorna o saldo correto**  
    - **Classificação**: **Unitário**  
-   - **Justificativa**: Testa isoladamente a regra de cálculo do saldo, sem depender de interface ou banco de dados.  
-
----
+   - **Justificativa**: Testa isoladamente a regra de cálculo do saldo, sem depender de interface ou banco de dados.
 
 2. **Verificar se uma receita salva aparece no relatório financeiro**  
    - **Classificação**: **Integração**  
-   - **Justificativa**: Avalia se o módulo de lançamento de receita comunica corretamente com o módulo de relatórios.  
-
----
+   - **Justificativa**: Avalia se o módulo de lançamento de receita comunica corretamente com o módulo de relatórios.
 
 3. **Executar todo o fluxo entre cadastro, atendimento e pagamento**  
    - **Classificação**: **Sistema**  
-   - **Justificativa**: Testa o sistema completo, simulando o fluxo real de uso pelo usuário final.  
-
----
+   - **Justificativa**: Testa o sistema completo, simulando o fluxo real de uso pelo usuário final.
 
 4. **Confirmar com a direção da clínica se o relatório atende às necessidades administrativas**  
    - **Classificação**: **Aceitação**  
    - **Justificativa**: Verifica se o sistema atende às necessidades do negócio e pode ser aprovado pelo cliente.  
 
----
-
 5. **Verificar isoladamente a validação de CPF**  
    - **Classificação**: **Unitário**  
    - **Justificativa**: Testa apenas a regra de validação de CPF, sem depender de outros componentes.  
-
----
 
 6. **Verificar se um reagendamento atualiza a agenda**  
    - **Classificação**: **Integração**  
    - **Justificativa**: Avalia se o módulo de reagendamento comunica corretamente com a agenda do psicólogo.  
 
----
-
 7. **Avaliar se apenas psicólogos podem visualizar prontuários**  
    - **Classificação**: **Sistema**  
    - **Justificativa**: Testa o controle de acesso dentro do sistema, simulando perfis diferentes.  
-
----
 
 8. **Confirmar com a recepcionista se o processo de agendamento é adequado à rotina da clínica**  
    - **Classificação**: **Aceitação**  
