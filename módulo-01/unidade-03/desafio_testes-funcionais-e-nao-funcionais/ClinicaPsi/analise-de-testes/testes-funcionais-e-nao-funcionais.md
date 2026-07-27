@@ -158,39 +158,45 @@
 
 ## 📝 Classificação dos testes
 
-### 1. Verificar se `receitas − despesas` retorna o saldo correto 
+### 1. Verificar se `receitas − despesas` retorna o saldo correto
+[status](https://img.shields.io/badge/Status-Aprovado-green)
    - **Classificação**: **Unitário**  
    - **Justificativa**: Testa isoladamente a regra de cálculo do saldo, sem depender de interface ou banco de dados.
 
-### 2. Verificar se uma receita salva aparece no relatório financeiro  
+### 2. Verificar se uma receita salva aparece no relatório financeiro
+[status](https://img.shields.io/badge/Status-Aprovado-green)
    - **Classificação**: **Integração**  
    - **Justificativa**: Avalia se o módulo de lançamento de receita comunica corretamente com o módulo de relatórios.
 
-### 3. Executar todo o fluxo entre cadastro, atendimento e pagamento  
+### 3. Executar todo o fluxo entre cadastro, atendimento e pagamento
+[status](https://img.shields.io/badge/Status-Aprovado-green)
    - **Classificação**: **Sistema**  
    - **Justificativa**: Testa o sistema completo, simulando o fluxo real de uso pelo usuário final.
 
-### 4. Confirmar com a direção da clínica se o relatório atende às necessidades administrativas  
+### 4. Confirmar com a direção da clínica se o relatório atende às necessidades administrativas
+[status](https://img.shields.io/badge/Status-Aprovado-green)
    - **Classificação**: **Aceitação**  
    - **Justificativa**: Verifica se o sistema atende às necessidades do negócio e pode ser aprovado pelo cliente.  
 
-### 5. Verificar isoladamente a validação de CPF  
+### 5. Verificar isoladamente a validação de CPF
+[status](https://img.shields.io/badge/Status-Aprovado-green)
    - **Classificação**: **Unitário**  
    - **Justificativa**: Testa apenas a regra de validação de CPF, sem depender de outros componentes.  
 
-### 6. Verificar se um reagendamento atualiza a agenda  
+### 6. Verificar se um reagendamento atualiza a agenda
+[Reprovado](https://img.shields.io/badge/Status-Reprovado-red)
    - **Classificação**: **Integração**  
    - **Justificativa**: Avalia se o módulo de reagendamento comunica corretamente com a agenda do psicólogo.  
 
-### 7. Avaliar se apenas psicólogos podem visualizar prontuários 
+### 7. Avaliar se apenas psicólogos podem visualizar prontuários
+[status](https://img.shields.io/badge/Status-Aprovado-green)
    - **Classificação**: **Sistema**  
    - **Justificativa**: Testa o controle de acesso dentro do sistema, simulando perfis diferentes.  
 
-### 8. Confirmar com a recepcionista se o processo de agendamento é adequado à rotina da clínica  
+### 8. Confirmar com a recepcionista se o processo de agendamento é adequado à rotina da clínica
+[status](https://img.shields.io/badge/Status-Aprovado-green)
    - **Classificação**: **Aceitação**  
    - **Justificativa**: Verifica se o sistema atende às necessidades práticas da recepcionista, sob o ponto de vista do usuário final.
-
-## :bar_chart: Resumo dos Testes
 
 <br>
 
@@ -205,12 +211,19 @@
 ## 🔹 Performance
 
 | O que verificar | Como verificar | Critério esperado | Risco | Prioridade |
-|-----------------|----------------|-------------------|--------|------------|
+|-----------------|----------------|-------------------|-------|------------|
 | Tempo de carregamento da página inicial | Medir com cronômetro em diferentes dispositivos | Carregar em até 3 segundos | Lentidão no atendimento | :red_circle: Alta |
 | Tempo para abrir a agenda | Testar com 100 agendamentos cadastrados | Abrir em até 2 segundos | Atraso no atendimento | :red_circle: Alta |
 | Velocidade da pesquisa de pacientes | Pesquisar por nome e CPF em base com 1.000 registros | Resultado em até 2 segundos | Dificuldade em localizar pacientes | :red_circle: Alta |
 | Tempo para salvar registros | Inserir dados de paciente e medir tempo de resposta | Salvar em até 1 segundo | Perda de produtividade | :yellow_circle: Média |
 | Consumo de memória após uso prolongado | Usar o sistema por 2h e monitorar consumo | Não ultrapassar 500 MB | Travamento do navegador | :yellow_circle: Média |
+
+### Resultados
+| Tempo de carregamento da página inicial | :heavy_check_mark: |
+| Tempo para abrir a agenda | :heavy_check_mark: |
+| Velocidade da pesquisa de pacientes | :heavy_check_mark: |
+| Tempo para salvar registros | :heavy_check_mark: |
+| Consumo de memória após uso prolongado | :heavy_check_mark: |
 
 ## 🔹 Segurança
 
@@ -222,6 +235,13 @@
 | Expiração da sessão | Deixar sessão aberta por 30 min sem uso | Logout automático | Uso indevido por terceiros | :yellow_circle: Média |
 | Entrada de scripts nos formulários | Inserir `<script>alert(1)</script>` em campo de texto | Ser tratado como texto e não ser executado | Execução de código malicioso | :red_circle: Alta |
 
+### Resultados
+| Acesso a prontuários sem autenticação | :x: |
+| Restrição por perfil de usuário | :x: |
+| Uso de senhas fracas | :x: |
+| Expiração da sessão | :x: |
+| Entrada de scripts nos formulários | :heavy_check_mark: |
+
 ## 🔹 Usabilidade
 
 | O que verificar | Como verificar | Critério esperado | Risco | Prioridade |
@@ -232,6 +252,13 @@
 | Indicação de campos obrigatórios | Tentar salvar sem preencher campos obrigatórios | Sistema alerta o usuário | Dados incompletos | :red_circle: Alta |
 | Navegação pelo teclado | Usar apenas TAB e ENTER para navegar | Navegação funcional | Barreiras para usuários com deficiência | :yellow_circle: Média |
 
+### Resultados
+| Clareza dos nomes dos menus | :heavy_check_mark: |
+| Facilidade para cadastrar paciente | :heavy_check_mark: |
+| Mensagens de erro e sucesso | :x: |
+| Indicação de campos obrigatórios | :x: |
+| Navegação pelo teclado | :heavy_check_mark: |
+
 ## 🔹 Compatibilidade
 
 | O que verificar | Como verificar | Critério esperado | Risco | Prioridade |
@@ -241,6 +268,13 @@
 | Diferentes resoluções (360px, 768px, 1366px) | Ajustar resolução da tela | Exibição correta | Layout quebrado | :yellow_circle: Média |
 | Orientação vertical e horizontal | Rotacionar dispositivo móvel | Layout adaptado | Perda de dados visíveis | :yellow_circle: Média |
 | Exibição correta de acentos e símbolos | Inserir nomes com acentos e caracteres especiais | Exibição correta | Dados ilegíveis | :yellow_circle: Média |
+
+### Resultados
+| Funcionamento em Chrome, Firefox e Edge | :heavy_check_mark: |
+| Funcionamento em celular, tablet e computador | :heavy_check_mark: |
+| Diferentes resoluções | :question: (Não testada) |
+| Orientação vertical e horizontal | :heavy_check_mark: |
+| Exibição correta de acentos e símbolos | :heavy_check_mark: |
 
 ---
 
