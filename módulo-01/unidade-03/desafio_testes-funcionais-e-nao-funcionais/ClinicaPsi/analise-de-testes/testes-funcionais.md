@@ -26,6 +26,7 @@
 | Identificação de estoque abaixo do mínimo | Estoque atual = 3; mínimo = 5 | Alerta “estoque baixo” | Testa apenas a regra de comparação de valores |
 | Validação de e-mail | “usuario@dominio.com” | Retorno “válido” ou “inválido” | Avalia isoladamente a regra de validação de formato de e-mail |
 
+<br>
 
 ##  Testes de integração 
 | Componentes integrados  | Ação | Resultado esperado | Risco |
@@ -36,14 +37,80 @@
 | Consulta realizada + Lançamento financeiro | Finalizar consulta de paciente | Valor da sessão lançado automaticamente no financeiro | Consulta registrada sem cobrança ou cobrança duplicada |
 | Compra de produto + Estoque | Registrar compra de produto | Quantidade adicionada ao estoque | Estoque não atualizado ou valor incorreto |
 
-##  
-| Função/regra | Entrada | Resultado esperado | Por que é unitário? |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+<br>
+
+## 🖥️ Testes de sistema
+Ótimo, Natan! Esse exercício de **testes de sistema** pede que você descreva **cenários completos**, simulando o uso real do sistema pela interface. Diferente dos testes unitários e de integração, aqui você avalia o **fluxo inteiro como o usuário final faria**.  
+
+### Cenário A — Atendimento completo
+- **Pré-condições**: Sistema ativo; paciente não cadastrado.  
+- **Dados utilizados**: Nome, CPF, telefone, psicólogo, data/hora da consulta, evolução da sessão, valor da consulta.  
+- **Passos**:  
+  1. Cadastrar paciente.  
+  2. Localizar paciente.  
+  3. Agendar consulta.  
+  4. Fazer check-in.  
+  5. Registrar evolução da sessão.  
+  6. Lançar receita.  
+  7. Conferir relatório financeiro.  
+- **Resultado esperado**: Fluxo completo registrado sem falhas.  
+- **Resultado obtido**: (preencher após execução).  
+- **Situação**: Aprovado/Reprovado.  
+- **Evidência**: Prints de cada etapa.  
+- **Justificativa**: Teste de sistema porque cobre todo o ciclo de atendimento.  
+
+---
+
+### Cenário B — Reagendamento
+- **Pré-condições**: Paciente e psicólogo cadastrados.  
+- **Dados utilizados**: Consulta marcada para horário X.  
+- **Passos**:  
+  1. Criar agendamento.  
+  2. Reagendar para novo horário.  
+  3. Verificar liberação do horário anterior.  
+  4. Conferir ocupação do novo horário.  
+  5. Validar agenda atualizada.  
+- **Resultado esperado**: Consulta movida corretamente, sem duplicidade.  
+- **Resultado obtido**: (preencher após execução).  
+- **Situação**: Aprovado/Reprovado.  
+- **Evidência**: Prints da agenda antes e depois.  
+- **Justificativa**: Teste de sistema porque envolve fluxo completo de reagendamento.  
+
+---
+
+### Cenário C — Controle de estoque
+- **Pré-condições**: Produto não cadastrado.  
+- **Dados utilizados**: Nome do produto, quantidade mínima, entradas e saídas.  
+- **Passos**:  
+  1. Cadastrar produto.  
+  2. Registrar entrada.  
+  3. Registrar saída.  
+  4. Verificar quantidade final.  
+  5. Conferir alerta de estoque mínimo.  
+- **Resultado esperado**: Estoque atualizado corretamente e alerta exibido.  
+- **Resultado obtido**: (preencher após execução).  
+- **Situação**: Aprovado/Reprovado.  
+- **Evidência**: Prints de cadastro, movimentação e alerta.  
+- **Justificativa**: Teste de sistema porque cobre todo o ciclo de estoque.  
+
+---
+
+### Cenário D — Controle de acesso
+- **Pré-condições**: Perfis criados (recepcionista e psicólogo).  
+- **Dados utilizados**: Login e senha de cada perfil.  
+- **Passos**:  
+  1. Criar perfis com permissões diferentes.  
+  2. Entrar como recepcionista.  
+  3. Tentar acessar prontuários.  
+  4. Entrar como psicólogo.  
+  5. Validar acesso autorizado.  
+- **Resultado esperado**: Recepcionista bloqueado; psicólogo autorizado.  
+- **Resultado obtido**: (preencher após execução).  
+- **Situação**: Aprovado/Reprovado.  
+- **Evidência**: Prints das tentativas de acesso.  
+- **Justificativa**: Teste de sistema porque avalia fluxo de login e permissões.
+
+<br>
 
 ##  
 | Função/regra | Entrada | Resultado esperado | Por que é unitário? |
@@ -53,6 +120,8 @@
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
+
+<br>
 
 ##  
 | Função/regra | Entrada | Resultado esperado | Por que é unitário? |
