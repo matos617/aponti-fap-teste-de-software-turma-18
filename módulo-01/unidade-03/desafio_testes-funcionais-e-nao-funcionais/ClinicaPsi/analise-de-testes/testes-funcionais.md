@@ -173,6 +173,50 @@
 
 ---
 
+# Parte 2 — Checklist de testes não funcionais
+
+## 🔹 Performance
+
+| O que verificar | Como verificar | Critério esperado | Risco | Prioridade |
+|-----------------|----------------|-------------------|--------|------------|
+| Tempo de carregamento da página inicial | Medir com cronômetro em diferentes dispositivos | Carregar em até 3 segundos | Lentidão no atendimento | Alta |
+| Tempo para abrir a agenda | Testar com 100 agendamentos cadastrados | Abrir em até 2 segundos | Atraso no atendimento | Alta |
+| Velocidade da pesquisa de pacientes | Pesquisar por nome e CPF em base com 1.000 registros | Resultado em até 2 segundos | Dificuldade em localizar pacientes | Alta |
+| Tempo para salvar registros | Inserir dados de paciente e medir tempo de resposta | Salvar em até 1 segundo | Perda de produtividade | Média |
+| Consumo de memória após uso prolongado | Usar o sistema por 2h e monitorar consumo | Não ultrapassar 500 MB | Travamento do navegador | Média |
+
+## 🔹 Segurança
+
+| O que verificar | Como verificar | Critério esperado | Risco | Prioridade |
+|-----------------|----------------|-------------------|--------|------------|
+| Acesso a prontuários sem autenticação | Tentar acessar URL diretamente sem login | Bloqueio imediato | Violação de sigilo | Alta |
+| Restrição por perfil de usuário | Entrar como recepcionista e tentar acessar prontuários | Acesso negado | Exposição de dados sensíveis | Alta |
+| Uso de senhas fracas | Tentar cadastrar senha "123456" | Bloqueio da senha | Invasão de contas | Alta |
+| Expiração da sessão | Deixar sessão aberta por 30 min sem uso | Logout automático | Uso indevido por terceiros | Média |
+| Entrada de scripts nos formulários | Inserir `<script>alert(1)</script>` em campo de texto | Bloqueio da entrada | Execução de código malicioso | Alta |
+
+## 🔹 Usabilidade
+
+| O que verificar | Como verificar | Critério esperado | Risco | Prioridade |
+|-----------------|----------------|-------------------|--------|------------|
+| Clareza dos nomes dos menus | Avaliar se os nomes são intuitivos | Menus claros e autoexplicativos | Dificuldade de uso | Média |
+| Facilidade para cadastrar paciente | Contar número de etapas necessárias | Cadastro em até 3 etapas | Demora no atendimento | Alta |
+| Mensagens de erro e sucesso | Inserir dados incorretos e observar mensagens | Mensagens claras e informativas | Cadastro incorreto | Média |
+| Indicação de campos obrigatórios | Tentar salvar sem preencher campos obrigatórios | Sistema alerta o usuário | Dados incompletos | Alta |
+| Navegação pelo teclado | Usar apenas TAB e ENTER para navegar | Navegação funcional | Barreiras para usuários com deficiência | Média |
+
+## 🔹 Compatibilidade
+
+| O que verificar | Como verificar | Critério esperado | Risco | Prioridade |
+|-----------------|----------------|-------------------|--------|------------|
+| Funcionamento em Chrome, Firefox e Edge | Abrir sistema em cada navegador | Funcionar sem falhas | Usuários sem acesso | Alta |
+| Funcionamento em celular, tablet e computador | Testar em diferentes dispositivos | Layout responsivo | Tabelas cortadas em mobile | Alta |
+| Diferentes resoluções (360px, 768px, 1366px) | Ajustar resolução da tela | Exibição correta | Layout quebrado | Média |
+| Orientação vertical e horizontal | Rotacionar dispositivo móvel | Layout adaptado | Perda de dados visíveis | Média |
+| Exibição correta de acentos e símbolos | Inserir nomes com acentos e caracteres especiais | Exibição correta | Dados ilegíveis | Média |
+
+---
+
 <div align="center">
   Domingo, dia 26 de Julho de 2026
 </div>
