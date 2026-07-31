@@ -18,7 +18,10 @@ Lembre-se: Linguagem clara e objetiva, steps bem separados, resultado esperado o
   3. Inserir senha correta
   4. Clicar em "Entrar"
 - **Resultado esperado:** Usuário é autenticado e redirecionado para a página inicial do sistema
+
+
 <br>
+
 ### CT-02
 #### Login com senha incorreta
 - **Pré-condição:** Usuário possui conta ativa.  
