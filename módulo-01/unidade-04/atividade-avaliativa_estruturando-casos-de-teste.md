@@ -34,7 +34,7 @@ Além do caminho feliz, pense em cenários alternativos que um bom tester faria 
   2. Inserir e-mail válido cadastrado 
   3. Inserir senha incorreta
   4. Clicar em "Entrar"
-- **Resultado esperado:** Mensagem clara “Senha incorreta” exibida, sem acesso concedido
+- **Resultado esperado:** Mensagem clara de “Senha incorreta” exibida, sem acesso concedido
 
 <br>
 
@@ -46,7 +46,7 @@ Além do caminho feliz, pense em cenários alternativos que um bom tester faria 
   2. Inserir e-mail inexistente 
   3. Inserir qualquer senha
   4. Clicar em "Entrar"
-- **Resultado esperado:** Mensagem “Usuário não encontrado” exibida
+- **Resultado esperado:** Mensagem: “Usuário não encontrado” é exibida
 
 <br>
 
@@ -72,8 +72,7 @@ Além do caminho feliz, pense em cenários alternativos que um bom tester faria 
   2. Inserir texto sem formato de e-mail (ex: “usuario123”)  
   3. Inserir senha válida
   4. Clicar em "Entrar"
-- **Resultado esperado:** Mensagem “Formato de e-mail inválido” exibida
-
+- **Resultado esperado:** Mostrar a mensagem “Formato de e-mail inválido” em exibição na tela
 <br>
 
 ### CT-06
@@ -93,7 +92,7 @@ Além do caminho feliz, pense em cenários alternativos que um bom tester faria 
   1. Abrir tela de login
   2. Inserir senha
   3. Clicar no ícone “mostrar senha”
-- **Resultado esperado:** A senha digitada torna-se visível, sem alterar valor
+- **Resultado esperado:** A senha digitada torna-se visível, sem alterar seu valor
 
 <br>
 
@@ -104,7 +103,7 @@ Além do caminho feliz, pense em cenários alternativos que um bom tester faria 
   2. Inserir e-mail válido
   3. Inserir senha contendo caracteres especiais (ex.: `P@ssw0rd!`)
   4. Clicar em "Entrar"
-- **Resultado esperado:** Login realizado com sucesso, com sistema aceitando os caracteres especiais
+- **Resultado esperado:** Login é realizado com sucesso, com o sistema aceitando os caracteres especiais
 
 <br>
 
@@ -116,7 +115,7 @@ Além do caminho feliz, pense em cenários alternativos que um bom tester faria 
   2. Inserir e-mail válido usando teclado virtual
   3. Inserir senha usando teclado virtual
   4. Clicar em "Entrar"
-- **Resultado esperado:** Login realizado normalmente, sem nenhuma falha
+- **Resultado esperado:** Login é realizado normalmente, sem nenhuma falha
 
 <br>
 
@@ -127,4 +126,4 @@ Além do caminho feliz, pense em cenários alternativos que um bom tester faria 
   1. Usuário loga com sucesso.  
   2. Deixar sessão expirar (tempo configurado).  
   3. Tentar acessar página restrita sem re-logar.  
-- **Resultado esperado:** Sistema redireciona para tela de login com mensagem “Sessão expirada, faça login novamente”.
+- **Resultado esperado:** Sistema redireciona para a tela de login com mensagem “Sessão expirada, faça login novamente”.
