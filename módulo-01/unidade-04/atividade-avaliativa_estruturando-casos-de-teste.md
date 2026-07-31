@@ -43,6 +43,8 @@ Lembre-se: Linguagem clara e objetiva, steps bem separados, resultado esperado o
   4. Clicar em "Entrar"
 - **Resultado esperado:** Mensagem “Usuário não encontrado” exibida
 
+<br>
+
 ### CT-04
 #### Campos obrigatórios não preenchidos
 - **Pré-condição:** Nenhuma
