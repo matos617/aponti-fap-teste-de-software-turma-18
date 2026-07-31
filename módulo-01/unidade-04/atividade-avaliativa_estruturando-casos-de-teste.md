@@ -127,3 +127,9 @@ Além do caminho feliz, pense em cenários alternativos que um bom tester faria 
   2. Deixar sessão expirar (tempo configurado).  
   3. Tentar acessar página restrita sem re-logar.  
 - **Resultado esperado:** Sistema redireciona para a tela de login com mensagem “Sessão expirada, faça login novamente”.
+
+---
+
+<div align=center>
+  Quinta-feira, dia 30 de Julho, 2026
+</div>
