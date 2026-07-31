@@ -114,7 +114,7 @@ Lembre-se: Linguagem clara e objetiva, steps bem separados, resultado esperado o
 <br>
 
 ### CT-10
-### Login após sessão expirada
+#### Login após sessão expirada
 - **Pré-condição:** Usuário possui conta ativa.  
 - **Passos:**  
   1. Usuário loga com sucesso.  
