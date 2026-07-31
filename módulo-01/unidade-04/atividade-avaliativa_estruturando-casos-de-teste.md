@@ -19,7 +19,6 @@ Lembre-se: Linguagem clara e objetiva, steps bem separados, resultado esperado o
   4. Clicar em "Entrar"
 - **Resultado esperado:** Usuário é autenticado e redirecionado para a página inicial do sistema
 
-
 <br>
 
 ### CT-02
@@ -31,6 +30,8 @@ Lembre-se: Linguagem clara e objetiva, steps bem separados, resultado esperado o
   3. Inserir senha incorreta
   4. Clicar em "Entrar"
 - **Resultado esperado:** Mensagem clara “Senha incorreta” exibida, sem acesso concedido
+
+<br>
 
 ### CT-03
 #### Login com e-mail não cadastrado
@@ -54,6 +55,8 @@ Lembre-se: Linguagem clara e objetiva, steps bem separados, resultado esperado o
 
 *(Repetir também com a senha vazia.)*
 
+<br>
+
 ### CT-05
 #### Formato inválido de e-mail
 - **Pré-condição:** Sistema disponível
@@ -64,6 +67,8 @@ Lembre-se: Linguagem clara e objetiva, steps bem separados, resultado esperado o
   4. Clicar em "Entrar"
 - **Resultado esperado:** Mensagem “Formato de e-mail inválido” exibida
 
+<br>
+
 ### CT-06
 #### Tentativas múltiplas de login com falha
 - **Pré-condição:** Sistema disponível
@@ -71,6 +76,8 @@ Lembre-se: Linguagem clara e objetiva, steps bem separados, resultado esperado o
   1. Inserir e-mail válido.  
   2. Inserir senha incorreta 5 vezes consecutivas  
 - **Resultado esperado:** Conta bloqueada temporariamente com a mensagem “Conta bloqueada por tentativas inválidas. Tente novamente em X minutos”
+
+<br>
 
 ### CT-07
 #### Login com senha visível (teste de usabilidade)
@@ -81,6 +88,8 @@ Lembre-se: Linguagem clara e objetiva, steps bem separados, resultado esperado o
   3. Clicar no ícone “mostrar senha”
 - **Resultado esperado:** A senha digitada torna-se visível, sem alterar valor
 
+<br>
+
 ### CT-08
 #### Login com caracteres especiais na senha
 - **Passos:**  
@@ -89,6 +98,8 @@ Lembre-se: Linguagem clara e objetiva, steps bem separados, resultado esperado o
   3. Inserir senha contendo caracteres especiais (ex.: `P@ssw0rd!`)
   4. Clicar em "Entrar"
 - **Resultado esperado:** Login realizado com sucesso, com sistema aceitando os caracteres especiais
+
+<br>
 
 ### CT-09
 #### Login com teclado virtual (acessibilidade)
@@ -99,6 +110,8 @@ Lembre-se: Linguagem clara e objetiva, steps bem separados, resultado esperado o
   3. Inserir senha usando teclado virtual
   4. Clicar em "Entrar"
 - **Resultado esperado:** Login realizado normalmente, sem nenhuma falha
+
+<br>
 
 ### CT-10
 ### Login após sessão expirada
