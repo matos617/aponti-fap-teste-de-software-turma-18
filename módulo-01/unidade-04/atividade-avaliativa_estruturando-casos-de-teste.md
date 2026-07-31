@@ -1,4 +1,8 @@
+<div align=center>
+
 # Estruturando Casos de Teste
+
+</div>
 
 <details>
   <summary>Atividade Avaliativa:</summary>
