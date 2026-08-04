@@ -1,4 +1,7 @@
+<div align="center">
+
 # Testes de Sistema e de Aceitação
+</div>
 
 <details>
   <summary>Atividade Avaliativa</summary>
