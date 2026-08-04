@@ -63,4 +63,10 @@ Revisar casos de testes de outros alunos
 - Coerência com tipo de teste
 </details>
 
-## Etapa 1
+## 1. Compreensão do Cenário
+### Funcionalidades Envolvidas:
+- Autenticação de clientes;
+- Validação de credenciais;
+- Acesso à área logada da conta;
+- Consulta de saldo disponível;
+- Exibição de informações bancárias.
