@@ -11,8 +11,10 @@
 
 ### Etapa 1 - Compreensão do Cenário
   Um sistema bancário permite que usuários realizem login, acessem sua conta e visualizem seu saldo atual.
-  Tarefa:
-  Identificar:
+
+  #### Tarefa:
+  
+  ##### Identificar:
   - Funcionalidades envolvidas
   - Fluxo principal
   - Variações de fluxo
@@ -21,10 +23,10 @@
   - 2 testes de fluxo principal (caminho feliz)
   - 2 testes de fluxo alternativo
 
-  Estrutura obrigatória:
+#### Estrutura obrigatória:
   - ID, Título, Pre-condições, Passos, Resultado esperado
 
-Orientações:
+#### Orientações:
 - Foco no funcionamento do sistema
 - Validar Integração entre telas
 - Não validar regras de negócio complexas
@@ -34,11 +36,11 @@ Foco em valor para usuário e expectativa do negócio
 - 2 testes de fluxo principal (caminho feliz)
 - 2 testes de fluxo alternativo
 
-Estrutura obrigatória:
+#### Estrutura obrigatória:
 - ID, Título, Pre-condições, Passos, Resultado esperado
 Testes de Sistema e de Aceitação
  
-Orientações:
+#### Orientações:
 - Resultado esperado focado em valor entregue
 - Critérios claros de aceitação
 
@@ -47,14 +49,15 @@ Para cada caso de teste criado, deve responder:
 - Por que este é um teste de sistema?
 - Por que este é um teste de aceitação?
 
-Foco da justificativa:
+#### Foco da justificativa:
 - Objetivo do teste
 - Ponto de vista adotado
 - Tipo de validação realizada
 
 ### Etapa 5 - Revisão por pares
 Revisar casos de testes de outros alunos
-Verificar:
+
+#### Verificar:
 - Clareza
 - Estrutura
 - Coerência com tipo de teste
