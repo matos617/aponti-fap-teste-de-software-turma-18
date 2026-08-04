@@ -26,7 +26,35 @@ Orientações:
 - Validar Integração entre telas
 - Não validar regras de negócio complexas
 
-  
+  ### Etapa 3 - Escrever Testes de Aceitação
+Foco em valor para usuário e expectativa do negócio
+- 2 testes de fluxo principal (caminho feliz)
+- 2 testes de fluxo alternativo
+
+Estrutura obrigatória:
+- ID, Título, Pre-condições, Passos, Resultado esperado
+Testes de Sistema e de Aceitação
+ 
+Orientações:
+- Resultado esperado focado em valor entregue
+- Critérios claros de aceitação
+
+### Etapa 4 - Justificativa e Classificação
+Para cada caso de teste criado, deve responder:
+- Por que este é um teste de sistema?
+- Por que este é um teste de aceitação?
+
+Foco da justificativa:
+- Objetivo do teste
+- Ponto de vista adotado
+- Tipo de validação realizada
+
+### Etapa 5 - Revisão por pares
+Revisar casos de testes de outros alunos
+Verificar:
+- Clareza
+- Estrutura
+- Coerência com tipo de teste
 </details>
 
 ## Etapa 1
