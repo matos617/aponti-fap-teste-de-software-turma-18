@@ -1,4 +1,7 @@
+<div align="center">
+
 # Testes de Smoke, Sanidade e Regression
+</div>
 
 <details>
 <summary>Atividade Avaliativa</summary>
