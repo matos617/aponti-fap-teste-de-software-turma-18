@@ -22,7 +22,7 @@
 
 ---
 
-## Testes de Smoke
+## 1. Testes de Smoke
 
 ### SMK-01 — Acessar a página de login
 
