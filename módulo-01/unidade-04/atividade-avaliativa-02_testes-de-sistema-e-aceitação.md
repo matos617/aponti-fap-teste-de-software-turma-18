@@ -89,13 +89,13 @@ Revisar casos de testes de outros alunos
 
 ---
 
-# 2. Casos de Teste de Sistema
+## 2. Casos de Teste de Sistema
 
-## Objetivo
+### Objetivo
 
 Validar o correto funcionamento do sistema, verificando a integração entre telas e componentes envolvidos no fluxo de autenticação e consulta de saldo.
 
-### TS-01 — Login com Sucesso e Acesso à Conta
+#### TS-01 — Login com Sucesso e Acesso à Conta
 
 | Campo                  | Descrição                                                                                                           |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -107,7 +107,7 @@ Validar o correto funcionamento do sistema, verificando a integração entre tel
 
 ---
 
-### TS-02 — Visualização do Saldo Após Login
+#### TS-02 — Visualização do Saldo Após Login
 
 | Campo                  | Descrição                                                                                                                  |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -119,7 +119,7 @@ Validar o correto funcionamento do sistema, verificando a integração entre tel
 
 ---
 
-### TS-03 — Login com Senha Inválida
+#### TS-03 — Login com Senha Inválida
 
 | Campo                  | Descrição                                                                                                              |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -131,7 +131,7 @@ Validar o correto funcionamento do sistema, verificando a integração entre tel
 
 ---
 
-### TS-04 — Campos Obrigatórios Não Preenchidos
+#### TS-04 — Campos Obrigatórios Não Preenchidos
 
 | Campo                  | Descrição                                                                                              |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -143,13 +143,13 @@ Validar o correto funcionamento do sistema, verificando a integração entre tel
 
 ---
 
-# 3. Casos de Teste de Aceitação
+## 3. Casos de Teste de Aceitação
 
-## Objetivo
+### Objetivo
 
 Validar se as funcionalidades implementadas atendem às expectativas do usuário final e aos objetivos definidos pelo negócio.
 
-### TA-01 — Consulta de Saldo com Sucesso
+#### TA-01 — Consulta de Saldo com Sucesso
 
 | Campo                  | Descrição                                                                                                                      |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -161,7 +161,7 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 
 ---
 
-### TA-02 — Acesso às Informações da Conta
+#### TA-02 — Acesso às Informações da Conta
 
 | Campo                  | Descrição                                                                                                            |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -173,7 +173,7 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 
 ---
 
-### TA-03 — Feedback para Credenciais Inválidas
+#### TA-03 — Feedback para Credenciais Inválidas
 
 | Campo                  | Descrição                                                                                                                        |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -185,7 +185,7 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 
 ---
 
-### TA-04 — Orientação para Campos Obrigatórios
+#### TA-04 — Orientação para Campos Obrigatórios
 
 | Campo                  | Descrição                                                                                                                   |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -197,11 +197,11 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 
 ---
 
-# 4. Justificativa e Classificação dos Casos de Teste
+## 4. Justificativa e Classificação dos Casos de Teste
 
-## Testes de Sistema
+### Testes de Sistema
 
-### TS-01 — Login com Sucesso e Acesso à Conta
+#### TS-01 — Login com Sucesso e Acesso à Conta
 
 **Classificação:** Teste de Sistema
 
@@ -219,7 +219,7 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 
 ---
 
-### TS-02 — Visualização do Saldo Após Login
+#### TS-02 — Visualização do Saldo Após Login
 
 **Classificação:** Teste de Sistema
 
@@ -236,7 +236,7 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 
 ---
 
-### TS-03 — Login com Senha Inválida
+#### TS-03 — Login com Senha Inválida
 
 **Classificação:** Teste de Sistema
 
@@ -253,7 +253,7 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 
 ---
 
-### TS-04 — Campos Obrigatórios Não Preenchidos
+#### TS-04 — Campos Obrigatórios Não Preenchidos
 
 **Classificação:** Teste de Sistema
 
