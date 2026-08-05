@@ -159,7 +159,7 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 | **Passos**             | 1. Acessar o sistema bancário.<br>2. Informar usuário e senha válidos.<br>3. Efetuar login.<br>4. Consultar o saldo da conta.  |
 | **Resultado Esperado** | O cliente consegue acessar sua conta e visualizar claramente o saldo atual, atendendo ao objetivo principal da funcionalidade. |
 
----
+<br>
 
 #### TA-02 — Acesso às Informações da Conta
 
@@ -171,7 +171,7 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 | **Passos**             | 1. Realizar login válido.<br>2. Aguardar carregamento da área da conta.                                              |
 | **Resultado Esperado** | O cliente consegue acessar as informações necessárias para acompanhamento de sua conta de forma simples e intuitiva. |
 
----
+<br>
 
 #### TA-03 — Feedback para Credenciais Inválidas
 
@@ -183,7 +183,7 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 | **Passos**             | 1. Acessar a tela de login.<br>2. Informar usuário válido.<br>3. Informar senha incorreta.<br>4. Tentar acessar o sistema.       |
 | **Resultado Esperado** | O acesso é negado e o cliente recebe uma mensagem clara e compreensível indicando a necessidade de corrigir os dados informados. |
 
----
+<br>
 
 #### TA-04 — Orientação para Campos Obrigatórios
 
@@ -217,7 +217,7 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 
 **Tipo de Validação:** Funcional e de integração.
 
----
+<br>
 
 #### TS-02 — Visualização do Saldo Após Login
 
@@ -234,7 +234,7 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 
 **Tipo de Validação:** Funcional e de integração.
 
----
+<br>
 
 #### TS-03 — Login com Senha Inválida
 
@@ -251,7 +251,7 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 
 **Tipo de Validação:** Funcional.
 
----
+<br>
 
 #### TS-04 — Campos Obrigatórios Não Preenchidos
 
@@ -272,7 +272,7 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 
 ## Testes de Aceitação
 
-### TA-01 — Consulta de Saldo com Sucesso
+#### TA-01 — Consulta de Saldo com Sucesso
 
 **Classificação:** Teste de Aceitação
 
@@ -287,9 +287,9 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 
 **Tipo de Validação:** Aceitação funcional.
 
----
+<br>
 
-### TA-02 — Acesso às Informações da Conta
+#### TA-02 — Acesso às Informações da Conta
 
 **Classificação:** Teste de Aceitação
 
@@ -304,9 +304,9 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 
 **Tipo de Validação:** Aceitação do requisito.
 
----
+<br>
 
-### TA-03 — Feedback para Credenciais Inválidas
+#### TA-03 — Feedback para Credenciais Inválidas
 
 **Classificação:** Teste de Aceitação
 
@@ -321,9 +321,9 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 
 **Tipo de Validação:** Aceitação de usabilidade.
 
----
+<br>
 
-### TA-04 — Orientação para Campos Obrigatórios
+#### TA-04 — Orientação para Campos Obrigatórios
 
 **Classificação:** Teste de Aceitação
 
