@@ -163,36 +163,36 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 
 #### TA-02 — Acesso às Informações da Conta
 
-| Campo                  | Descrição                                                                                                            |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **ID**                 | TA-02                                                                                                                |
-| **Título**             | Cliente acessa sua área bancária                                                                                     |
-| **Pré-condições**      | Cliente cadastrado e com conta ativa                                                                                 |
-| **Passos**             | 1. Realizar login válido.<br>2. Aguardar carregamento da área da conta.                                              |
+| Campo | Descrição |
+| --- | --- |
+| **ID** | TA-02 |
+| **Título** | Cliente acessa sua área bancária |
+| **Pré-condições** | Cliente cadastrado e com conta ativa |
+| **Passos** | 1. Realizar login válido.<br>2. Aguardar carregamento da área da conta. |
 | **Resultado Esperado** | O cliente consegue acessar as informações necessárias para acompanhamento de sua conta de forma simples e intuitiva. |
 
 <br>
 
 #### TA-03 — Feedback para Credenciais Inválidas
 
-| Campo                  | Descrição                                                                                                                        |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| **ID**                 | TA-03                                                                                                                            |
-| **Título**             | Cliente recebe orientação ao informar senha incorreta                                                                            |
-| **Pré-condições**      | Cliente cadastrado no sistema                                                                                                    |
-| **Passos**             | 1. Acessar a tela de login.<br>2. Informar usuário válido.<br>3. Informar senha incorreta.<br>4. Tentar acessar o sistema.       |
+| Campo | Descrição |
+| --- | --- |
+| **ID** | TA-03 |
+| **Título** | Cliente recebe orientação ao informar senha incorreta |
+| **Pré-condições** | Cliente cadastrado no sistema |
+| **Passos** | 1. Acessar a tela de login.<br>2. Informar usuário válido.<br>3. Informar senha incorreta.<br>4. Tentar acessar o sistema. |
 | **Resultado Esperado** | O acesso é negado e o cliente recebe uma mensagem clara e compreensível indicando a necessidade de corrigir os dados informados. |
 
 <br>
 
 #### TA-04 — Orientação para Campos Obrigatórios
 
-| Campo                  | Descrição                                                                                                                   |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **ID**                 | TA-04                                                                                                                       |
-| **Título**             | Cliente é informado sobre campos obrigatórios                                                                               |
-| **Pré-condições**      | Sistema disponível                                                                                                          |
-| **Passos**             | 1. Acessar a tela de login.<br>2. Não preencher usuário e senha.<br>3. Clicar em **Entrar**.                                |
+| Campo | Descrição |
+| --- | --- |
+| **ID** | TA-04 |
+| **Título** | Cliente é informado sobre campos obrigatórios |
+| **Pré-condições** | Sistema disponível |
+| **Passos** | 1. Acessar a tela de login.<br>2. Não preencher usuário e senha.<br>3. Clicar em **Entrar**. |
 | **Resultado Esperado** | O sistema orienta corretamente o cliente sobre os campos obrigatórios, mantendo uma experiência de uso clara e consistente. |
 
 ---
@@ -337,3 +337,10 @@ Validar se as funcionalidades implementadas atendem às expectativas do usuário
 **Ponto de Vista:** Usuário final e negócio.
 
 **Tipo de Validação:** Aceitação de usabilidade e requisito funcional.
+
+---
+
+<div align="center">
+
+Quarta-feira, dia 5 de Agosto de 2026
+</div>
