@@ -259,6 +259,16 @@ Como houve alteração no módulo de autenticação, é importante garantir que 
 
 ---
 
+## Comparativo dos Tipos de Teste
+
+| Tipo de Teste | Objetivo Principal | Escopo |
+| --- | --- | --- |
+| **Smoke** | Verificar rapidamente se o sistema está utilizável após a implantação | Funcionalidades críticas |
+| **Sanidade** | Confirmar que as correções realizadas funcionam conforme esperado | Funcionalidades alteradas |
+| **Regressão** | Garantir que mudanças não afetaram funcionalidades existentes | Sistema como um todo |
+
+---
+
 <div align="center">
 
 Quarta-feira, dia 5 de Agosto de 2026
