@@ -105,7 +105,7 @@ Validar o correto funcionamento do sistema, verificando a integração entre tel
 | **Passos**             | 1. Acessar a tela de login.<br>2. Informar usuário válido.<br>3. Informar senha válida.<br>4. Clicar em **Entrar**. |
 | **Resultado Esperado** | O sistema autentica o usuário e exibe a tela principal da conta com acesso às informações disponíveis.              |
 
----
+<br>
 
 #### TS-02 — Visualização do Saldo Após Login
 
@@ -117,7 +117,7 @@ Validar o correto funcionamento do sistema, verificando a integração entre tel
 | **Passos**             | 1. Realizar login com credenciais válidas.<br>2. Aguardar carregamento da área da conta.<br>3. Verificar a seção de saldo. |
 | **Resultado Esperado** | O saldo é exibido corretamente na tela sem erros de carregamento ou integração.                                            |
 
----
+<br>
 
 #### TS-03 — Login com Senha Inválida
 
@@ -129,7 +129,7 @@ Validar o correto funcionamento do sistema, verificando a integração entre tel
 | **Passos**             | 1. Acessar a tela de login.<br>2. Informar usuário válido.<br>3. Informar senha incorreta.<br>4. Clicar em **Entrar**. |
 | **Resultado Esperado** | O sistema bloqueia o acesso, apresenta mensagem de erro e mantém o usuário na tela de login.                           |
 
----
+<br>
 
 #### TS-04 — Campos Obrigatórios Não Preenchidos
 
