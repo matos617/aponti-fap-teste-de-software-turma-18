@@ -35,56 +35,52 @@ A tela de login é carregada corretamente.
 #### Justificativa:
 Este teste valida se a aplicação está disponível para uso. Caso a tela de login não carregue, o sistema não pode ser utilizado.
 
-SMK-02 – Realizar login com usuário válido
-Cenário
+<br> 
 
+### SMK-02 — Realizar login com usuário válido
+#### Cenário:
 Efetuar login utilizando credenciais válidas.
 
-Resultado Esperado
-
+#### Resultado Esperado:
 O usuário é autenticado e direcionado para a área logada.
 
-Justificativa
-
+#### Justificativa:
 O login é uma funcionalidade crítica e foi uma das áreas alteradas na nova versão.
 
-SMK-03 – Visualizar saldo na tela inicial
-Cenário
+<br> 
 
+### SMK-03 — Visualizar saldo na tela inicial
+#### Cenário:
 Após autenticação, acessar a página inicial da conta.
 
-Resultado Esperado
-
+#### Resultado Esperado:
 O saldo é exibido corretamente.
 
-Justificativa
-
+#### Justificativa:
 A exibição do saldo foi modificada nesta versão e precisa ser validada imediatamente.
 
-SMK-04 – Encerrar sessão (Logout)
-Cenário
+<br> 
 
+### SMK-04 – Encerrar sessão (Logout)
+#### Cenário:
 Realizar logout após acessar a conta.
 
-Resultado Esperado
-
+#### Resultado Esperado:
 O sistema encerra a sessão e retorna para a tela de login.
 
-Justificativa
-
+#### Justificativa
 Valida um fluxo básico e essencial para segurança do sistema.
 
-SMK-05 – Navegar entre páginas principais
-Cenário
+<br> 
 
+### SMK-05 – Navegar entre páginas principais
+#### Cenário:
 Acessar as telas principais do sistema (Conta, Extrato e Perfil).
 
-Resultado Esperado
-
+#### Resultado Esperado:
 As páginas carregam sem erros.
 
-Justificativa
-
+#### Justificativa:
 Verifica rapidamente se os principais módulos continuam acessíveis após a implantação.
 
 ---
