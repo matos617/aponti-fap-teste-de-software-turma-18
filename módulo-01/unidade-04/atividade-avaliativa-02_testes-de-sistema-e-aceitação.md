@@ -63,6 +63,8 @@ Revisar casos de testes de outros alunos
 - Coerência com tipo de teste
 </details>
 
+---
+
 ## 1. Compreensão do Cenário
 ### Funcionalidades Envolvidas:
 - Autenticação de clientes;
