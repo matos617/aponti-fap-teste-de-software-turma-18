@@ -52,9 +52,13 @@ OBS.: Não existe uma estratégia “certa”. O que será avaliado é a coerên
 # Documento de Estratégia de Software
 
 > **Organização:** Coin Bank
+> 
 > **Versão:** 1.0
+> 
 > **Data:** 06/08/2026
+> 
 > **Autor(a):** Product Manager (PM)
+> 
 > **Projeto/Produto:** App Coin Bank
 
 ## 1. Introdução
