@@ -13,6 +13,18 @@ Classificar cada cenário como Manual ou Automatizado e justificar brevemente a 
 </details>
 
 
+# Análise de Cenários de Teste – Coin Bank
+
+## Objetivo
+
+Definir a abordagem de execução mais adequada para cada cenário de teste do aplicativo Coin Bank, considerando fatores como custo de implementação, frequência de execução, estabilidade da funcionalidade e objetivo da validação.
+
+---
+
+## Tabela de Cenários e Abordagens
+
+| Cenário de Teste | Abordagem | Justificativa |
+| :--- | :---: | :--- |
 | **Login de usuário** | Automatizado | É um fluxo crítico, executado frequentemente e com comportamento estável. A automação reduz esforço repetitivo e acelera a regressão. |
 | **Consulta de saldo** | Automatizado | Funcionalidade essencial do aplicativo, utilizada em praticamente todas as versões. Possui regras estáveis e alto potencial de reutilização dos testes. |
 | **Transferência PIX** | Automatizado | Operação financeira crítica que deve ser validada a cada release. A automação aumenta a cobertura e reduz riscos de falhas em produção. |
