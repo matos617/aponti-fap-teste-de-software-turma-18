@@ -320,6 +320,11 @@ Essa abordagem contínua foi escolhida para identificar defeitos o mais cedo pos
 
 ---
 
+## Referências
+- [Exemplo de Documento de Estratégia de Teste (Modelo de Amostra)](https://www.guru99.com/pt/test-strategy-document-in-software-testing.html)
+
+---
+
 <div align="center">
 
 Dia 06 de Agosto de 2026
