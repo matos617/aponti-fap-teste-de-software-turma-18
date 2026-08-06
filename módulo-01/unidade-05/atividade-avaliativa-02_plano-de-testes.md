@@ -218,7 +218,7 @@ Os seguintes artefatos serão produzidos:
 
 > *Os testes ocorrerão de forma contínua durante todo o projeto.*
 
----
+<br>
 
 ### 4.1 Ferramentas de Teste
 
@@ -230,7 +230,7 @@ Os seguintes artefatos serão produzidos:
 * **OWASP ZAP:** Segurança
 * **JMeter:** Desempenho
 
----
+<br>
 
 ### 4.2 Ambiente de Teste
 
@@ -245,7 +245,7 @@ Serão utilizados:
 
 > **Nota:** Nenhum dado real de cliente será utilizado.
 
----
+<br>
 
 ### Riscos e Contingências
 
