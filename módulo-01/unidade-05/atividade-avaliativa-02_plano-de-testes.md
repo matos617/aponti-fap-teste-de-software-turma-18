@@ -101,7 +101,7 @@ Garantir que as funcionalidades críticas do aplicativo operem corretamente, com
 
 ---
 
-## 2. Metodologia de Teste
+## :pencil2: 2. Metodologia de Teste
 
 ### 2.1 Visão
 
@@ -184,7 +184,7 @@ Os testes serão considerados concluídos quando:
 
 ---
 
-## 3. Entregáveis de Teste
+## :page_with_curl: 3. Entregáveis de Teste
 
 Os seguintes artefatos serão produzidos:
 
@@ -198,7 +198,7 @@ Os seguintes artefatos serão produzidos:
 
 ---
 
-## 4. Necessidades de Recursos e Meio Ambiente
+## :chart_with_upwards_trend: 4. Necessidades de Recursos e Meio Ambiente
 
 ### Recursos e Responsabilidades
 
@@ -265,7 +265,7 @@ Serão utilizados:
 
 ---
 
-## 5. Termos / Acrônimos
+## 5. :book: Termos/Acrônimos
 
 | Termo | Significado |
 | :--- | :--- |
