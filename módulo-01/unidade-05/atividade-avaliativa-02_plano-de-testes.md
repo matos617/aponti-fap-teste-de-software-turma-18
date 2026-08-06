@@ -32,7 +32,7 @@ Documento simples contendo o plano definido para o projeto
 ---
 
 
-# Plano de Testes
+# Plano de Testes – Coin Bank
 
 > **Organização:** Coin Bank
 > 
@@ -46,7 +46,7 @@ Documento simples contendo o plano definido para o projeto
 
 ---
 
-## 1. Introdução
+## :dart: 1. Introdução
 
 ### 1.1 Escopo
 
