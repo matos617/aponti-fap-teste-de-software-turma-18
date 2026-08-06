@@ -153,8 +153,9 @@ Os defeitos encontrados serão classificados conforme a severidade:
 
 > *Todos os defeitos serão registrados e acompanhados no Jira.*
 
-### 2.4 Critérios de Suspensão e Requisitos de Retomada
 <br>
+
+### 2.4 Critérios de Suspensão e Requisitos de Retomada
 
 #### Critérios de Suspensão
 Os testes poderão ser interrompidos quando:
