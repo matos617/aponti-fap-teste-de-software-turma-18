@@ -73,6 +73,142 @@ O objetivo desta estratégia é definir o processo de garantia da qualidade do a
 Por se tratar de um sistema bancário utilizado por usuários reais, os testes terão como foco principal garantir:
 
 * Integridade das transações financeiras;
+* Segurança das informações dos clientes;
+* Conformidade com requisitos regulatórios (LGPD e normas do Bacen);
+* Disponibilidade e estabilidade dos serviços;
+* Boa experiência do usuário em dispositivos móveis.
+
+### 1.2 Escopo e Limitações
+
+#### 1.2.1 Dentro do Escopo
+
+* Cadastro e autenticação de usuários;
+* Recuperação de senha;
+* Consulta de saldo e extrato;
+* Transferências bancárias (PIX, TED e transferência interna);
+* Pagamentos de boletos;
+* Gestão de perfil do cliente;
+* Notificações e comprovantes de transações;
+* APIs de integração com serviços financeiros.
+
+#### 1.2.2 Fora do Escopo
+
+* Sistemas de terceiros sob responsabilidade de parceiros externos;
+* Testes de infraestrutura física dos provedores de nuvem;
+* Auditorias regulatórias externas;
+* Testes de hardware dos dispositivos móveis dos usuários.
+
+---
+
+## 2. Abordagem de Testes
+
+### 2.1 Tipos de Testes
+
+#### Testes Funcionais (Alta Prioridade)
+
+Validar se todas as funcionalidades operam conforme os requisitos definidos.
+
+Exemplos:
+
+* Login e autenticação;
+* Realização de transferências;
+* Consulta de saldo;
+* Pagamentos.
+
+**Justificativa:** Qualquer falha funcional pode impactar diretamente a confiança do cliente e gerar prejuízos financeiros.
+
+#### Testes de Regressão (Alta Prioridade)
+
+Executados após correções e novas implementações para garantir que funcionalidades já entregues continuem funcionando corretamente.
+
+**Justificativa:** O projeto está em desenvolvimento contínuo e sofrerá diversas evoluções.
+
+#### Testes de Segurança (Alta Prioridade)
+
+Validação de:
+
+* Controle de acesso;
+* Criptografia de dados;
+* Proteção contra ataques comuns;
+* Gestão de sessões;
+* Vazamento de informações.
+
+**Justificativa:** Aplicações bancárias são alvos frequentes de ataques e manipulam dados sensíveis.
+
+#### Testes de Desempenho (Média Prioridade)
+
+Avaliar:
+
+* Tempo de resposta;
+* Consumo de recursos;
+* Comportamento sob carga.
+
+**Justificativa:** Importante para garantir boa experiência do usuário, principalmente em períodos de alta utilização.
+
+#### Testes de Usabilidade (Média Prioridade)
+
+Avaliar facilidade de navegação e compreensão das funcionalidades.
+
+**Justificativa:** Impacta diretamente a satisfação do cliente.
+
+#### Testes de Compatibilidade (Baixa Prioridade)
+
+Verificar funcionamento em diferentes dispositivos e versões de sistemas operacionais.
+
+**Justificativa:** Serão realizados de forma amostral devido às limitações de equipe e prazo.
+
+### 2.2 Níveis de Testes
+
+#### Testes Unitários
+
+Realizados pelos desenvolvedores para validar componentes individuais do sistema.
+
+#### Testes de Integração
+
+Validam a comunicação entre APIs, banco de dados e serviços externos.
+
+#### Testes de Sistema
+
+Verificam o funcionamento completo do aplicativo em ambiente semelhante ao de produção.
+
+#### Testes de Aceitação
+
+Executados com participação do Product Owner e stakeholders para validar os requisitos de negócio.
+
+### 2.3 Estratégia de Automação
+
+Devido ao prazo definido e ao time reduzido, será adotada uma abordagem híbrida.
+
+**Automatizados:**
+
+* Testes unitários;
+* Testes de APIs;
+* Fluxos críticos:
+
+  * Login;
+  * Consulta de saldo;
+  * Transferência PIX;
+  * Pagamento de boleto;
+* Regressão das funcionalidades principais.
+
+**Manuais:**
+
+* Testes exploratórios;
+* Usabilidade;
+* Validação visual da interface;
+* Testes de aceitação;
+* Cenários novos ainda em desenvolvimento.
+
+**Justificativa:**
+A automação reduz esforço repetitivo e acelera as validações contínuas, enquanto os testes manuais permitem identificar problemas de experiência do usuário e comportamentos inesperados.
+
+---
+
+## 3. Ambiente de Testes
+
+### 3.1 Ferramentas Utilizadas
+
+* Jira para gerenciamento de atividades e defeitos;
 * Postman para testes de APIs;
 * Selenium/Appium para automação;
 * JUnit para testes unitários;
