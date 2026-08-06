@@ -52,54 +52,140 @@ OBS.: Não existe uma estratégia “certa”. O que será avaliado é a coerên
 
 ---
 
-# Análise de Cenários de Teste – Coin Bank
+# Documento de Estratégia de Software – Coin Bank
 
-## Objetivo
+> **Organização:** Coin Bank
+> 
+> **Versão:** 1.0
+> 
+> **Data:** 06/08/2026
+> 
+> **Autor(a):** Product Manager (PM)
+> 
+> **Projeto/Produto:** App Coin Bank
 
-Definir a abordagem de execução mais adequada para cada cenário de teste do aplicativo Coin Bank, considerando fatores como custo de implementação, frequência de execução, estabilidade da funcionalidade e objetivo da validação.
+## 1. Introdução
+
+### 1.1 Objetivo da Estratégia
+
+O objetivo desta estratégia é definir o processo de garantia da qualidade do aplicativo Coin Bank, assegurando que as funcionalidades críticas do sistema sejam entregues com confiabilidade, segurança e desempenho adequado.
+
+Por se tratar de um sistema bancário utilizado por usuários reais, os testes terão como foco principal garantir:
+
+* Integridade das transações financeiras;
+* Postman para testes de APIs;
+* Selenium/Appium para automação;
+* JUnit para testes unitários;
+* GitHub Actions para integração contínua;
+* OWASP ZAP para validações básicas de segurança;
+* JMeter para testes de desempenho.
+
+### 3.2 Configuração de Ambientes
+
+#### Ambiente de Desenvolvimento
+
+Utilizado pelos desenvolvedores para testes iniciais.
+
+#### Ambiente de Homologação
+
+Espelho simplificado da produção utilizado para validação funcional e execução dos testes.
+
+#### Ambiente de Produção
+
+Utilizado pelos clientes finais após aprovação da homologação.
+
+### 3.3 Dados de Teste
+
+Serão utilizados:
+
+* Dados fictícios anonimizados;
+* Contas de teste específicas para homologação;
+* Dados gerados automaticamente para execução dos testes automatizados.
+
+Nenhum dado real de cliente será utilizado nos testes, garantindo conformidade com a LGPD.
 
 ---
 
-## Tabela de Cenários e Abordagens
+## 4. Critérios
 
-| Cenário de Teste | Abordagem | Justificativa |
-| :--- | :---: | :--- |
-| **Login de usuário** | Automatizado | É um fluxo crítico, executado frequentemente e com comportamento estável. A automação reduz esforço repetitivo e acelera a regressão. |
-| **Consulta de saldo** | Automatizado | Funcionalidade essencial do aplicativo, utilizada em praticamente todas as versões. Possui regras estáveis e alto potencial de reutilização dos testes. |
-| **Transferência PIX** | Automatizado | Operação financeira crítica que deve ser validada a cada release. A automação aumenta a cobertura e reduz riscos de falhas em produção. |
-| **Pagamento de boletos** | Automatizado | Processo recorrente e de alto impacto para o negócio. Deve fazer parte da suíte de regressão automatizada. |
-| **Recuperação de senha** | Automatizado | Fluxo relativamente estável e executado repetidamente durante validações e regressões. |
-| **Integração entre API e banco de dados** | Automatizado | Necessita validações frequentes após alterações no sistema. A automação permite execução rápida e contínua. |
-| **Testes de regressão das funcionalidades principais** | Automatizado | São repetitivos por natureza e precisam ser executados a cada nova versão do sistema. |
-| **Testes de desempenho (carga e resposta)** | Automatizado | Exigem grande volume de execuções e coleta de métricas, tornando inviável a execução manual. |
-| **Testes básicos de segurança (autenticação e autorização)** | Automatizado | Ferramentas especializadas permitem identificar vulnerabilidades de forma rápida e consistente. |
-| **Validação da interface visual (layout e design)** | Manual | Pequenas inconsistências visuais são mais facilmente identificadas por avaliação humana. |
-| **Testes de usabilidade** | Manual | Dependem da percepção do usuário e da avaliação da experiência de navegação. |
-| **Testes exploratórios** | Manual | Exigem criatividade e análise humana para descobrir comportamentos inesperados e cenários não previstos. |
-| **Testes de aceitação com Product Owner** | Manual | Necessitam validação do negócio e confirmação de que os requisitos foram atendidos. |
-| **Testes em novos recursos recém-desenvolvidos** | Manual | Antes da estabilização da funcionalidade, os cenários costumam sofrer alterações frequentes, tornando a automação pouco eficiente inicialmente. |
-| **Compatibilidade em diferentes dispositivos móveis** | Manual | Devido ao time reduzido e à variedade de dispositivos, serão realizados testes amostrais manuais nos aparelhos mais utilizados. |
+### 4.1 Critérios de Entrada
+
+Os testes poderão iniciar quando:
+
+* Requisitos estiverem definidos;
+* Funcionalidade estiver concluída pelo desenvolvimento;
+* Ambiente de testes estiver disponível;
+* Casos de teste estiverem preparados;
+* Build estiver estável para execução.
+
+### 4.2 Critérios de Saída
+
+Uma funcionalidade será considerada aprovada quando:
+
+* 100% dos testes críticos forem executados com sucesso;
+* Não existirem defeitos críticos ou bloqueadores em aberto;
+* Taxa mínima de aprovação de 95% dos casos de teste;
+* Testes de regressão forem concluídos;
+* Aprovação do Product Owner for obtida.
 
 ---
 
-## Resumo da Estratégia
+## 5. Riscos e Mitigação
 
-### Testes Automatizados
-Serão priorizados para:
-* Fluxos críticos do negócio
-* Funcionalidades estáveis
-* Testes de regressão
-* Testes de integração
-* Testes de desempenho
-* Validações recorrentes
+### 5.1 Principais Riscos
 
-### Testes Manuais
-Serão priorizados para:
-* Usabilidade
-* Interface gráfica
-* Testes exploratórios
-* Aceitação do negócio
-* Funcionalidades novas ou em constante mudança
+| Risco | Impacto |
+| --- | --- |
+| Falhas em transações financeiras | Muito Alto |
+| Vazamento de dados sensíveis  | Muito Alto |
+| Instabilidade do sistema | Alto |
+| Erros após novas versões  | Alto |
+| Prazo reduzido para testes  | Médio |
+| Equipe reduzida | Médio |
+
+### 5.2 Estratégias de Mitigação
+
+* Priorização dos testes dos fluxos críticos do negócio;
+* Automação da regressão para reduzir esforço manual;
+* Execução contínua dos testes durante o desenvolvimento;
+* Revisão de código e testes unitários obrigatórios;
+* Testes de segurança periódicos;
+* Monitoramento dos defeitos e análise de riscos a cada sprint.
+
+Essa estratégia reduz a probabilidade de falhas em produção e aumenta a confiabilidade das entregas.
+
+---
+
+## 6. Responsabilidades
+
+### 6.1 Papéis e Responsabilidades da Equipe
+
+| Papel | Responsabilidades |
+| --- | --- |
+| Product Manager (PM) | Definir prioridades de negócio e critérios de aceitação |
+| Product Owner (PO) | Validar requisitos e aprovar funcionalidades |
+| Desenvolvedores | Criar testes unitários e corrigir defeitos |
+| QA/Tester | Planejar, executar e automatizar testes |
+| Scrum Master | Garantir alinhamento do processo e remoção de impedimentos |
+| Stakeholders | Participar dos testes de aceitação quando necessário |
+
+### Recursos e Cronograma
+
+A equipe de testes será composta por 1 QA e apoio dos desenvolvedores na execução de testes unitários e correções.
+
+Os testes ocorrerão de forma contínua ao longo de todo o projeto:
+
+* Durante o desenvolvimento: testes unitários e integração;
+* Ao final de cada sprint: testes funcionais e regressão;
+* Antes de cada release: testes de aceitação, segurança e desempenho;
+* Após correções: reexecução dos testes de regressão.
+
+Essa abordagem contínua foi escolhida para identificar defeitos o mais cedo possível, reduzindo custos de correção e aumentando a qualidade das entregas.
+
+---
+
+## Referências
+- [Exemplo de Documento de Estratégia de Teste (Modelo de Amostra)](https://www.guru99.com/pt/test-strategy-document-in-software-testing.html)
 
 ---
 
