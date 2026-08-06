@@ -32,7 +32,7 @@ Documento simples contendo o plano definido para o projeto
 ---
 
 
-# Plano de Testes – Coin Bank
+# Plano de Testes
 
 > **Organização:** Coin Bank
 > 
@@ -73,7 +73,7 @@ As seguintes funcionalidades serão testadas:
 * Auditorias externas de conformidade
 * Testes de hardware dos dispositivos dos clientes
 
----
+<br>
 
 ### 1.2 Objetivo de Qualidade
 
