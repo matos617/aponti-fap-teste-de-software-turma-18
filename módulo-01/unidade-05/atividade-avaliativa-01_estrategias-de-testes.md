@@ -52,7 +52,7 @@ OBS.: Não existe uma estratégia “certa”. O que será avaliado é a coerên
 
 ---
 
-# Documento de Estratégia de Software
+# Documento de Estratégia de Software – Coin Bank
 
 > **Organização:** Coin Bank
 > 
