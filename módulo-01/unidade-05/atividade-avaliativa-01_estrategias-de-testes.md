@@ -1,4 +1,7 @@
+<div align="center">
+
 # Estratégia de Testes
+</div>
 
 <details>
 <summary>Atividade Avaliativa</summary>
@@ -315,3 +318,9 @@ Os testes ocorrerão de forma contínua ao longo de todo o projeto:
 
 Essa abordagem contínua foi escolhida para identificar defeitos o mais cedo possível, reduzindo custos de correção e aumentando a qualidade das entregas.
 
+---
+
+<div align="center">
+
+Dia 06 de Agosto de 2026
+</div>
