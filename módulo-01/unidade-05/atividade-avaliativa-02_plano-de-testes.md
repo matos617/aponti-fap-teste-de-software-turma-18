@@ -34,11 +34,15 @@ Documento simples contendo o plano definido para o projeto
 
 # Plano de Testes – Coin Bank
 
-**Organização:** Coin Bank  
-**Versão:** 1.0  
-**Data:** 06/08/2026  
-**Projeto/Produto:** Aplicativo Coin Bank  
-**Responsável:** Equipe de Qualidade (QA)  
+> **Organização:** Coin Bank
+> 
+> **Versão:** 1.0
+> 
+> **Data:** 06/08/2026
+> 
+> **Projeto/Produto:** Aplicativo Coin Bank
+> 
+> **Responsável:** Equipe de Qualidade (QA)  
 
 ---
 
