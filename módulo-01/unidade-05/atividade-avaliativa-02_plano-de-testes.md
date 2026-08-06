@@ -282,6 +282,11 @@ Serão utilizados:
 
 ---
 
+## Referências
+- [Exemplo de modelo de plano de testes](https://www.guru99.com/pt/test-plan-for-project.html)
+
+---
+
 <div align="center">
 
 Dia 06 de Agosto de 2026
