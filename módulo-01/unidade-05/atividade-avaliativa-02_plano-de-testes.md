@@ -265,7 +265,7 @@ Serão utilizados:
 
 ---
 
-## 5. :book: Termos/Acrônimos
+## :book: 5. Termos/Acrônimos
 
 | Termo | Significado |
 | :--- | :--- |
