@@ -1,4 +1,7 @@
-# Gherkin
+  <div align="center">
+    
+  # Gherkin
+  </div>
 
 <details>
 
@@ -21,4 +24,10 @@ Checklist mental ao escrever Gherkin
 
 ---
 
-# 
+#
+
+---
+
+  <div align="center">
+    31/08/2026
+  </div>
