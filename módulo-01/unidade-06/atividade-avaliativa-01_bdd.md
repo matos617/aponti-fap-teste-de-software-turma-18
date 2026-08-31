@@ -27,8 +27,7 @@ Escreva testes para uma funcionalidade de sua escolha no seu projeto
   **Quero** criar novos perfis de usuário
   
   **Para** definir diferentes permissões de acesso ao sistema
-
-
+<br>
 ### Cenário: Criar um novo perfil com sucesso
   **Dado** que o administrador está autenticado no sistema
   
@@ -43,8 +42,7 @@ Escreva testes para uma funcionalidade de sua escolha no seu projeto
   **Então** o perfil deve ser criado com sucesso
   
   **E** deve ser exibido na lista de perfis cadastrados
-
-
+<br>
 ### Cenário: Tentar criar um perfil sem informações obrigatórias
   **Dado** que o administrador está autenticado no sistema
   
