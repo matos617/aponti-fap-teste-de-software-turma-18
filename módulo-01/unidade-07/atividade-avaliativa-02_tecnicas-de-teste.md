@@ -136,10 +136,10 @@ Na funcionalidade **Perfis e Permissões**, podem ser identificados os seguintes
 
 **Perfil inexistente → Cadastro realizado → Perfil ativo**
 
-| Item                   | Descrição                                                           |
-| ---------------------- | ------------------------------------------------------------------- |
-| **Entrada/Ação**       | Administrador cadastra um novo perfil com informações válidas       |
-| **Técnica utilizada**  | Estados e Transições                                                |
+| Item | Descrição |
+| --- | --- |
+| **Entrada/Ação** | Administrador cadastra um novo perfil com informações válidas |
+| **Técnica utilizada** | Estados e Transições |
 | **Resultado esperado** | O sistema deve criar o perfil e disponibilizá-lo na lista de perfis |
 
 <br>
