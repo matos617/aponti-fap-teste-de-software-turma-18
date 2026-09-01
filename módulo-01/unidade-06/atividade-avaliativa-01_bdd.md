@@ -19,9 +19,7 @@ Escreva testes para uma funcionalidade de sua escolha no seu projeto
 
 ---
 
-## Criar um perfil
-
-### Funcionalidade: Criar Perfil
+## Funcionalidade: Criar Perfil
   **Como** administrador do sistema
   
   **Quero** criar novos perfis de usuário
