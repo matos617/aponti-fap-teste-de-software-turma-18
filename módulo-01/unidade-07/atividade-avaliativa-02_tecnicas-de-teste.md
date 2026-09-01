@@ -1,4 +1,7 @@
+<div align="center">
+
 # Técnicas de Teste
+</div>
 
 <details>
 
