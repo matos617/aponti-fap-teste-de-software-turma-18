@@ -35,7 +35,7 @@ Escreva testes para uma funcionalidade de sua escolha no seu projeto
   
   **E** acessou a funcionalidade "Perfis e Permissões"
   
-  Quando cadastrar um novo perfil com dados válidos
+  **Quando** cadastrar um novo perfil com dados válidos
   
   **E** definir as permissões do perfil
   
