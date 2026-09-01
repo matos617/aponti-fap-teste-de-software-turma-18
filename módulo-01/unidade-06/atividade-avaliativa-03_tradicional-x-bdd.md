@@ -32,6 +32,7 @@ O administrador deve estar autenticado no sistema e acessar a funcionalidade Per
 | 4	| Definir as permissões de acesso | As permissões devem ser registradas |
 | 5	| Salvar o cadastro |	O perfil deve ser criado com sucesso e ficar disponível no sistema |
 
+<br>
 
 ## Gherkin
 
@@ -44,3 +45,22 @@ Cenário: Cadastro de um novo perfil com sucesso
   Então o sistema deve cadastrar o novo perfil com sucesso
   E o perfil deve ficar disponível para utilização no sistema
 ```
+
+<br>
+
+## Respostas
+
+### Qual o formato mais fácil de escrever?
+O mais fácil é o comportamental (BDD), pois ele já explica o comportamento esperado da ação do que trazer o passo a passo detalhado e cheio sobre onde clicar.
+
+### Qual comunica melhor o comportamento?
+O BDD/Gherkin, pois é resumido, fácil de entender pela comunicação rápida e eficiente entre reuniões, pois já comunica como foi o comportamento do teste ou o que deveria ser, como não deveria, etc., com uma lógica já embutida para entender e quem lê já entenderá como.
+
+### Qual seria mais fácil de manter?
+O BDD/Ghenkir, por mais que o Tradicional seja bom para rescrever os passos ou demonstrar algo muito mais complicado de reproduzir.
+
+---
+
+  <div align="center">
+    31/08/2026
+  </div>
