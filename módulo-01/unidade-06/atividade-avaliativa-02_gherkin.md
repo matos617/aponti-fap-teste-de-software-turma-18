@@ -28,9 +28,7 @@ Checklist mental ao escrever Gherkin
   Funcionalidade: Criar perfil de usuário
 
   Como administrador do sistema
-
   Quero cadastrar novos perfis de usuário
-  
   Para definir diferentes níveis de acesso e permissões no sistema
 ```
 
@@ -38,6 +36,7 @@ Checklist mental ao escrever Gherkin
 
 ```gherkin
   Cenário: Cadastro de um novo perfil com sucesso
+
   Dado que o administrador está na funcionalidade de Perfis e Permissões
   Quando o administrador cadastra um novo perfil com informações válidas
   E define as permissões de acesso do perfil
@@ -47,16 +46,15 @@ Checklist mental ao escrever Gherkin
 
 <br>
 
-### Cenário: Tentativa de cadastro de perfil sem informações obrigatórias
-  **Dado** que o administrador está na funcionalidade de Perfis e Permissões
-  
-  **Quando** o administrador tenta cadastrar um novo perfil sem preencher as informações obrigatórias
-  
-  **Mas** solicita o salvamento do cadastro
-  
-  **Então** o sistema não deve cadastrar o perfil
-  
-  **E** deve informar que existem informações obrigatórias não preenchidas
+```gherkin
+  Cenário: Tentativa de cadastro de perfil sem informações obrigatórias
+
+  Dado que o administrador está na funcionalidade de Perfis e Permissões
+  Quando o administrador tenta cadastrar um novo perfil sem preencher as informações obrigatórias
+  Mas solicita o salvamento do cadastro
+  Então o sistema não deve cadastrar o perfil
+  E deve informar que existem informações obrigatórias não preenchidas
+```
 
 ---
 
