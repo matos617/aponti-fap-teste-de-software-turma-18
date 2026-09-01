@@ -32,9 +32,7 @@ Aplicar as técnicas de **Análise de Valor Limite**, **Particionamento de Equiv
 ## 1. Casos de Teste – Valor Limite
 Verifica o comportamento do sistema nos limites mínimo e máximo aceitos para determinada entrada.
 
-> **Observação:** o sistema não informa os limites dos campos;
-
----
+<br>
 
 ### CT-VL-01 – Cadastro de perfil com quantidade mínima de caracteres
 
@@ -52,7 +50,7 @@ Verifica o comportamento do sistema nos limites mínimo e máximo aceitos para d
 
 O valor abaixo do limite deve ser rejeitado e o valor mínimo aceito.
 
----
+<br>
 
 ### CT-VL-02 – Cadastro de perfil com quantidade máxima de caracteres
 
@@ -67,7 +65,7 @@ O valor abaixo do limite deve ser rejeitado e o valor mínimo aceito.
 * 50 caracteres;
 * 51 caracteres.
 
----
+<br>
 
 ### CT-VL-03 – Limite de permissões atribuídas ao perfil
 
@@ -89,7 +87,7 @@ Exemplo de situações:
 
 A técnica de **Particionamento de Equivalência** divide as entradas em grupos que devem apresentar comportamentos semelhantes.
 
----
+<br>
 
 ### CT-PE-01 – Cadastro de perfil com nome válido
 
@@ -100,7 +98,7 @@ A técnica de **Particionamento de Equivalência** divide as entradas em grupos 
 | **Classe de equivalência** | Entrada válida |
 | **Resultado esperado** | O sistema deve permitir o cadastro do perfil com sucesso |
 
----
+<br>
 
 ### CT-PE-02 – Cadastro de perfil sem nome
 
@@ -111,7 +109,7 @@ A técnica de **Particionamento de Equivalência** divide as entradas em grupos 
 | **Classe de equivalência** | Entrada inválida |
 | **Resultado esperado** | O sistema não deve permitir o cadastro e deve informar que o preenchimento do campo é obrigatório |
 
----
+<br>
 
 ### CT-PE-03 – Cadastro de perfil com nome inválido
 
@@ -144,7 +142,7 @@ Na funcionalidade **Perfis e Permissões**, podem ser identificados os seguintes
 | **Técnica utilizada**  | Estados e Transições                                                |
 | **Resultado esperado** | O sistema deve criar o perfil e disponibilizá-lo na lista de perfis |
 
----
+<br>
 
 ### Estado 2 – Perfil com acesso permitido → Permissão removida
 
@@ -158,7 +156,7 @@ Na funcionalidade **Perfis e Permissões**, podem ser identificados os seguintes
 | **Técnica utilizada** | Estados e Transições |
 | **Resultado esperado** | O usuário associado ao perfil não deve conseguir acessar a funcionalidade após a atualização das permissões |
 
----
+<br>
 
 ### Estado 3 – Perfil ativo → Perfil excluído
 
