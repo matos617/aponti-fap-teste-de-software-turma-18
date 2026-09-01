@@ -171,3 +171,7 @@ Na funcionalidade **Perfis e Permissões**, podem ser identificados os seguintes
 | **Resultado esperado** | O perfil deve ser removido do sistema e o usuário associado não deve conseguir acessar o sistema utilizando suas credenciais |
 
 ---
+
+<div align="center">
+01/09/2026
+</div>
