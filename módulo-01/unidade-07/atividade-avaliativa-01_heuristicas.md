@@ -152,7 +152,7 @@ A **Heurística de Nielsen, Visibilidade do Status do Sistema**, foi aplicada po
 ## 5. Conclusão
 O sistema remove o registro da interface administrativa, dando a entender que a exclusão foi concluída. Entretanto, o usuário associado ao perfil continua conseguindo acessar o sistema normalmente utilizando suas credenciais.
 
-Portanto, a principal falha identificada está na inconsistência entre a exclusão apresentada visualmente e o comportamento real do sistema.
+A principal falha identificada está na inconsistência entre a exclusão apresentada visualmente e o comportamento do sistema.
 
 A área que merece maior atenção é a integração entre o módulo **Perfis e Permissões**, o processo de exclusão do cadastro e o sistema de **autenticação**, porque a exclusão não está sendo refletida corretamente em todas as partes da aplicação.
 
