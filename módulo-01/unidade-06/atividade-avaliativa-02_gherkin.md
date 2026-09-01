@@ -39,13 +39,9 @@ Checklist mental ao escrever Gherkin
 ```gherkin
   Cenário: Cadastro de um novo perfil com sucesso
   Dado que o administrador está na funcionalidade de Perfis e Permissões
-  
   Quando o administrador cadastra um novo perfil com informações válidas
-  
   E define as permissões de acesso do perfil
-  
   Então o sistema deve cadastrar o novo perfil com sucesso
-  
   E o perfil deve ficar disponível para utilização no sistema
 ```
 
