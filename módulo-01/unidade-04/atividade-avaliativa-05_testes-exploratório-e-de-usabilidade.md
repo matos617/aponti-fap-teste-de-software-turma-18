@@ -48,8 +48,6 @@ O sistema possui uma grande quantidade de funcionalidades no menu lateral, como 
 
 O usuário pode ter dificuldade para localizar rapidamente uma funcionalidade específica, especialmente quem está utilizando o sistema pela primeira vez.
 
-<br>
-
 ### 2. Muitos itens exibidos ao mesmo tempo
 
 Grande parte das funcionalidades fica disponível diretamente no menu, deixando a navegação visualmente extensa.
@@ -57,8 +55,6 @@ Grande parte das funcionalidades fica disponível diretamente no menu, deixando 
 #### Impacto no usuário
 
 Pode causar confusão e aumentar o tempo necessário para encontrar determinada funcionalidade.
-
-<br>
 
 ### 3. Falta de destaque entre algumas categorias
 
@@ -68,8 +64,6 @@ As categorias como **Financeiro, Suprimentos e Análises** possuem uma diferenci
 
 O usuário pode não perceber facilmente onde uma categoria começa ou quais funcionalidades pertencem a ela.
 
-<br>
-
 ### 4. Possível dificuldade para visualizar todos os itens
 
 Como existem muitos módulos, especialmente em telas menores, parte do menu pode ficar fora da área visível, exigindo rolagem.
@@ -77,8 +71,6 @@ Como existem muitos módulos, especialmente em telas menores, parte do menu pode
 #### Impacto no usuário
 
 Funcionalidades importantes podem ficar escondidas, dificultando o acesso e tornando a navegação mais lenta.
-
-<br>
 
 ### 5. Dashboard com pouco detalhamento
 
