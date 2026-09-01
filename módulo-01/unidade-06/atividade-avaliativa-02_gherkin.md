@@ -24,26 +24,30 @@ Checklist mental ao escrever Gherkin
 
 ---
 
-## Funcionalidade: Criar perfil de usuário
+```gherkin
+  Funcionalidade: Criar perfil de usuário
 
-  **Como** administrador do sistema
+  Como administrador do sistema
 
-  **Quero** cadastrar novos perfis de usuário
+  Quero cadastrar novos perfis de usuário
   
-  **Para** definir diferentes níveis de acesso e permissões no sistema
+  Para definir diferentes níveis de acesso e permissões no sistema
+```
 
 <br>
 
-### Cenário: Cadastro de um novo perfil com sucesso
-  **Dado** que o administrador está na funcionalidade de Perfis e Permissões
+```gherkin
+  Cenário: Cadastro de um novo perfil com sucesso
+  Dado que o administrador está na funcionalidade de Perfis e Permissões
   
-  **Quando** o administrador cadastra um novo perfil com informações válidas
+  Quando o administrador cadastra um novo perfil com informações válidas
   
-  **E** define as permissões de acesso do perfil
+  E define as permissões de acesso do perfil
   
-  **Então** o sistema deve cadastrar o novo perfil com sucesso
+  Então o sistema deve cadastrar o novo perfil com sucesso
   
-  **E** o perfil deve ficar disponível para utilização no sistema
+  E o perfil deve ficar disponível para utilização no sistema
+```
 
 <br>
 
