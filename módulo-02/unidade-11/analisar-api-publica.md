@@ -33,7 +33,7 @@ Esse endpoint serve para buscar uma lista de usuários que estão cadastrados no
 x-api-key: SUA_API_KEY
 ```
 
-O ReqRes atualmente exige uma chave de API (`x-api-key`) para as chamadas da API. A documentação oficial também utiliza esse header nos exemplos de `GET /api/users`.
+Hoje em dia o ReqRes exige uma chave de API (`x-api-key`) para as chamadas da API. A documentação oficial também utiliza esse header nos exemplos de `GET /api/users`.
 
 **Body:**
 
