@@ -151,12 +151,6 @@ A resposta retorna novamente os dados enviados e acrescenta informações gerada
 | `/api/users?page=2` | GET    | Consultar usuários | N/A  | `200 OK`        |
 | `/api/users`        | POST   | Criar usuário      | JSON | `201 Created`   |
 
-## Conclusão
-
-A análise dos dois endpoints permite compreender o contrato básico de comunicação entre cliente e servidor.
-
-No `GET /api/users`, o cliente envia uma solicitação de leitura e recebe uma lista de usuários, juntamente com informações de paginação.
-
-No `POST /api/users`, o cliente envia um objeto JSON contendo os dados do novo usuário. O servidor processa a solicitação e retorna os dados enviados junto de informações geradas no processo de criação, como o identificador e a data de criação.
-
-Esses dois endpoints permitem compreender conceitos fundamentais que serão utilizados posteriormente na automação de testes de API, como método HTTP, URL, headers, body, status code e payload de resposta.
+<div align="center">
+22/09/2026
+</div>
