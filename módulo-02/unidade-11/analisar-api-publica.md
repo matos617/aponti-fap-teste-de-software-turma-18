@@ -13,7 +13,7 @@
 
 **Objetivo de Negócio:**
 
-Essa chamada permite consultar uma lista de usuários cadastrados no sistema. Em um sistema real, poderia ser utilizada para exibir usuários em uma tela administrativa, consultar registros ou carregar dados para outras operações.
+Esse endpoint serve para buscar uma lista de usuários que estão cadastrados no sistema. Pensando em um cenário real, ele poderia ser usado, por exemplo, para montar aquela tela de administração onde o pessoal do time consulta os usuários cadastrados, ou então para carregar dados que vão alimentar outras operações.
 
 ---
 
