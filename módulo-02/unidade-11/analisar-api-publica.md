@@ -2,7 +2,6 @@
   
   # Analisar uma API pública fornecida
 </div>
----
 
 # Análise da API ReqRes
 
