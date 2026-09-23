@@ -73,9 +73,9 @@ Um exemplo de resposta documentado pelo ReqRes é:
 
 A resposta contém informações de paginação, como `page`, `per_page`, `total` e `total_pages`, além da lista de usuários dentro do campo `data`. O status esperado para a consulta é `200 OK`.
 
-# 2. Endpoint POST - Criar usuário
+## 2. Endpoint POST - Criar usuário
 
-## 2.1 Identificação e Finalidade
+### 2.1 Identificação e Finalidade
 
 **Endpoint/Rota:**
 
@@ -87,7 +87,7 @@ Essa chamada permite enviar os dados necessários para criar um novo usuário. E
 
 ---
 
-## 2.2 Estrutura do Request
+### 2.2 Estrutura do Request
 
 **Método HTTP:**
 
@@ -119,7 +119,7 @@ O endpoint utiliza os campos `name` e `job` no corpo da requisição para repres
 
 ---
 
-## 2.3 Estrutura do Response
+### 2.3 Estrutura do Response
 
 **Status Code Esperado:**
 
@@ -144,7 +144,7 @@ A resposta retorna novamente os dados enviados e acrescenta informações gerada
 
 ---
 
-# 3. Resumo do Contrato de Integração
+## 3. Resumo do Contrato de Integração
 
 | Endpoint            | Método | Finalidade         | Body | Status esperado |
 | ------------------- | ------ | ------------------ | ---- | --------------- |
