@@ -1,9 +1,7 @@
 <div align="center">
   
-  # Analisar uma API pública fornecida
+  # Análise da API ReqRes
 </div>
-
-# Análise da API ReqRes
 
 ## 1. Endpoint GET - Listar usuários
 
