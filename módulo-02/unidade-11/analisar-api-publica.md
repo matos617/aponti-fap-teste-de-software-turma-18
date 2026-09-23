@@ -151,6 +151,8 @@ A resposta retorna novamente os dados enviados e acrescenta informações gerada
 | `/api/users?page=2` | GET    | Consultar usuários | N/A  | `200 OK`        |
 | `/api/users`        | POST   | Criar usuário      | JSON | `201 Created`   |
 
+---
+
 <div align="center">
 22/09/2026
 </div>
