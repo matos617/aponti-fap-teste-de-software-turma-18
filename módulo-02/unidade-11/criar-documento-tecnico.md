@@ -17,7 +17,7 @@ Criar um documento técnico contendo:
 </details>
 
 
-## Diferença entre 
+## Diferença entre  PUT, PATCH e DELETE
 
 
 ---
