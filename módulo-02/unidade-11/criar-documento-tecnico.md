@@ -19,6 +19,12 @@ Criar um documento técnico contendo:
 
 ## Diferença entre  PUT, PATCH e DELETE
 
+---
+
+## Fontes
+- [Métodos HTTP REQUEST - GET, POST, PUT, PATCH, DELETE. (Um passo a passo com JavaScript's Fetch API)
+](https://ichi.nghiatu.com/pt/metodos-http-request-get-post-put-patch-delete-um-passo-a-passo-com-javascript-s-fetch-api-250115341607584)
+
 
 ---
 
