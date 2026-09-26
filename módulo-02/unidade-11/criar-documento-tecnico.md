@@ -65,9 +65,8 @@ São os métodos HTTP mais comuns para modificar uma API.
 
 ### Exemplo de cadastro de usuário
 
-{
 ```json
-
+{
   "id": 123,
   "nome": "Natan",
   "email": "natan@example.com",
