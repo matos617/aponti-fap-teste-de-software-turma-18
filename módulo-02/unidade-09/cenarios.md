@@ -8,7 +8,7 @@
 ## 2. Cenários
 
 | # | Cenário | Decisão | Justificativa |
-|---|---------|---------|---------------|
+| --- | --- | --- | --- |
 | 1 | Login com usuário válido | Manual | Login com usuário válido para saber se o sistema entra corretamenge com a conta logada |
 | 2 | Compra de produto | Automatizar | Etapa para verificar se o ciclo de compra dos produtos ocorre normalmente, verificando se todos os produtos respondem a compra |
 | 3 | Uso do filtro por categoria | Automatizar | Usar cada rótulo de categoria no filtro para encontrar os produtos certos |
@@ -18,12 +18,11 @@
 | 7 | Remover produto do carrinho | Manual | Explorar diferentes situações, como remover o único produto ou retirar um item de um carrinho com vários produtos. |
 | 8 | Cadastro de novo usuário | Manual | Permitir manualmente explorar campos obrigatórios, dados inválidos e mensagens de erro, avaliando também a clareza das orientações apresentadas ao usuário durante o cadastro |
 
+
 ## 3. Pirâmide de testes
 
 | Nível | Tipo de teste | Quantidade | Exemplo de cenário |
-|-------|---------------|-----------|--------------------|
-| Topo | E2E / UI | Poucos | ... |
-| Meio | Integração / API | Alguns | ... |
-| Base | Unitário | Muitos | ... |
-
-## 4. Conclusão
+| --- | --- | --- | --- |
+| Topo | E2E / UI | Poucos | Automatização do fluxo completo de compra, desde a seleção do produto até a confirmação do pedido |
+| Meio | Integração / API | Alguns | Verificar se API retorna os dados corretos dos produtos e se as operações relacionadas ao carrinho funcionam adequadamente |
+| Base | Unitário | Muitos | Testa as funções de cálculo de total do carrinho, validação de preços e cálculo de quantidades |
