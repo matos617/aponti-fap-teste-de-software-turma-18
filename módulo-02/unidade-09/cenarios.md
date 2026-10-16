@@ -1,4 +1,7 @@
+<div align="center">
+
 # Cenários de automação: Practice Software Testing (Toolshop)
+</div>
 
 ## 1. Sistema escolhido
 - **Sistema:** [Practice Software Testing - ToolShop](https://practicesoftwaretesting.com)
@@ -26,3 +29,9 @@
 | Topo | E2E / UI | Poucos | Automatização do fluxo completo de compra, desde a seleção do produto até a confirmação do pedido |
 | Meio | Integração / API | Alguns | Verificar se API retorna os dados corretos dos produtos e se as operações relacionadas ao carrinho funcionam adequadamente |
 | Base | Unitário | Muitos | Testa as funções de cálculo de total do carrinho, validação de preços e cálculo de quantidades |
+
+---
+
+<div align="center">
+15/10/2026
+</div>
