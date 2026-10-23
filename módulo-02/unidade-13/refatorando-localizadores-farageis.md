@@ -10,7 +10,7 @@
 
 Nas boas práticas do Playwright, não se é recomendado o uso de seletores estruturais do CSS para os testes automatizados, isso porquê os elementos da página podem ser reorganizados ou a hierarquia mudar futuramente; designers podem alterar as classes; novas divisões (div) podem ser adicionadas; etc.. 
 
-
+Nesta linha de código, se descreve onde o botão está na estrutura do HTML, e não o que ele é. Dependendo da hierarquia atual; o `nth-child` podendo passar para outro elemento caso o `.form-gourp` ganhar mais um elemento; e as classes genéricas, `.container`, que servem para a estilização.
 ```typescript
 await page.locator('.container .form-group:nth-child(3) button').click();
 ```
