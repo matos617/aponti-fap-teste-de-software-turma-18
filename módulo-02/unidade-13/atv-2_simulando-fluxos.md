@@ -9,13 +9,13 @@
 ---
 
 ```typescript
-// 1. Preencher o campo de busca
+// Preenchimento o campo de busca
 await page.locator('#busca').fill('Notebook');
 
-// 2. Selecionar a opção no dropdown
+// Selecionar a opção no dropdown
 await page.locator('[data-test="filtro-preco"]').selectOption('menor-preco'); // ou await page.getByTestId('filtro-preco').selectOption('menor-preco');
 
-// 3. Clicar no botão de buscar
+// Clicar no botão de buscar
 await page.getByRole('button', { name: 'Buscar' }).click();
 ```
 ---
