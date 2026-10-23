@@ -18,3 +18,8 @@ await page.locator('[data-test="filtro-preco"]').selectOption('menor-preco'); //
 // 3. Clicar no botão de buscar
 await page.getByRole('button', { name: 'Buscar' }).click();
 ```
+---
+
+<div align="center">
+  23/10/2026
+</div>
