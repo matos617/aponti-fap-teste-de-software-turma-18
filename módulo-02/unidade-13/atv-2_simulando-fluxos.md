@@ -5,3 +5,16 @@
 1. Preencha o campo de busca (id: #busca) com o texto "Notebook". (Lembre-se da recomendação sobre usar fill ao invés de type).
 2. Selecione uma opção em um dropdown (menu suspenso) cujo localizador de automação é data-test="filtro-preco". A opção selecionada deve ter o value "menor-preco".
 3. Clique no botão de buscar, utilizando a estratégia semântica getByRole para um botão com o nome "Buscar".
+
+---
+
+```typescript
+// 1. Preencher o campo de busca
+await page.locator('#busca').fill('Notebook');
+
+// 2. Selecionar a opção no dropdown
+await page.locator('[data-test="filtro-preco"]').selectOption('menor-preco'); // ou await page.getByTestId('filtro-preco').selectOption('menor-preco');
+
+// 3. Clicar no botão de buscar
+await page.getByRole('button', { name: 'Buscar' }).click();
+```
