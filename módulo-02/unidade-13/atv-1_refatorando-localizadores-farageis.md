@@ -27,7 +27,6 @@ A recomendação do Playwright é usar os localizadores voltados ao usuário:
 
 Mas a prática mais robusta é localizar o elemento por um atributo dedicado a testes (como `data-test` ou `data-testid`), que é estável e independente de estilo, posição ou texto.
 
-## Reescrição de código
 Com o atributo data-test="btn-enviar" no botão no HTML, a funcionalidade tem um ID próprio para usar em testes:
 ```typescript
 await page.locator('[data-test="btn-enviar"]').click();
