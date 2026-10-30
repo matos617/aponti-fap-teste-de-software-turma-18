@@ -5,4 +5,38 @@
 
 ---
 
-## O que significa refatorar o código de um teste
+## O que significa refatorar o código de um teste?
+Refatorar é melhorar a estrutura interna do código sem alterar o comportamento que ele verifica. O teste continua validando exatamente a mesma funcionalidade, mas fica mais legível, menos repetitivo e mais fácil de se manter.
+
+## Princípio DRY (Don’t Repeat Yourself)
+DRY significa “não se repita”: cada pedaço de conhecimento (um passo de login, uma URL, um seletor, um dado de teste) deve existir em um único lugar.
+
+Se um mesmo trecho está copiado em vários testes, qualquer mudança na aplicação obriga em corrigir todos eles e esquecer um deixa um teste quebrado.
+
+## Práticas de organização
+### 1. Funções helper: Extraem passos repetidos para uma função reutilizável.
+
+Sem o helper, você tem que escrever os mesmos passos em vários testes:
+```typescript
+await page.getByLabel('E-mail').fill('admin@teste.com');
+await page.getByLabel('Senha').fill('123456');
+await page.getByRole('button', { name: 'Entrar' }).click();
+```
+
+Com o helper, o teste fica mais limpo pois você importa do Helper. Se a tela de login mudar, só o helper precisa ser atualizado:
+```typescript
+// helpers/auth.ts
+import { Page } from '@playwright/test';
+
+export async function fazerLogin(page: Page, email: string, senha: string) {
+  await page.getByLabel('E-mail').fill(email);
+  await page.getByLabel('Senha').fill(senha);
+  await page.getByRole('button', { name: 'Entrar' }).click();
+}
+
+// no teste:
+await fazerLogin(page, 'admin@teste.com', '123456');
+```
+
+### 2. beforeEach para preparar o estado
+`beforeEach` (antes de cada) prepara o estado inicial antes de cada teste, sem repetir o setup dentro de cada test:
