@@ -39,4 +39,4 @@ await fazerLogin(page, 'admin@teste.com', '123456');
 ```
 
 ### 2. beforeEach para preparar o estado
-`beforeEach` (antes de cada) prepara o estado inicial antes de cada teste, sem repetir o setup dentro de cada test:
+`beforeEach` executa código antes de cada teste do grupo, sem repetir o setup dentro, para inicializar o ambiente sem afetar os outros testes que não utilizam essa função, tornando-as mais independentes entre si.
